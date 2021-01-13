@@ -1,0 +1,254 @@
+Cross-Realm Battlegrounds 
+For the first time in the history of World of Warcraft, you will be able to face off against players from other realms in the Battlegrounds. PvP Battlegrounds link Alterac Valley, Warsong Gulch, and Arathi Basin so that players from several realms will be combined into one huge matchmaking pool. Replenish your mana, sharpen your blades, and get ready for some brand-new challengers!
+
+World PvP 
+The stage is set for intense, objective-based land battles as Horde and Alliance vie for control over important strategic positions and resources around Azeroth. Head out for Silithus and Eastern Plaguelands to engage the enemy on the field!
+
+Details 
+General 
+Threat Reduction Effects
+This system has been redesigned to eliminate inconsistency in how the effects work. Previously, some were additive (for example: 30% reduction + 20% reduction = 50% reduction) while others were multiplicative (30% reduction and 20% reduction made 44% reduction, from 0.7*0.8). They are now all multiplicative. This also prevents unpredictable behavior when the total reduction percentage was equal to or greater than 100%. Please note that in almost all cases, when stacking multiple threat reduction effects you will experience less threat reduction than previously.
+Haste and Slow effects
+Previously Haste and Slow effects worked inconsistently, with spells working differently from weapons, and hastes and slows not acting as inverses of each other. We have revised the system so that all haste and slow effects work the same way, and haste and slow percentages of the same magnitude perfectly cancel each other out (30% haste and 30% slow combine to no change). As a result, we had to change the tooltip numbers on all spell haste effects, and on all melee and range slow effects. The numbers in the tooltips are different, but the game functionality is unchanged (other than slight rounding errors). Those tooltips that changed will now display larger numbers than they used to display. Conceptually, haste values indicate how much more of that activity you can perform in a given time. 30% melee haste means 30% more swings in a given time. Slow values indicate how much longer an activity takes to complete. 30% slow means an action takes 30% longer to finish.
+The deserter debuff will now continue to expire even while you are offline.
+Honorable Kills now diminish at a rate 10% per kill rather than 25% per kill.
+Temporary item buffs (e.g. poisons, sharpening stones and shaman weapon buffs) will no longer persist through zoning or logging out due to technical issues. This feature is anticipated to be activated once more with the expansion.
+Druids 
+Barkskin: The tooltip has been changed to 25% due to the haste effect change.
+Cat Form: This form now has an innate threat reduction component.
+Ferocious Bite: Book of Ferocious Bite (Rank 5) now drops off The Beast in Blackrock Spire. In addition, Ferocious Bite now increases in potency with greater attack power.
+Furor: This talent now works correctly with Cat Form again.
+Improved Shred: The discounted cost for Shred will now be displayed correctly even when you are not in Cat Form.
+Rip: Lesser potency Rips will no longer overwrite greater potency ones.
+Fixed a bug where the incorrect sound was being played by the Claw attack.
+Hunters 
+Spirit Bond: This ability will now be correctly reapplied when you resurrect in a battleground and your pet is polymorphed or otherwise unable to act normally.
+Improved Concussive Shot: The effect of this talent will now still be placed on the victim if the hunter is killed before their shot reaches the target.
+Growl now correctly initiates combat when used by a pet in passive mode.
+The Ferocity talent now correctly applies to non-physical hunter pet abilities such as Lightning Breath and Thunderstomp.
+If a hunter has tamed one of the following creature types, they will no longer potentially change colors if resummoned:
+Son of Hakkar - Red
+Frenzied Bloodseeker Bat - Brown
+Deep Stinger - Red
+Dark Screecher - Gray
+Cave Creeper - Brown
+Bloodaxe Worg - Black
+Scarshield Worg - Brown
+Mages 
+Arcane Missiles: It is no longer possible to cast this spell on an evading mob. In addition, the animation will now stop when the target is dead.
+Arcane Power: It is no longer possible to gain the benefit of this spell and Power Infusion at the same time by careful timing.
+Frost Armor Chilled effect: Due to the haste effect change, the tooltip has been changed to 25%.
+Ice Armor Chilled effect: Due to the haste effect change, the tooltip has been changed to 25%.
+Ignite: The effect of this talent will now still be placed on the victim if the caster is killed before their spell reaches the target.
+Impact: The effect of this talent will now still be placed on the victim if the caster is killed before their spell reaches the target.
+Frostbite: The effect of this talent will now still be placed on the victim if the caster is killed before their spell reaches the target.
+Polymorph: This spell will now be removed when a player leaves a battleground. This prevents some bugs involving polymorph from occurring.
+Evocation will no longer be usable while silenced.
+Reduced the number of messages that appear in the combat log when using Combustion.
+Winter's Chill: The effect of this talent will now still be placed on the victim if the caster is killed before their spell reaches the target.
+Paladins 
+Divine Shield: Due to the haste effect change, the tooltip has been changed to 100%.
+Priests 
+Mind Control: Due to the haste effect change, the tooltip has been changed to 25%.
+Psychic Scream: This spell now uses the same resistance checks as the Warlock spell Fear.
+Spirit of Redemption: Fixed an issue preventing Twisting Nether from retriggering when the Spirit of Redemption effect runs out.
+Rogues 
+Due to significant talent changes, Rogues will have all talent points refunded and can be re-spent. Training costs for all talent spell replacements have been significantly reduced.
+Vanish now removes effects that allow the caster to always remain aware of their target (currently Hunter's Mark and Mind Vision).
+Pickpocket can now be used on targets that are in combat, as long as the rogue remains stealthed.
+All manner of rogue reagents can be found in locked junkboxes (obtained from pickpocketing).
+Fixed a bug where the Slice and Dice ability wasn't playing an animation.
+Lethargy Root has been removed from poison vendors and is now a gray item.
+Reduced the number of messages in the combat log when using the Vanish ability.
+Fixed a bug that made Combo Points disappear from your target when using Vanish.
+Eviscerate: Manual of Eviscerate (Rank 9) now drops off Blackhand Assassins in Black Rock Spire. In addition, Eviscerate now increases in potency with greater attack power.
+Garrote: The damage from this ability has been increased. In addition, Garrote now increases in potency with greater attack power.
+Relentless Strikes: This ability will no longer trigger when your finishing move does not hit your target.
+Rupture: Rupture now increases in potency with greater attack power.
+Sap: Enemy rogues will now always lose stealth when you Sap them.
+Shaman 
+Reincarnation should now display the cooldown timer when used.
+Chain Heal - After the initial target is healed, the healing effect will jump to the most damaged target (by absolute health) within range. In addition, if a raid member is the initial target it will look for valid raid targets to jump to rather than non-raid targets as a priority, making it consistent with group targeted Chain Heals.
+Lightning Shield: Air Bubble pockets in underwater regions will no longer consume a charge from this spell.
+Warlocks 
+Cripple (Doomguard): Due to haste effect change, the tooltip has been changed to 45%.
+Curse of Tongues: This spell will no longer debuff the target if they are immune to the spellcast slowing effect
+Enslave Demon: Due to haste effect change, the tooltip has been changed to 40%.
+Health Funnel: This spell will now work correctly on low-level enslaved demons.
+Howl of Terror: This spell now uses the same resistance checks as the Warlock spell Fear.
+Siphon Life will now properly gain a benefit from Shadow Mastery.
+A soul shard will be refunded to the caster any time a summoned pet despawns rather than dies.
+Aftermath: The effect of this talent will now still be placed on the victim if the caster is killed before their spell reaches the target.
+Improved Shadow Bolt: The effect of this talent will now still be placed on the victim if the caster is killed before their spell reaches the target.
+Life Tap: This spell now benefits from effects which increase your spell damage. At rank 3 and above, the base amount of health lost and mana gained will increase by 80% of your bonus spell damage effects. Talents and items can further modify those values. Rank 1 and 2 receive reduced effect.
+Warriors 
+Bloodthirst: This ability will now correctly benefit from attack power bonuses versus specific creature types.
+Flurry: The text on the tooltip has been corrected to indicate it triggers on all types of attacks.
+Shield Slam: This ability will sometimes no longer remove more than one beneficial effect from the target.
+Thunderclap: This ability was left at 10% despite the haste effect changes. This means its potency has been reduced slightly.
+Items 
++30 Spell Damage Enchantment: Fixed a bug with this enchantment which was preventing it from benefiting healing spells.
+Blade of Eternal Darkness: The triggered effect from this weapon will no longer occur when the spell being cast has its effect broken by causing damage.
+Blazefury Medallion: The triggered effect from this item will no longer break Gouge.
+Bonescythe Armor: The Eviscerate bonus will no longer trigger when your Eviscerate does not hit your target.
+Darkmoon Card- Twisting Nether: The dialog for this resurrection will now always reappear after the Spirit of Redemption effect has completed.
+Earthfury Set: The mana refund effect can now only occur once per Healing Wave spell cast.
+Earthshatter Set: The Lightning Shield bonus will now be removed if you lose the set bonus.
+Eye of the Dead: Holy Shock now interacts properly with this item.
+Ranged Elemental Damage: Our ranged combat system does not allow a ranged weapon to do a mix of Elemental (Fire, Frost, Arcane, etc.) and Physical damage. Many ranged weapons existed which were listed as doing Elemental damage and did not function properly (the damage was dealt, but was treated as Physical). All of those weapons have been changed to deliver the Elemental damage as a chance on hit effect. Hurricane was previously changed this way in 1.11. The following ranged weapons are also fixed in 1.12: Bow of Searing Arrows, Dwarven Hand Cannon, Heartseeking Crossbow, Dark Iron Rifle, Galgann's Fireblaster, Quillshooter, Shell Launcher Shotgun, Venomstrike, and Verdant Keeper's Aim.
+Talisman of Ascendance: This item will no longer trigger from physical damage effects. In addition, if either of the buffs from the item are canceled, they will both be canceled.
+Talisman of Ascendance: Holy Shock heals will now trigger the effect from this trinket.
+Zandalarian Hero Charm: Item tooltip corrected to match the effect tooltip.
+The Items that summon mounts have been changed in their color/quality. Items that summon normal mounts are now blue (superior)items and items that summon swift mounts are now purple (epic) items.
+Fixed a bug that allowed you to use items which restored health or mana while you were already full health or mana.
+Fixed a bug with the Jom Gabbar trinket which was causing it to trigger a category cooldown for a duration longer than intended.
+Wrath of Cenarius: This item will now trigger from Arcane Missiles.
+Clarified the tooltips for the Stormshroud armor and Kalimdor's Revenge to explain that they deal Nature damage.
+Fixed a bug that caused the Blooddrenched Mask to hide a character's hair.
+Warbear leather now stacks to 20.
+Thunderfury, Blessed Blade of the Windseeker may now be equipped in either hand.
+Argent Shoulders no longer require a righteous orb to make.
+The cooldown timer on transforming Anathema and Benediction may no longer be circumvented by zoning or logging out.
+Professions 
+Engineering: The damage from sapper charges can now be resisted. The overall DPS of the charges should not be significantly altered from what it currently is.
+Engineering: Explosive sheep do fire damage instead of physical damage.
+Goblin Land Mines and Compact Harvest Reapers will no longer lock out using other engineering devices until the land mine/reaper dies. Harvest Reaper was given a 10 min self cooldown to prevent too many reapers from being summoned at once.
+Raids and Dungeons 
+Uldaman 
+Reduced the number of Shadowforge Ambushers that attack after looting the quest chest.
+Shadowforge Ambushers are no longer elite.
+The respawn of the Stone Stewards has been changed to 2 hours (from 30 minutes).
+Zul'Farrak 
+The respawn of the 2 Troll/1 Basilisk patrollers should now be 2 hours.
+Reduced the damage dealt by the Sul'lithuz Abomination and Sul'lithuz Sandcrawler.
+Zul'Farrak Dead Heroes are no longer elites.
+Theka the Martyr will now only remain immune to physical damage for 30 seconds before reverting to normal.
+Antu'sul's Sul'lithuz Broodlings now only hatch 4 at a time and are significantly weaker.
+Witch Doctor Zum'rah will no longer call as many Zul'Farrak Zombies to his aid when aggroed.
+Weegli Blastfuse now has slightly more hit points.
+Antu'sul's Warden no longer attempts to knock adventurers into Antu'sul's lair.
+Sandfury Cretins who engage the party during the pyramid event are no longer able to cast shadow bolt.
+Maraudon 
+Noxxious Scions will no longer spawn when you cleanse Celebrian Vines.
+Ahn'Qiraj 
+Lieutenant General Andorov's Aura of Command should no longer generate threat. This will hopefully prevent him from pulling aggro on the entire wave, leading to his untimely death.
+Hive'Zara Hatchlings can now swim.
+Egg Explosion will no longer burn charges from spells such as Lightning Shield.
+It should no longer be possible for Emperor Vek'lor and Vek'nilash to Unbalancing Strike or Arcane Burst immediately after a teleport.
+User Interface 
+V key functionality has been improved in several ways.
+V key now shows summoned monsters (such as the gargoyles in Stratholme.)
+V key now shows both monsters and player enemies.
+V now shows enemies only (no longer shows friendly targets.)
+Shift-V now shows friendly targets only, not enemies (with a new bindable hotkey.)
+Control-V shows both friendly targets and enemy targets (with a new bindable hotkey.)
+New floating combat text has been added to the game with a number of options. You can see when you take damage, when you are healed and how much, when you acquire and lose auras and much more. You can turn on the new options in the newly revised options screen.
+There is now an option to turn on the display of your own name above your head. You can find the option in the interface options screen.
+The Need Before Greed and Group Loot countdown timers will now have a 3 minute countdown when there is a bind on acquire item on the corpse. This should allow a bit more time in making a decision to roll for an item.
+Automatic Quest Tracking has been added to the game and is turned on by default. Any time you advance a quest by advancing one of the requirements, the quest information will appear on your screen for 5 minutes before fading. You can turn this option off from the options screen.
+The options screen has be redone and expanded due to space required for additional options. Also the location of various options has been changed in the options screen. They should make more sense now, though they will not be in quite the place you remember them being.
+There is now a confirmation dialogue when you attempt to disband your guild.
+When you destroy a superior quality (blue) or better item, you will get a dialogue that has you confirm deletion of that item.
+Raid Pullout frames are now created on demand and will not take up any memory if you are not using them.
+The player inspect range has been increased to 10 yards.
+New API Functions
+Add-ons can send hidden chat messages to players in the party, raid or guild, using SendAddonMessage("prefix", "message", "PARTY"|"RAID"|"GUILD"|"BATTLEGROUND"). When players receive these messages, a new event "CHAT_MSG_ADDON" is sent, with arg1-arg3 being the parameters to SendAddonMessage(), and arg4 being the name of the player that sent it. The combined length of "prefix" and "message" must be less than or equal to 254 bytes.
+Added UnitPlayerOrPetInParty() and UnitPlayerOrPetInRaid().
+Bug Fixes 
+Fixed a bug that caused some non-combat pets to be referred to as Minions instead of Pets. Mini Diablo however has escaped this fate and will continue to be referred to as a Minion.
+Fixed a bug that was causing Ice Block to trigger a 5 minute cooldown on the Gnomish Cloaking Device.
+Summon Dreadsteed no longer briefly puts you into combat.
+Chain-targeted abilities cast by creatures no longer hit stealthed or invisible players.
+Will of the Forsaken is no longer gray on the action bar while you are charmed.
+Fixed a bug where large amounts of damage could go negative.
+Non-combat pets are no longer affected by environmental damage.
+The dressing room window will remain open and functional while zoning.
+Fixed a bug allowing linked combat groups to be split when pathing fails.
+Soul Link will persist across instance boundaries.
+Item bonuses, buffs, and enchants will no longer be lost when swapping an equipped item with another equipped item.
+Stats will no longer fluctuate when putting points into stat improving talents.
+Devouring Plague will continue to heal the caster after the target is Mind Controlled.
+Using /assist on a Mind Controlled target works properly now.
+Recasting Feed Pet while using Feed Pet will reset the duration of the cast.
+Activating passive pet abilities while targeting an opposite faction player will no longer aggro neutral town guards.
+If a Hunter is unflagged for PvP, an enemy faction rogue won't be able to disarm his trap.
+Fixed a bug causing the floating combat text from a killing blow to be delayed until another unit is attacked.
+Text with a scroll bar should no longer get clipped while in windowed mode.
+Heals from spells such as Frenzied Regeneration will no longer close the loot window.
+Casting a spell while a loot window containing a disenchantment is open will autoloot the item.
+Pet spells can now be toggled in the pet spell book.
+Grand Widow Faerlina's Rain of Fire no longer damages players outside the area of effect.
+Players can no longer drop from combat by repeatedly placing their pet into passive mode.
+World Environment 
+Cities 
+Neutral guards are now able to see through the rogue Vanish ability.
+Silithus 
+Tortured Druids and Sentinels will now call only one Hive'Ashi drone on death.
+Mac 
+Added support for controlling iTunes from within World of Warcraft. You can bind a set of keys for play/pause, next track, back track and volume up and down.
+Undocumented Changes 
+Note: as compared to the test realm patch notes
+Source: http://forums.worldofwarcraft.com/thread.aspx?fn=wow-realm-test&t=304238
+
+
+Battlegrounds 
+In order to whisper a player from another server in your battleground you must append "-Servername" to the end of their name. These whispers will not show up on your screen, but will show up on theirs.
+Conjured items are the only type of items that can be traded to players from another server (anything else will give an error message).
+When you join a battleground, you are automatically added to a raid group. You MAY NOT leave that group. To speak in this raid, use /bg instead of /ra.
+Leadership of the battleground raid is granted to whomever has the highest PvP rank when the raid is formed (approximately 1 minute before the battleground starts).
+You may be in a battleground group and a regular group at once, but the battleground group will be the one you see in the party frame as well as the raid tab.
+The mini-battlemap in will reopen automatically if closed. (This is likely a bug)
+World PvP 
+Silithus and Eastern Plaguelands both now have battlemaps like battlegrounds do.
+Honor System 
+Nethaera (Blizzard Poster)
+
+The curve has been adjusted to allow more people into the ranks. No, I can't give specific details on how many where but it should help at least for now.
+Rogue 
+Ruthlessness still appears as a Improved Relentless Strikes pre-req but this is just a graphic bug.
+Murder is now only increased damage to Humanoids but by 2/4% instead of 1/2%. (This is a bug [1])
+Expose Armor is now a non-ranked ability and the armor reductions are by % ([2] -- Can someone test whether this still replaces sunder armor or if it now stacks?) -- TESTED: Expose Armor not stacking with and still replaces sunder armor.
+Hunter 
+Solenor the Slayer's Soul Flame buff can now be correctly removed.
+
+Warlock 
+Succubus and Voidwalker now speak when summoned.
+The trick of Demonology specced Warlock Engineers using Jumper Cables to resurrect a pet that's been Demonic Sacrificed, thereby giving both buffs, has been removed. The buff from Demonic Sacrifice now vanishes whenever you have a pet active regardless of how that pet got (back) into the world.
+Items 
+The eating/drinking buffs are removed once you reach full hp or mana. This has the unfortunate side effect of making you unable to get the food buffs that require you to eat for 15 seconds if you are at full hp. This is probably somewhat bugged. (This is a bug [3])
+Interface 
+The interface options dialog is now full-screen and opaque meaning it can no longer be used while moving.
+Raid boss emotes are now shown in center of screen like a warning.
+Target of Target can be set to show/hide depending on if you're in a group/raid or not.
+API Changes 
+From 1. Upcoming 1.12 changes - Concise List | 7/11/2006 6:33:26 PM PDT by Iriel:
+
+This is a consolidated list of the announced (and sometimes observed) changes in the User Interface API's and functionality for the 1.12 patch. Please note that this thread is to discuss the upcoming changes and any clarifications or features that are a direct result of those changes, or things which we've been asked to remind slouken of.
+
+IMPORTANT: Off-topic or entirely redundant posts are liable to get deleted. It is however in everyone's best interest to not post them in the first place - We'd rather slouken could spend his time coding us cool things than moderating this thread!
+
+XML 
+Added Color and BorderColor elements to the XML for backdrops.
+Communications 
+There will be a new SendAddonMessage("prefix", "text", "PARTY|RAID|GUILD") method that transmits a 'hidden' message to the appropriate group of recipients as the normal SendChatMessage would have been.
+Messages will be delivered as a new CHAT_MSG_ADDON event, with arg1 the prefix, arg2 message, arg3 the distribution type ("PARTY","RAID", "GUILD", "BATTLEGROUND"), and arg4 the sender.
+The combined length of message plus prefix can be at most 254 characters. The prefix must not contain a tab character.
+The message will be unaffected by inebriation, but otherwise is subject to normal channel rules (no \n or bad links).
+(RELEASE - Not on PTR) Messages sent to "RAID" when not in a raid will be delivered as if it had been sent as a "PARTY" message.
+(RELEASE - Not on PTR) The "BATTLEGROUND" will also be valid as a destination for use with the auto-raid that's formed in battleground, but only in the release build.
+Using "RAID" or "PARTY" when not in a party or raid sends no message.
+
+Inspect 
+The inspect distance will be approximately double its current value.
+The SetInventoryItem method will also respect the correct interact distance limit.
+Events 
+RAID_ROSTER_UPDATE will not be sent if you're not in a raid when entering the world.
+Unit Functions 
+(RELEASE - Not on PTR) New UnitPlayerOrPetInParty("unit") - Returns 1 if the specified unit is a member of the player's party, or is the pet of a member of the player's party, nil otherwise (Returns 1 for "player" and "pet")
+(RELEASE - Not on PTR) New UnitPlayerOrPetInRaid("unit") - Returns 1 if the specified unit is a member of the player's raid, or is the pet of a member of the player's raid, nil otherwise (Returns 1 for "player" and "pet")
+Bug Fixes 
+"Disable All Addons" will obey the character/all selection.
+Fixed parsing of TOC files that begin with a UTF-8 BOM sequence.
+Fixed :SetHighlightTexture("file") not updating accessible texture object.
+Saved Variables 
+Saved variables that are not defined at the time of saving will be written into the saved variables file as nil values.

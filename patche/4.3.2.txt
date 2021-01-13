@@ -1,0 +1,40 @@
+Classes: General 
+Vengeance is no longer triggered by receiving damage from other players.
+Druids 
+The Tier 13 Balance Druid 4-piece bonus now also increases the damage of Starsurge by 10%, in addition to its current effect.
+Hunters 
+Aspect of the Hawk now grants roughly 35% more attack power.
+Deterrence now also reduces damage taken by 30% while active.
+Black Arrow now ticks every 2 seconds for 20 seconds, as opposed to every 3 seconds for 15 seconds. The total damage dealt by the ability is unchanged.
+Lock and Load no longer benefits Arcane Shot, nor is it consumed by Arcane Shot.
+Mages 
+Fireball damage has been reduced by roughly 6%.
+Pyroblast damage has been reduced by roughly 6%.
+Paladins 
+Holy Radiance now costs 40% of base mana, up from 35%.
+Priests 
+Mass Dispel should again prefer dispelling targets that have magic effects that can be dispelled.
+Rogues 
+Adrenaline Rush no longer triggers a global cooldown.
+Dungeons & Raids 
+You can now form same-faction raids with Real ID friends (US, EU), allowing you to enter Raid Finder in groups larger than 5, run older normal or heroic raids, or participate in Battlegrounds. You will not yet be able to run normal or heroic Dragon Soul with cross-realm raids of Real ID friends (US, EU).
+Several typo fixes and clarified descriptions have been added to the Dungeon Journal entries for Dragon Soul.
+Players can no longer win multiple copies of the same item on a single Raid Finder boss kill. For example, a player who chooses Need on two set piece tokens or two weapons and wins the first, will not be eligible for the second on that particular boss.[4]
+Players no longer benefit from a role-based need bonus on the second of multiple copies of the same item on a single Raid Finder boss kill. For example, a player who chooses Need on two set piece tokens or two weapons (and wins the first) will only automatically roll 1-100 for the second from that particular boss.
+Baradin Hold
+The roaming Eyes of Occu'thar have been replaced by hateful creatures who serve Alizabal.
+Dragon Soul
+Yor’sahj the Unsleeping
+The Shaman spell Unleash Life now properly only triggers Deep Corruption on its target. Previously, this affected both the caster and the target.
+Warmaster Blackhorn
+The visual warning for Twilight Elites' Blade Rush should be easier to see.
+Spine of Deathwing
+Burning Tendons health has been reduced by 15% in 10- and 25-player Heroic mode. This change eases the burst damage requirement to complete the encounter, which should allow players to make use of more varied raid compositions.
+Madness of Deathwing
+The Priest spell Leap of Faith is no longer usable while under the effect of Carrying Winds.
+Items 
+Vial of Shadows damage (Lightning Strike) has been reduced to approximately one-third of previous damage. However, it will now trigger approximately 3 times as often. This is intended to keep overall DPS the same while reducing burst damage, especially in PvP.
+Maw of the Dragonlord can now have its effect triggered by healing from Holy Word: Sanctuary.
+User Interface 
+Fixed a bug that caused the Mature Language Filter to reset on exit.
+A notice is now displayed 15 minutes prior to the player being disconnected by parental controls.

@@ -1,0 +1,51 @@
+General
+The Looking-For-Dungeon / Looking-For-Raid system should now properly assign classes to the roles that are most needed, as long as those roles are selected. It should no longer confine them to Tank/Healer/DPS priority if other roles are in short supply.
+Master looter can no longer assign items in Looking-For-Raid groups to players that are already locked to that boss for the week.
+Players should be unable to trade loot they got from Looking-For-Raid encounters to players that are loot locked to that boss.
+Classes
+Death Knight
+Raise Ghoul, Blood Tap, Empower Rune Weapon, and Army of the Dead no longer benefit from the cooldown reduction and the duration increase from the buff Last Defender of Azeroth.
+Druid
+Druids can no longer cast Barkskin while Hexed.
+Frenzied Regeneration is now correctly healing for 0.30% health for each point of Rage consumed and matches the amount in the tooltip.
+Efflorescence should now correctly heal if the Swiftmended heal is absorbed by effects like Necrotic Strike.
+Priest
+A Priest with Spirit of Redemption who dies as the round is ending in Strand of the Ancients should no longer become permanently stunned for the rest of the game.
+Rogue
+Killing Spree should no longer return a script error when only stealthed targets are nearby.
+Warrior
+Deep Wounds should now only proc from crits, not passive damage.
+Bladestorm will now always grant immunity when it is cast.
+Dungeons & Raids
+Well of Eternity
+Eyes of Peroth'arn should now despawn after the stealth phase.
+During the Mannoroth encounter in the Well of Eternity, players who drop combat via abilities like Vanish and Invisibility should no longer lose the Gift of Sargeras buff.
+Displaced Shadowbats should now properly despawn in all situations.
+Druids are no longer removed from their Shapeshifted form when they gain the Shadowcloak buff.
+Hour of Twilight
+Thrall should no longer be able to be killed in the gauntlet leading up to Archbishop Benedictus.
+Thrall will no longer aggro additional trash packs in the Asira Dawnlayer gauntlet if a player mind controls a mob.
+Dragon Soul
+All bosses in Dragon Soul are now awarding both guild XP and reputation when defeated, in normal and Heroic raid difficulties.
+Hagara
+Ice Walls now move 15% slower on LFR Raid Finderdifficulty
+Ultraxion
+The minimum heal required to activate Essence of Dreams is now 1500, up from 500.
+Spine of Deathwing
+Players should no longer get disconnected once they release their spirit after jumping or falling off Deathwing.
+Madness of Deathwing
+Deathwing now properly slouches down and becomes attackable for phase two.
+Corrupted Deathwing should now cast his spells appropriately when switching between platforms.
+The Madness of Deathwing encounter should will appropriately die, play the end cinematic, spawn his appropriate loot chest, award Valor Points, and despawn when players defeat him.
+Blackrock Caverns
+Raz the Crazed's Furious Swipe should now properly hit enemies.
+Temple of Ahn'Qiraj
+All bosses should again reward the expected amount of Brood of Nozdormu reputation.
+Items
+The Speaking of Rage proc from all three versions of Vishanka, Jaws of the Earth should no longer miss against opponents of any level, regardless of the player's Hit Rating.
+If a player loots a Heart of Flame with a full inventory, the item will be mailed to them.
+Quests and Creatures
+Kilix the Unraveler should no longer offer the deprecated quest "All Things in Good Time".
+Telenus and Kali Remik no longer offer the deprecated quest "Seek the Farstriders".
+Blackhowl Footsoldiers should no longer path under the terrain or path oddly around stairs.
+The Crystalspire Stone Drake will no longer despawn for players who have engaged Zoltrik Drakebane.

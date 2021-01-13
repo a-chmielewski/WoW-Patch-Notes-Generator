@@ -1,0 +1,305 @@
+Racial Traits 
+Racial traits are now available for all races. Each race receives at least 4 traits (several passive and at least one active trait per race). Undead racial traits have changed to be more consistent with the new traits and Undead players are now considered Humanoid targets rather than Undead targets. The following is a full list of traits:
+Dwarf 
+Stoneform: Activate to gain immunity to poison, disease, curse, magic, and bleed effects and reduces all physical damage taken by 10% for 8 sec
+Gun Specialization: Increase Gun Skill
+Frost Resistance: Increase Cold Resistance
+Treasure Finding: Activate to see treasure chests on mini map – lasts until canceled – no cooldown
+Gnome 
+Escape Artist: Activate to break out of a Root or Snare effect
+Expansive Mind: Increase Intelligence
+Arcane Resistance: Increase Arcane Resistance
+Engineering Specialist: Increase skill bonus to Engineering
+Human 
+Perception: Activate to increase stealth detection radius
+The Human Spirit: Increase Spirit
+Diplomacy: Bonus to faction point gain
+Sword Specialization: Increase Sword skill
+Night Elf 
+Shadowmeld: Activate while immobile and out of combat to enter stealth mode
+Quickness: Dodge chance increased
+Wisp Spirit: Become a wisp when dead with movement speed increase
+Nature Resistance: Increase Nature Resistance
+Orc 
+Blood Fury: Activate to increase Strength
+Hardiness: Increase resistance to stun & knockout effects
+Command: Pet melee damage increased
+Axe Specialization: Increase to Axe skill
+Tauren 
+War Stomp: Activate to stun opponents
+Endurance: Max Health increased
+Cultivation: Increase skill bonus to Herbalism
+Nature Resistance: Increase Nature Resistance
+Troll 
+Berserking: Activate when "Wounded" to increase melee & spellcasting speed
+Regeneration: Increase health regen bonus
+Beast Slaying: Increase damage bonus to Beasts
+Throwing Weapon Specialization: Increase Throwing Weapon skill.
+Undead 
+Will of the Forsaken: Activate to become immune to fear, sleep, and charm effects
+Cannibalize: Increase health regeneration while consuming a corpse
+Underwater Breathing: Underwater breath increased
+Shadow Resistance: Increase Shadow Resistance
+New Raid Encounters 
+Rumors of Onyxia, an enormous black dragon, have been heard through out Azeroth. Be sure to bring many brave warriors for she won’t take kindly to intruders in her lair. Both factions will need to complete unique, and challenging quests to gain access to the Onyxia encounter. **During the beta testing there will be a temporary placeholder vendor who sells keys to Onyxia’s lair for testing purposes.
+Discovered in the heart of Blackrock Mountain beyond the Depths, lies the Molten Core. Within the Molten Core lives a multitude of ancient and powerful evil. Adventurers be ware, for the dangers found within the Molten Core are many and takes many forms.
+** Raid loot is being worked on and temporary loot has been placed in raid encounters
+New Kodo mounts! 
+There is but one creature in all of Kalimdor that possesses the strength and stamina to bear a tauren rider into battle: the majestic kodo beast. Swifter and slightly smaller than their wild cousins, kodo mounts nevertheless demonstrate the same resilience and fearlessness found in their untamed brethren, traits that serve them well when bearing their equally resolute riders. It is said that only the most virtuous of tauren can win the affection of a kodo war mount, for these mighty beasts only serve those that approach them with honor and respect in their hearts.
+Tauren players will no longer have the Plainsrunning ability, due to the availability of Kodo mounts! Tauren players can purchase the Kodo mount at Bloodhoof village.
+** Currently there is an active bug that prevents players from purchasing mounts from different races regarding of reputation, this bug will be addressed in the next patch.
+General 
+Higher level dungeon monsters (level 30+) have had their experience values increased.
+Experience needed to gain levels from level 30+ has been increased (to compensate for the dungeon monster change).
+On death, all equipped items will lose 10% durability.
+Durability loss through fighting has been decreased (mainly to accommodate the new penalty for dying)
+The penalty for using a Spirit Healer has been changed * there is no longer any experience loss, instead all items (equipped and inventory) will take 100% durability loss and the character will gain resurrection sickness for a duration that scale according to level.
+Spells that activate (proc) on kill will work on all players, but only monsters that would give experience points.
+All spears are now polearms.
+Polearm proficiency can now be learned by Hunters, Paladins, Warriors.
+Spear proficiency has been removed.
+Minimum range on abilities now account for size of target and attacker.
+Armor can't be swapped out while in combat. Other equipment such as weapons and accessories can still be swapped out.
+Shift-click item info linking has been added to the auction interface.
+You now get a 10% discount at high reputation for buying items, item repair, training costs, and taxi flights.
+Line of sight calculation takes into account creature size.
+Creatures should be more adept at chasing players.
+Spawn animations for game objects are now visible.
+Skills will not increase from use while dueling or engaged in PvP.
+Texture linear filtering is turned on for the user interface.
+Escort NPCs will assist players more often.
+Escort NPCs and guards will no longer follow enemy players around.
+NPCs which are performing work emotes will pause them and turn to you when you interact with them.
+The Reanimated Corpse actually falls down now when it plays dead.
+New graveyards have been added to many zones.
+Players will not be able to train and purchase non-race specific mounts. In the next patch, we plan to implement a system in which players can obtain mounts from other races once they have reached a certain level of reputation with that race.
+Quests 
+Onyxia Key Quests for both the Horde and Alliance are in and fully functional.
+Eastern and Western Plaguelands have dozens of new quests.
+Tirion Fordring's questline is now complete.
+New PvP, Raid, and PvP Raid quests are live.
+Quests for Molten Core have been added.
+The completion of a quest may now result in a reputation adjustment of a faction or a group of factions.
+More quests added to Desolace, including several Horde specific quests.
+Horde quests added to Ashenvale, ranging from levels 19-30.
+Hemet Nesingwary and his companions now like Horde players in addition to Alliance players.
+More quests added to Stonetalon.
+More quests added to Blackfathom Deeps. Blackfathom has been moved to Ashenvale and now has Horde quests.
+PvP 
+Mind Control and Hunter's Mark flag you for PvP when used on enemy players.
+Healing and buffing NPCs will not flag you for PvP unless those NPCs are in combat.
+NPCs no longer tap creatures they are fighting.
+Talents 
+Paladin talents are now available.
+Hunter talents are now available.
+Auctions 
+The current high-bidder's name no longer displays in the auction interface.
+Each time a bid is made on an item, a small amount of time is added to the remaining auction duration.
+Items you are the high bidder on will be indicated as such in the interface.
+Professions 
+Leatherworking is now complete, you can make up to 300 leatherworking skill items.
+Enchanting is now complete, you can perform enchantments that require up to 300 enchanting skill.
+Engineering is now complete, there are engineering recipes that require up to 300 engineering skill.
+Epic player crafted items that require raiding are now available.
+Skeleton Keys added to blacksmithing. Smiths can now open locks (though the keys are consumed)
+Expert and above skill tiers for secondary skills are no longer available on trainers, you need to find the books to teach you them. Expert level is on a vendor somewhere in the world, artisan level requires a quest to be completed.
+Elixirs no longer stack with player spells that improve the same attribute
+Enchanting recipes generally require more reagents for 200-250 skill items
+Limited Invulnerability Potion Re-added to Alchemy, but at a higher level than it was previously.
+Leatherworking recipes added to let light leather be turned into medium leather, medium leather into heavy and so on.
+Light leather requirements for some 15-20th leather level items reduced to allow for faster skillup in that range.
+Leatherworking Scorpid Recipes now require 2x the scorpid scales, but scorpids now drop the scales 4x as frequently.
+Light leather now only takes 3 scraps to make instead of 4.
+Starting Leatherworking recipe items improved.
+Medium and Heavy leather now sells for less to vendors.
+Pick pocketing now has a chance of getting you a locked Junkbox, which is a locked item that generally has money in it.
+Ironweb Spider Silk now drops more often and some Tailoring Recipes require less.
+The ingredients required to make some gnomish engineering items were changed.
+Elixirs effects reduced somewhat for the higher level elixirs.
+Dark Iron Armor stats have been changed.
+Living Essence and Essence of Undeath drops decreased.
+Silk and Mageweave cloth now sell for less to vendors.
+All remaining profession trainers who train a single recipe have been turned into vendors.
+Catseye Ultra Goggles and Catseye Elixir reduced in effectiveness.
+Requirements to make blacksmithing recipes annihilator and invulnerable mail increased.
+Artisan Level Fishing, Cooking, and First Aid quests are in the game. Trainers will no longer train artisan level in the aforementioned professions. Players must complete quests to gain artisan levels.
+Pets 
+Pets, summons and guardians are not susceptible to charm.
+Pets should be much better at chasing moving targets.
+Pets and summons will use their combat abilities as often as possible.
+When your pet or demon learns new spells and abilities they will show up on the pet action bar.
+Charmed creatures will no longer use their summon spells while charmed.
+The pet action bar is greyed out while the pet is confused or fleeing
+Imps no longer run around aimlessly if you turn off auto-cast for their firebolt.
+Druid 
+Removed facing direction requirement from Entangling Roots, Faerie Fire, Hibernate, and Soothe Animal.
+New Spell: Rebirth (Level 20).
+New Ability: Feline Grace (Level 40).
+Bear Form abilities that target one or more enemies now generate additional threat.
+Enrage: Cooldown increased.
+Growl: Now gives the target enough threat to attack you, cooldown added.
+Hibernate: Increased the chance of breaking early.
+Mark of the Wild: Ranks 5, 6, and 7 now require reagents.
+Hunter 
+Glimpse of Instincts: Removed.
+Outdoorsmanship skill line renamed Survival.
+Ranged Combat skill line renamed Marksmanship.
+Removed facing requirement from Hunter's Mark and Scare Beast.
+Aspect of the Cheetah: Speed increased.
+Aspect of the Pack: Speed increased.
+Concussive Shot: No longer causes additional threat, duration and cooldown slightly increased, mana cost reduced.
+Disengage: Effect boosted, cooldown added.
+Hunter's Mark: Duration increased, dispels itself if the Hunter dies.
+Mongoose Bite: Damage increased, mana cost increased.
+Scare Beast: Increased the chance of breaking early.
+Wing Clip: Slow effect now scales with level.
+Feign Death: Duration increased.
+New Spell: Track Beasts (Level 1).
+New Spell: Track Humanoids (Level 10).
+New Spell: Track Undead (Level 18).
+New Spell: Track Hidden (Level 24).
+New Spell: Track Elementals (Level 26).
+New Spell: Track Demons (Level 32).
+New Spell: Track Giants (Level 40).
+New Spell: Track Dragonkin (Level 50).
+New Spell: Distracting Shot (Level 12).
+New Spell: Aspect of the Wild (Level 46).
+Mage 
+Blink should work much more reliably and will not stop your movement.
+Removed facing requirement from Counterspell, Detect Magic, and Polymorph.
+Polymorph: Now dismounts the enemy target, increased the chance of breaking early.
+Blizzard: Deals its damage in more frequent intervals.
+Arcane Intellect: Ranks 4 and 5 now require reagents.
+Teleport: Now requires a reagent.
+Portal: Now requires a reagent.
+Slow Fall: Now requires a reagent.
+Paladin 
+Retribution Aura: Moved to level 16.
+Judgement: Moved to level 50, renamed Holy Wrath.
+Removed facing requirement from Hammer of Justice and Turn Undead.
+Cleanse: Moved to level 42, mana cost increased.
+Holy Light: Causes less threat, heal effect and mana cost increased.
+Purify: Mana cost increased.
+Turn Undead: Increased the chance of breaking early.
+Holy Strike: Removed.
+Crusader Strike: Removed.
+Seal of Reckoning: Removed.
+Healing Aura: Removed.
+Dominance Aura: Removed.
+Wisdom Aura: Removed.
+Redemption: Removed.
+Resurrection: renamed Redemption, no longer usable in combat.
+**All Seals renamed Blessings. Several new spells have been added, which now use the naming convention "Seal".
+New Spell: Seal of the Crusader (Level 12).
+New Spell: Seal of Justice (Level 22).
+New Spell: Seal of Light (Level 30).
+New Spell: Seal of Wisdom (Level 38).
+New Spell: Flash of Light (Level 20).
+New Spell: Judgement (Level 10).
+New Spell: Blessing of Might (Level 8).
+New Spell: Blessing of Wisdom (Level 14).
+New Spell: Blessing of Light (Level 40).
+New Spell: Concentration Aura (Level 22).
+New Spell: Divine Intervention (Level 30).
+Resistance Aura: Split up into 3 new spells... Shadow Resistance Aura (Level 28), Frost Resistance Aura (Level 32), and Fire Resistance Aura (Level 36).
+Seal of Fury has changed significantly.
+Seal of Righteousness has changed significantly.
+Blessing of Sacrifice: Moved to level 46, now transfers a flat amount of damage per hit, and has replacements.
+Blessing of Salvation: Moved to level 26, duration increased, cooldown removed, effect reduced.
+Blessing of Freedom: Moved to level 18.
+Blessing of Protection: Moved to level 10.
+Priest 
+Resurrect spells now use the same timer as when reclaiming your corpse. When a player is resurrected, they will have to wait for a set amount before they can click the accept button.
+Resurrect now teleports you to the location at which the spell was cast, not to the caster's present location.
+Removed facing requirement from Mind Control, Mind Soothe, Shackle Undead and Shadow Word: Pain.
+Resurrection: No longer usable in combat.
+Levitate will now be cancelled if any damage is taken, now requires a reagent.
+Power Word: Fortitude: Ranks 4, 5, and 6 now require reagents.
+Mind Control: Increased the chance of breaking early.
+Shackle Undead: Increased the chance of breaking early.
+New Spell: Desperate Prayer (Level 10). (Dwarf/Human only.) (Quest)
+New Spell: Starshards (Level 10). (Night Elf only.) (Quest)
+New Spell: Touch of Weakness (Level 10). (Undead only.) (Quest)
+New Spell: Hex of Weakness (Level 10). (Troll only.) (Quest)
+New Spell: Fear Ward (Level 20). (Dwarf only.) (Quest)
+New Spell: Feedback (Level 20). (Human only.) (Quest)
+New Spell: Elune's Grace (Level 20). (Night Elf only.) (Quest)
+New Spell: Devouring Plague (Level 20). (Undead only.) (Quest)
+New Spell: Shadowguard (Level 20). (Troll only.) (Quest)
+Rogue 
+Vanish will now cancel spells in progress and missiles in flight if they are being cast at the vanished player.
+Poisons: Should now be resistible.
+Removed facing requirement from Blind and Pick Pocket.
+Lockpicking: No longer auto-ranks. It must be used to improve.
+Sap: Increased the chance of breaking early.
+New Poison: Wound Poison (Level 32).
+New Ability: Safe Fall (Level 40).
+Shaman 
+Removed facing requirement from Purge.
+Rebirth: Renamed Ancestral Spirit, no longer usable in combat.
+Water Walking: Now cancelled if any damage is taken, requires reagent.
+Water Breathing: Now requires a reagent.
+Earth Shock: Now causes additional threat.
+Healing Stream Totem: Heals in smaller, more frequent intervals (roughly the same total over time).
+Mana Spring Totem: Restores mana in smaller, more frequent intervals (roughly the same total over time).
+Rockbiter Weapon: Now also makes your melee attacks cause additional threat.
+Windfury Weapon: Much more responsive.
+Windfury Totem: Much more responsive.
+Warlock 
+Only party members can participate in rituals.
+Voidwalkers will wait for enemies in the area before casting Suffering.
+Target of summoning ritual must already be in the same instance if caster is in an instance.
+Summoning gives a confirmation dialog to person being summoned.
+Ghosts can no longer be summoned.
+A bug has been fixed in the calculation of total mana for Warlock pets.
+Lash of Pain (Succubus): no longer requires the succubus to be behind the target.
+Seduction (Succubus): Mana cost reduced, increased the chance of breaking early.
+Soulstones: Now soulbound when created, are consumed to store the target's soul. When that target dies, he may resurrect himself any time up until release. Cooldown added.
+Removed facing requirement from Banish, Corruption, all Curses, Enslave Demon, and Fear.
+Demon spells are now available as Grimoires from the Demon Trainers in the world. Purchase the Grimoire and read it while the appropriate demon is summoned to teach it the spell.
+Enslave Demon once again requires a soul shard, increased the chance of breaking early if cast repeatedly on the same target.
+Howl of Terror: Increased the chance of breaking early.
+Fear: Increased the chance of breaking early.
+Rain of Fire: Duration, mana cost, and damage slightly reduced, deals its damage in more frequent intervals.
+New Spell (Imp): Phase Shift (Level 12).
+New Spell: Summon Felhunter (Level 30). (Quest)
+New Spell: Inferno (Level 50). (Monster Loot)
+New Spell: Curse of Doom (Level 60).
+New Spell: Ritual of Doom (Level 60). (Monster Loot)
+Warrior 
+Inner Rage: Removed.
+Pummel: Removed.
+Heroic Strike: Now available in all Stances, damage increased on some ranks, decreased on others.
+Sunder Armor: Now available in all Stances.
+Shield Bash: Now available in all Stances.
+Hamstring: Now available in Battle and Berserker Stance.
+Rend: Now available in Battle and Defensive Stance, damage slightly increased on some ranks.
+Recklessness: Moved to level 50, moved to Berserker Stance, can becancelled early, now causes the Warrior to take extra damage instead of decreasing armor.
+Bloodrage: Available in all Stances, cooldown increased.
+Cleave: Moved to level 20, available in all Stances, damage reduced.
+Mocking Blow: Moved to level 16, damage increased, replaced more frequently.
+Shield Wall: Moved to level 28.
+Slam: Available in all Stances, damage reduced, casting is pushed back when hit.
+Thunder Clap: Damage increased.
+Defensive Stance: Now reduces damage taken and damage caused instead of increasing Defense skill.
+Intimidating Shout: Moved to level 22, no longer causes the targeted enemy to run in fear, but will cower in fear. The cowering effect is broken by damage.
+Warrior abilities that target one or more enemies now generate additional threat.
+Taunt: Now gives the target just enough threat to attack you. Cooldown added.
+Berserker Rage: Moved to level 32.
+New Ability: Retaliation (Level 20).
+New Ability: Execute (Level 24).
+New Ability: Intercept (Level 30).
+New Ability: Whirlwind (Level 40).
+Mac 
+Shader based options are still disabled on the Mac client and are awaiting release of driver bug fixes from Apple and GPU vendors. We will release a patch to re-enable shader based graphic effects in Mac WoW when that becomes feasible.
+Bug Fixes 
+Monsters with extra dodge chances have been corrected.
+Abilities that activate off critical hits work off critical hits from abilities as well (Blood Craze, Enrage).
+Blessing of salvation correctly affects healing over time spells.
+If you tame the leader of a herd of Kodo with the Kodo Kombobulator the whole herd won't follow you.
+If you close the disenchanting loot panel without looting the item, the Dust or Essence or Shard is automatically looted for you. (You no longer destroy the enchanted item if you close the loot panel with the results of the disenchantment).
+Miscellaneous 
+Vocal emotes now display a normal emote to the chat window, instead of the "Player says..." text. Voice Emote Audio is unchanged.
+There is now a checkbox to turn off audio emotes.
+Many boxes and crates ready to be looted have been added around the world.
+Many new rare vendors selling weapons/armor/potions have been added around the world.

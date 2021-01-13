@@ -1,0 +1,244 @@
+New Transmogrification Collections System: Appearances 
+New Collection tab: Appearances
+Unlock new appearances by collecting Soulbound weapons and armor your character can equip.
+Unlocked appearances are account-wide and usable for transmogrification by other characters that can equip the item.
+When first logging into a character after Patch 7.0, the appearances of appropriate items in your bags, bank, and Void Storage are learned automatically. Additional appearances will be unlocked based on previously-completed quests.
+Transmogrifiers located in most major cities have been improved with additional features.
+Got a look that you like? Save the entire transmogrification set as an outfit. Create and swap between outfits at the Transmogrifier.
+Additionally, transmogrifications can now be associated with your current specialization. Your outfit automatically changes when switching specializations if you so desire.
+Added a new option to hide shoulders.
+The option to hide helmets, cloaks, and shoulders has been moved into the transmogrification system.
+Revamped PvP Progression and Honor System 
+The PvP Reward System will now provide appropriate items for players level 100 and below.
+Honor Points and Conquest Points have been removed as a currency.
+Items that were purchased using Honor or Conquest are now available for purchase with Marks of Honor that can be earned from Battlegrounds, Arenas, and Skirmishes.
+Learn more about upcoming PvP changes in our Legion PvP Preview.
+Equalized PvP Gear 
+Gear has been normalized in PvP combat. Characters entering a Skirmish Arena, Battleground, Rated Arena, Rated Battleground, or Ashran now receive an aura called Principles of War.
+Principles of War removes all stats gained from gear (Strength, Stamina, Haste, etc.), disables gear related bonuses (like trinket effects and set bonuses), and gives the character stats based on their specializations, and increases based on overall item level. The goal is to provide a much more finely tuned and balanced PvP experience.
+Arenas 
+The pennant attached to the back of characters now changes its appearance based on the player’s best rating in the Arena bracket.
+The 5v5 Arena bracket has been retired. "Arena Master" achievement has been converted into a Feat of Strength.
+Battlegrounds 
+Winning a Battleground with characters below level 110 now awards a Crate of Battlefield Goods. Players on the opposing team also have a chance to receive a crate with an increasing chance based on team score at the end of a match. The crate contains a piece of armor appropriate for the character’s level and specialization with a chance for the crate to contain additional rewards such as weapons or relics.
+Raids and Dungeons 
+Hellfire Citadel 
+Enemies on Normal, Heroic, and Mythic difficulty now deal roughly 30% less damage.
+Legacy 
+Normalized gold from Legacy raids prior to Warlords of Draenor. Heroic difficulty Cataclysm Raids now award less gold than before, while raids from Mists of Pandaria and Wrath of the Lich King will now award more gold.
+Ruins of Ahn'Qiraj now resets daily instead of every 3 days.
+Quests and World 
+Legendary Ring Quest Line 
+Players can no longer start the quest line for the legendary ring. Players currently on the legendary quest line have until the launch of Legion to complete it; at which point uncompleted quests will be removed from the quest log.
+Tap Changes 
+All creatures and NPCs can now be tapped by up to 5 other characters.
+World Events 
+The Brawler's Guild is taking a break and will return at a later date.
+The Stranglethorn Fishing Extravaganza has taken a temporary hiatus while the fish are restocked.
+Items and Itemization 
+Itemization 
+In an effort to reduce the amount of gear swapping between specializations, the following changes have been made.
+Legion cloaks, rings, and items worn on the neck are no longer tied to a specific primary stat, and will remain relevant between specializations.
+Spirit and Bonus Armor have been removed.
+Multistrike has been removed. Items that had multistrike have had it replaced with another secondary stat.
+Trinkets obtained from Raids, PvP, and world drops in Warlords were overtuned and have been brought back to intended power levels.
+Set bonuses for item sets from expansions prior to Warlords of Draenor have been deactivated, though the text describing their former function still remains.
+Spell Power on all caster weapons have been consolidated into Intellect to make it easier to compare item power between two caster weapons. Overall weapon power remains unchanged.
+Items 
+Equipment limits on the amount of crafted gear that can be worn have been removed.
+Potion of Luck and Greater Potion of Luck no longer have an effect.
+Gladiator's Distinction set bonus has been removed from all PvP trinkets.
+Character Changes 
+Specialization System Changes 
+Characters can now change between any of their specializations while out of combat. Action bar configurations and talent loadouts are saved for each specialization. As a result, Dual Specialization has been removed.
+Updates to Combat Visuals and Audio 
+Updated and improved on the animations, visual effects, and audio on core combat interactions like auto-attacks as well as many melee class abilities.
+Talent System Changes 
+Players may now change talents freely when in any rested XP area. The Inscription profession can craft consumable items that allow for this to be done in the field. In addition, after queuing into an instanced dungeon, raid, or PvP content, players have a grace period during which they may change talents freely.
+Glyph System Changes 
+The Glyph panel has been removed from the game. Some minor glyphs that had a cosmetic effect that does not apply to a specific spell have been converted into cosmetic items that provide the same effects as before.
+Some minor glyphs that made cosmetic alterations to a specific spell have been added to the spell itself in the spellbook.
+Gnome Hunters 
+Gnomes can now be Hunters.
+Draenor Perks Removed 
+Draenor Perks have been removed from the game.
+Armor Changes 
+Hunters and Shaman can now equip Mail armor from level 1 (down from level 40).
+Warriors and Paladins can now equip Plate armor from level 1 (down from level 40).
+New Mail and Plate reward options have been added to low level quests.
+Racial Abilities 
+Human
+Every Man for Himself now removes all Stun effects and shares a 30-second cooldown with other items or abilities that have a similar effect.
+The Human Spirit has been redesigned. Human characters now gain 1% more of all secondary stats (Haste, Critical Strike, Mastery, and Versatility) from all sources
+Class changes 
+Death knight 
+Runes are more straightforward by removing their division into separate Blood, Frost, and Unholy types. Death Knights now have six unified Runes to spend, with a maximum of three recharging at any one time.
+Reducing ability overlap between specializations, giving each a single disease with a unique trait and creating a talent tree that’s largely populated with spec-specific talents to better distinguish them.
+Blood
+Death Strike to cost Runic Power instead of Runes
+Marrowrend is a new attack which allows you to rotationally generate Bone Shields.
+Blood Strike now generates additional Runic Power on top of the standard amount gained for spending a Rune.
+Frost
+Killing Machine now only affects Obliterate.
+Druid 
+Replacing Heart of the Wild with a full row of Affinity talents, which essentially allow every Druid to choose an off-spec from the remaining three specializations.
+Affinities provide two benefits: first, a passive ability that is useful at all times, even to your main role; second, access to multiple key abilities to use in associated shapeshifting forms:
+Balance Affinity
+Astral Influence: Increases the range of all spells, abilities, and autoattacks by 5 yds.
+Feral Affinity
+Feline Swiftness: Increases movement speed by 15%.
+Guardian Affinity
+Thick Hide: Reduces all damage taken by 10%.
+Restoration Affinity
+Ysera's Gift: Constantly heals the Druid, or allies when the Druid is at full health.
+Balance
+The Eclipse Bar has been completely replaced by an Astral Power resource, which is built and spent
+Hunter 
+Beast Mastery
+Dire Beast is now core to Beast Mastery, allowing you to repeatedly summon wild beasts that generate additional Focus for you through their every attack.
+Marksmanship
+Will still get a pet as a baseline ability; Lone Wolf is now a level 15 talent Hunters can take allowing them to range through the wilds without a pet beside them.
+Gains Focus from the use of Arcane Shot.
+Black Arrow and Lock and Load moved to Marksmanship-specific talents.
+Survival
+Use melee weapons instead of ranged weapons
+Only Hunters that make use of traps
+They have no direct control over Focus regeneration, but instead pool it up during successive Mongoose Bites to further amplify the damage they inflict.
+Mage 
+Summon Refreshment now automatically provides you with a stack of food if you’re adventuring out on your own, or a table of refreshments when in a party or raid.
+Arcane
+Arcane Charges are now an actual resource located underneath your Mana bar instead of a stacking debuff.
+Arcane has a new Mastery, which increases your maximum Mana by a percentage, and increases the damage bonus from Arcane Charges.
+Fire
+Inferno Blast off the global cooldown
+Frost
+Removed Frostfire Bolt
+Monk 
+Brewmaster
+Instead of Chi as a resource, switching to charges on Brew abilities that other abilities still interact with.
+Mistweaver
+Replaced Uplift with a couple of new spells: Vivify and Essence Font.
+Passive Soothing Mist mechanic gives Mistweavers a unique healing style with variable efficiency, over which you have more direct control.
+Will now use Mana, not Chi, as a resource, since it reduced choices and restricted gameplay in many situations.
+Windwalker
+Windwalkers’ new Mastery, Combo Strikes, encourages mixing a variety of abilities, which provides a constant gameplay hook that influences every ability they use and draws inspiration from classic fighting games.
+Windwalkers still use a combination of Energy and Chi, along with a heavy dose of short cooldowns.
+Mastery: Combo Strikes
+Your abilities deal 25% (with Mastery from typical gear) more damage when they are not a repeat of the previous ability.
+Tiger Palm
+50 Energy, Melee Range, Instant
+Attack with the palm of your hand, dealing minor damage and generating 2 Chi.
+Tiger Palm has an 8% chance to make your next Blackout Kick cost no Chi.
+Blackout Kick
+1 Chi, Melee Range, Instant
+Kick with a blast of Chi energy, dealing moderate Physical damage.
+Rising Sun Kick
+2 Chi, Melee Range, Instant, 8 sec cooldown
+You kick upwards, dealing strong damage, and reducing the effectiveness of healing on the target for 10 sec.
+Fists of Fury
+3 Chi, Melee Range, Channeled, 20 sec cooldown
+Pummel all targets in front of you, dealing massive damage over 4 sec. Deals reduced damage to secondary targets.
+Can be channeled while moving.
+Spinning Crane Kick
+Has gained some new functionality
+3 Chi, Channeled
+Damage increase by 50% for each unique target you've struck in the last 15 sec with Tiger Palm, Blackout Kick, or Rising Sun Kick.
+Storm, Earth, and Fire
+Redesigned
+Now lasts 15 sec with a 90 sec recharge, Max 2 Charges.
+Split into 3 elemental spirits, controlling Storm, while Earth and Fire spirits attack nearby targets, mimicking your attacks on them.
+Reactivating the ability again causes all spirits to attack the main target.
+Targets hit by spirits count toward increasing Spinning Crane Kick damage.
+Developer Comment: Spirits will automatically seek out nearby enemies to attack while you attack your target.
+Hit Combo
+Passive (talent)
+Each successive attack that triggers Combo Strikes in a row grants 2% increased damage, stacking up to 8 times.
+Paladin 
+Holy
+Lightbringer, a new Mastery, which increases healing on allies near you.
+Light of Dawn returning to being a cone.
+Light of the Martyr allows the Holy Paladin to rapidly heal them by sacrificing personal health.
+Holy Power removed in favor of making Mana the primary resource.
+Protection
+Removal of Holy Power
+Replaced Word of Glory with a self-focused spell, Light of the Protector, allowing it to be much more interesting and impactful.
+Priest 
+Discipline
+Atonement mechanic.
+Rapture, a new cooldown that temporarily removes the cooldown of Power Word: Shield.
+Holy
+Chakra system removed in favor of a more dynamic play style focused around Holy Words.
+New Holy Word spells are designed to feel absolutely miraculous, having huge effects balanced with long base cooldowns.
+Serendipity allows those long base cooldowns to be reduced
+Make no use of Shadow spells.
+Shadow
+New resource, Insanity
+Mind Blast, Shadow Word: Pain, and Vampiric Touch will build Insanity.
+Reaching maximum Insanity will allow the casting of Void Eruption, dealing damage and turning Shadowform into Voidform, giving the Shadow Priest access to Void Bolt and a stacking haste buff the longer the form is maintained.
+Whilst in Voidform, insanity drains at an increasing rate, until it reaches 0 where the form ends, leaving the priest with the haste buff for 1 minute or until the next voidform.
+Power Word: Shield and Shadow Mend are their primary healing tools.
+Rogue 
+Assassination
+Only Rogue spec with access to poisons and bleeds
+Venomous Wounds triggers based on a combination of bleeds and poisons now to accentuate that gameplay.
+Combat
+Removed.
+Outlaw
+De-emphasizing Stealth, with Ambush being their only remaining opening move.
+Retain several signature abilities from Combat, such as Adrenaline Rush and Blade Flurry.
+Subtlety
+New version of Shadow Dance allows Subtlety to weave in and out of Stealth rotationally.
+Shadowstrike provides incredible mobility for attacking from Stealth.
+Subtlety makes use of a new ability called Nightblade, which applies Shadow damage over time.
+Shaman 
+Totems of the same nature type can now be summoned together
+Elementals are no longer tied to totems, but are guardians that follow and assist you.
+Totems’ maximum health will always equal a percentage of your maximum health.
+Totems that need to be placed at a specific location will be directly placed using a targeting reticle.
+Lightning Shield charges for Elemental Shaman, Maelstrom Weapon charges for Enhancement Shaman, and Mana have all been replaced for Elemental and Enhancement with a new resource: Maelstrom.
+Elemental
+Elemental Shaman will build Maelstrom through their Lightning Bolt, Lava Burst, and Chain Lightning, and spend it on abilities like Shocks and Earthquake.
+This change also allows us to remove the cooldown on Shocks
+Return of Elemental Overload as their Mastery
+Warlock 
+Standardize Warlocks on their most class-defining resources: Mana and Soul Shards.
+Affliction
+Soul Shards are now generated by each Agony you have up on your targets, instead of only by your most recent Corruption cast, to favor placing DoTs on several targets rapidly (multi-dotting). You’ll then spend Soul Shards on an extremely strong DoT in Unstable Affliction, reinforcing the focus on DoTs.
+Drain Life serves as the main filler spell, instead of Malefic Grasp or Drain Soul
+Destruction
+Changed Burning Embers back to Soul Shards.
+Warrior 
+Arms
+Replaced their Mastery with Colossal Might, which increases the effectiveness of Colossus Smash.
+Fury
+Enrage is now considerably more powerful, doubling your attack speed (and thus Rage generation, since the majority of Rage is still generated by auto-attacks), along with increasing damage based on Mastery.
+Protection
+Replaced Shield Barrier with a new ability, Ignore Pain, which massively reduces damage taken (up to a cap based on maximum health) and functions as your primary defensive Rage-spender.
+Protection Warriors now primarily generate Rage through taking damage, supplemented by a baseline Rage income from ability usage.
+Garrison 
+Many sources of gold from the Garrison has been reduced or removed.
+Newly obtained salvage from the Salvage Yard no longer contains equippable items. Salvage obtained from before the patch remains unaffected.
+Collections 
+Toy Box
+A number of items with novel effects have been converted for inclusion in the Toy Box.
+Orb of Deception now lets the character retain features like armor that’s worn when transforming.
+New toy: Soft Foam Sword, sold by Jepetto Joybuzz. The toy mortally wounds (but does not kill) an enemy of trivial difficulty.
+Professions 
+Inscription
+Major glyphs, along with many minor glyphs, have been converted or removed from the game.
+UI 
+Character nameplates have been reworked and have been upgraded to show class resources. Players may select a larger version of these nameplates from within the Interface Options menu.
+Enemy nameplates now provide additional information on status effects.
+Added class resource bars that display directly underneath your character.
+The character sheet has been trimmed down, though fully verbose stats are still available via the API.
+Interface options have changed and been further streamlined.
+Tab targeting logic has been reworked, and should now behave in a more consistent and predictable manner.
+A buff icon has been added to make it easier to tell when a character has XP gain disabled.
+Account 
+The maximum amount of gold that can be held at once has been increased to 9,999,999 gold. Guild bank maximum has also been increased to 9,999,999 gold.
+Maximum number of characters on a realm has increased to 12.
+Graphics Engine 
+Maximum draw distance has been extended greatly for all world content.
+5 additional levels of graphics presets have been added with 3 above the previous ‘Ultra’ setting.
+More advanced rendering techniques for fog have been added.
+Modern techniques for rendering color and other post-effects have been added.

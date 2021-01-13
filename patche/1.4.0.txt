@@ -1,0 +1,272 @@
+PvP Honor System 
+The Player versus Player Honor System is now active. Players will be able to gain rankings based on their PvP performance, with lucrative rewards for those who distinguish themselves on the field of battle! Read more about the PvP Honor system.
+
+Children's Week 
+Children's Week is celebrated in Orgrimmar and Stormwind City at the start of May and lasts for a week. It is a time to give back to the innocents of war: the orphans!
+
+Gurubashi Arena event 
+There is now a regular event in Gurubashi Arena in Stranglethorn Vale. Every three hours starting at midnight, a pirate with too much treasure on his hands will drop a chest in the center of the arena. Whoever can open the chest first gets the contents! Of course, the arena is a PvP Free for All area, so there might be other players who are trying to open it first...
+
+Elemental invasions! 
+Invasions by elementals at different locations on Kalimdor have reportedly been occurring sporadically every few days. Concerned adventurers should investigate Silithus, Un'Goro Crater, Azshara, and Winterspring to counter these incursions.
+
+Details 
+General 
+Charm and Polymorph mechanics can now be reactively countered by spells and abilities (e.g. Druid Shapeshifting will now cancel Polymorph effects).
+Mana regeneration is now disrupted when a spell has completed casting rather than at the start of casting. It will resume normally five seconds after the last spell cast. This change increases the total time spent regenerating mana and therefore increases the total contribution from Spirit for mana-based classes.
+Level 60 mounts purchased at vendors now have a whole new look. Faster undead mounts already have a different look and so have not changed. The new mounts can be seen standing near the mount vendors. If you have one of the old fast mounts, you can exchange it for one with a new look at the mount vendor.
+Healing-over-time spells should now be improved by "+Healing" items when cast on other players.
+Mind Controlled characters will no longer receive a durability penalty when they die.
+When a non-Hunter resurrects a pet, the pet will no longer receive resurrection sickness.
+PvP 
+A handful of spells were added to the list of spells subject to diminishing returns in PvP. It is our goal to set as few spells as possible to be diminished. We've identified this short list of spells as having durations and cooldowns sufficient to almost permanently slow or immobilize targets but without adequate controls or other limiting factors. When a spell with diminishing returns is used against a target in PvP, the first effect has full duration. On the second use of the same category of spell (e.g. slowing), that spell's duration is reduced by 50%. On the third use, the duration is reduced by 75%. On the fourth attempt, the target becomes immune to the spell. Spells must be used on the same target within 15 seconds of the *end* of the duration in order to be diminished. In other words, if a target hasn't had a slowing spell active on them for more than 15 seconds, the next slowing spell will have full effect. The list of affected spells is:
+Frost Shock
+Entangling Roots
+Frost Nova
+Guard directions, signs and signposts have been added to point you toward the PvP Officer Lounges in Stormwind City (Champions' Hall) and Orgrimmar (Hall of Legends).
+Racial Traits 
+Blood Fury - Now increases base melee attack power by 25% for 15 seconds. When it fades base melee attack power is reduced by 25% for 45 seconds.
+Perception - Increased detection bonus.
+Berserking - Is now usable after being the target of a critical hit. Increases melee, ranged and spell casting speed by 25% but increases all damage taken by 10% for the duration.
+Druids 
+Ravage and Shred now properly increase the attack power contribution by the percent modifier.
+Shapeshifting into an animal form will now remove Polymorph effects.
+Feral Charge - Fixed a bug where the ability cost 10 rage instead of five as intended. Should now cost five rage.
+Entangling Roots - Now subject to diminishing returns in PvP. This is considered an immobilizing effect.
+Hunters 
+A new Hunter epic quest series is now in the game and waiting to be found.
+Scatter Shot (Talent) - Now usable while moving and no longer interrupts ranged combat. Now properly reduces the ranged attack power contribution by the percent modifier.
+Highland Striders no longer have Cower (Rank 3) when tamed.
+New Pet Ability: Dive - Increases movement speed for a short duration.
+New Pet Ability: Dash - Increases movement speed for a short duration.
+Freezing Trap - Visual changed.
+Track Hidden - Increased stealth detection.
+Scorpid Sting - Fixed a bug where it was not considered a poison. It can now be removed by poison curing effects.
+Aspect of the Cheetah/Pack - These Aspects will now be canceled when mounted.
+Viper Sting - This spell can no longer be used on warrior and rogue targets. In addition, while it can be used on a druid target at any time it will only drain mana when the druid is in caster form.
+Mages 
+Amplify Magic and Dampen Magic effects should now replace each other properly.
+Improved Scorch (Talent) - Redesign. Scorch spells have a 20/40/60/80/100% chance to cause your target to be vulnerable to Fire damage. This vulnerability increases the Fire damage dealt to your target by 2% and can be stacked up to 5 times for a total of 10% increased Fire damage.
+New Spell: Arcane Brilliance (available at level 56 - Loot) - Infuses the target's party with brilliance, increasing their Intellect.
+Improved Mana Shield - Design changed. Instead of increasing the amount absorbed, it now decreases the mana lost per point of damage taken by 10/20%.
+An error message is now displayed if you try to use Blink on boats and zeppelins.
+Wand Specialization - Fixed a bug where the damage increase with this talent was higher than the listed amount.
+Frost Nova - Now subject to diminishing returns in PvP. This is considered an immobilizing effect.
+Pyroblast and Fireball damage over time will now stack together.
+Paladins 
+Seal of Wisdom and Seal of Light should now replace each other properly as well as stack properly when used by different paladins.
+Paladin Epic Mount quest added. To begin, talk to the paladin trainers Duthroian Rall or Brandur Ironhammer.
+Paladins who have completed their Epic Mount quest can repeat the final event in Scholomance for fun (and loot) by speaking with Lord Grayson Shadowbreaker.
+Sanctity Aura - Fixed a bug where the spell/talent was unlearned after logging out if learned before level 40.
+Resistance Auras - Paladins should now be able to switch from a resistance aura to any other resistance aura without canceling the current one first.
+Improved Seal of Justice - Fixed a bug that caused the talent to have no effect. It will now increase the frequency that the stun effect will land.
+Priests 
+A new Priest epic quest series is now in the game and waiting to be found.
+Levitate - Duration and mana cost increased.
+Touch of Weakness - Should now be affected by the Blackout, Darkness, Force of Will, Shadow Focus, Shadow Weaving and Silent Resolve talents.
+Starshards - Should now be affected by the Focused Casting, Force of Will, and Silent Resolve talents.
+Holy Fire - Should now be affected by the Focused Casting talent.
+Mind Flay - Should now be affected by the Focused Casting talent.
+Desperate Prayer - Should now be affected by the Holy Specialization talents.
+Vampiric Embrace - Active icon tooltip rewritten to be more clear.
+Holy Nova - Now causes an explosion of holy light around the caster, causing Holy damage to all enemy targets within 10 yards and healing all party members within 10 yards. These effects now cause no threat as opposed to reducing threat temporarily.
+Holy Fire - Several changes were made to Holy Fire in an effort to make this a more usable and efficient damage spell. The cast time was reduced from five seconds to four seconds, which reduces the damage caused. Therefore, the damage was increased and more of the spell's potency was shifted into the damage-over-time portion. The duration was also increased and mana cost and cooldown were both decreased. While the direct damage portion was reduced slightly from the previous version, each tick of damage should be unchanged, and the spell now delivers one additional tick of damage. In total, the relative damage and efficiency of the spell has been increased.
+Wand Specialization - Fixed a bug where the damage increase with this talent was too high.
+Rogues 
+Combo points will no longer be removed if the target is deselected. They will only be removed if a different target is selected.
+Fixed a bug where combo points were not always being applied to the target when using Cheap Shot, Ambush and Garrote.
+Vanish - Increased stealth bonus.
+Ambush, Backstab, Ghostly Strike, and Riposte now properly increase the attack power contribution by the percent modifier. Our goal is to make the dagger-based Backstab/Ambush build a viable alternative to the sword/mace-based Sinister Strike build. As a side effect, fixing this bug also increased maximum critical Ambush damage beyond our intentions. After considering a variety of balance changes (including reducing the percent modifier or base damage of Ambush, or reducing the Improved Ambush talents) we decided to change the Lethality talent to no longer affect Ambush. This does not counteract the DPS increase from the bug fix as Backstab is the primary source of DPS while Ambush is a source of high, one-time damage and cannot be used as consistent DPS. After all balance changes are considered, here are some details:
+(Using a Barman Shanker with 2.0 weapon speed and between 500 and 800 attack power)
+Ambush without the Lethality bonus and attack power bug fix (patch 1.4.0) causes between 4-12% more damage than --- • Ambush with the Lethality bonus and attack power bug (patch 1.3.1).
+Backstab (patch 1.4.0) causes between 9-13% more damage than Backstab (1.3.1).
+The Kick ability prevents the target from casting spells in the same school when channeled casting is interrupted.
+If using Gouge triggers the Stormshroud Armor lightning effect, the Gouge effect will no longer be instantly interrupted.
+The Rogue trainers will now point the player to an appropriate area with boxes to unlock depending on the lockpicking skill of the player.
+Preparation - Will now clear the cooldown of the Blade Flurry ability.
+Riposte - Fixed a bug that prevented the ability from being used when the target had no weapon or was already disarmed.
+Shaman 
+Earth Shock - The visual for ranks two through seven has been changed to be consistent with rank one.
+Windfury - Fixed a bug that caused an additional attack beyond what was intended. In addition, fixed a bug that caused the next normal melee attack to happen sooner than intended.
+Level 58+ Shaman should talk to Sagorne Creststrider in Orgrimmar; there is a special quest for them involving a dreaded death knight who dwells in the depths of the Scholomance.
+Frost Shock - Now subject to diminishing returns in PvP. This is considered a slowing effect.
+Grounding Totem - Should no longer redirect area effect spells or be destroyed by area effects spells.
+Warlocks 
+Warlock Epic Mount quest added. To begin, speak with a demon trainer in any of the capital cities: Kurgal, Martha Strain, Spackle Thornberry, or Jubahl Corpseeker.
+The Warlock Infernal quest is now available and can be found in Felwood.
+The Warlock Ritual of Doom quest is now available and can be found in the Tainted Scar.
+The succubus model has been updated.
+Paranoia (Felhunter) - Increased stealth detection.
+Seduction (Succubus) - Is now considered a Fear effect for purposes of diminishing returns.
+Warriors 
+Thunder Clap - Visual and animation changed.
+Items 
+The following set items have had their art updated:
+Devout Crown and Mantle, Magister's Crown, Circlet of Prophecy, all parts of the Warrior "Might" set, Lightforge Helm, Helm of Valor, Dreadmist Mask, Wildheart Cowl and Pauldrons, and Coif of Elements. Other class sets will receive updated art in future patches.
+Random world items that had increased healing effects were mislabeled, and the amount of increased healing appeared to be half of what was actually occurring. The amount shown on the item is now an accurate representation of the healing increase.
+The Celestial Orb and Robe of the Archmage will no longer trigger the cooldowns of a Mage's mana gems. Mana gems are now on their own unique cooldown category.
+Tiny Black Whelping item changed to Dark Whelpling to reflect the name of the creature summoned.
+Fixed a typo in the aura description for the Mighty Rage potion.
++Spell damage and +Healing effects have been increased in effectiveness to make them more attractive to players. Effects that increased damage and healing done by all magical spells received the largest increase, especially if the previous amount was small. We also fixed a couple bugs relating to these effects.
+Pimgib's Collar is now unique.
+Frayed Abomination Stitchings are now considered to be uncommon items.
+Fordring's Seal has been improved with additional Stamina and Intellect.
+Ring of Protection's armor has been lowered, but the ring's Stamina has been increased.
+Voodoo Band has been slightly improved.
+Underworld Band is no longer unique.
+Filling jars of ooze no longer puts you into combat.
+The Rod of the Ogre Magi properly sheathes now.
+Changed the tooltip of the Bloodfang Hood's effect to properly indicate the duration of the stun.
+The Demon Forged Breastplate effect no longer requires channeling.
+Tooltips for the Blazefury Medallion, Storm Gauntlets, Fiery Plate Gauntlets, Blessed Sunfruit, Blessed Sunfruit Juice, and Ragged John's Neverending Cup modified to more appropriately describe their effects.
+The Amberseal Keeper's melee DPS has been reduced, but an additional +Spell Damage effect has been added instead.
+Onyxia Hide Backpacks are now 18 slot containers.
+Warstrike Shoulder Pads have been improved.
+Living Leggings, Breastplate, and Shoulders now have Stamina, but had their Nature Resistance lowered.
+Legplates and Legguards of the Chromatic Defier have been improved.
+The drop rate of Essence of Undead has been lowered.
+The drop rate for Gift of the Wild and Prayer of Fortitude has been considerably increased.
+General Drakkisath will now drop 2-4 Blood of the Black Dragon Champion instead of 1.
+Professions 
+A significant number of additional engineering devices have been added to the world both as new recipes on vendors and as drops on monsters in the higher level (50+) dungeons and in raids.
+Seven new blacksmithing recipes are available to seasoned blacksmiths via a series of turn-in quests.
+Three new armorsmithing recipes are available to master armorsmiths. All 3 recipes are gained via quest.
+The Turtle Scale gloves recipe has been changed to have a white name rather than green since it can now be purchased at the store. Generally, recipes with white names are store-bought and ones with green or blue (or purple) names are drops from monsters.
+Some Blasting Powder icons Changed.
+Leatherworkers can now make throwing balls (as a toy).
+Ghostweave Belt pattern is no longer bind on acquire.
+Randal Worth in Stormwind now only teaches apprentice level leatherworking.
+Expert Blacksmithing Trainers will now point you to the appropriate artisan smith when you get a high enough skill.
+Bombs now cause a disorient effect when they go off, this was not working correctly previously.
+Flame Deflector and Frost Deflector now do an elemental damage absorb rather than a resistance increase.
+Minor Recombobulator now restores health and mana as well as removing polymorph effects.
+Target Dummies now generate an initial taunt pulse so creatures will attack them for the first 5 seconds after they are dropped.
+Gnomish Death Ray damage increased slightly and cooldown reduced to 5 minutes.
+The level of the Mechanical Dragonlings, Battlechicken, and Bombs dropped by the Goblin Bomb Dropper now scale with your engineering skill, so they will be always useful against enemies. Their damage and health has remained the same.
+Requirements to make the Helm of Fire were reduced.
+Raids & Dungeons 
+Azuregos now has a new ability - Mark of Frost. A player who is hit with the Mark of Frost will be temporarily frozen in a block of ice should they attempt to re-engage Azuregos. Mark of Frost is extremely powerful and will persist through death and resurrection.
+Bael'Gar, Lord Incendius, and Golem Lord Argelmach are now slightly lower level than previously. This will provide a much better progression of creature and boss levels in Blackrock Depths.
+The Baroness Anastari encounter has been changed. Players who become unpossessed will now have full health, and after the Baroness unpossesses a player there will be a much longer cooldown before she can cast possess again. These changes should make her a more balanced encounter for a 5 man group.
+Lava Surgers no longer respawn once you kill Garr.
+When Majordomo Executus submits, a chest is spawned next to him. This chest should only spawn the FIRST time he is defeated in a saved instance. If a guild tries him a second or third night, no chest should spawn.
+Ragnaros now stays up 2 hours rather than 1 after being summoned.
+The Golemagg and Shazzrah encounters in the Molten Core has undergone some changes.
+Scholomance Itemization
+20 new Rare items have been added to Scholomance.
+Several Uncommon items have been upgraded to Rare quality.
+Rattlegore, Jandice Barov, and Lord Alexei Barov will now always drop at least one Rare item.
+Ras Frostwhisper will always drop at least two Rare items.
+Stratholme Itemization
+26 new Rare items have been added to Stratholme.
+Several Uncommon items have been upgraded to Rare quality.
+Archivist Galford, Baroness Anastasi, Nerub'enkan, and Maleki the Pallid will now always drop at least one Rare item.
+Raid Itemization
+Onyxia, Azuregos, Lord Kazzak, and all Molten Core boss creatures have all received some new items on their loot tables.
+Onyxia will once again drop two upper tier class set helms.
+Most of the non-class set items that dropped from Molten Core and Onyxia have had their effective levels increased, resulting in higher DPS weapons, and/or better stats and effects.
+Players who defeat the Majordomo Executus encounter will now be rewarded with new epic items. This reward will only be granted the first time the encounter is defeated during the 6 day lifespan of a Molten Core instance.
+The loot tables for some of the Molten Core bosses have been improved so they drop an additional epic item per kill.
+World bosses such as Onyxia, Azuregos, and Lord Kazzak will no longer drop random blue items of a level lower than 50.
+Prior to this patch, Molten Core boss creatures could drop items from one of two different tiered sets for every character class. The loot tables have been changed so Molten Core bosses will now only drop items from the lower tier class sets. However, some of the items from those sets were not previously dropping in Molten Core. These missing class set items will now drop in Molten Core, allowing players to complete their lower tier class sets. The higher tier class set pieces that once dropped in Molten Core will be found once again in Blackwing Lair, the next raiding zone scheduled for release in a future patch.
+Future patches will include even more item rewards for these raid encounters, as well as improvements to the statistics, effects, and set bonuses for both tiers of the raid armor sets.
+Quests 
+Party quest share information is now working. If you mouse over a quest that multiple party members have, it will display a mouseover tooltip indicating what nearby party member are on that quest. Also, to the left of the quest name in your quest log it will list a number in parenthesis indicating how many other players in your party have that quest.
+Quest givers who have repeatable quests now display with a blue question mark over their head instead of the standard yellow exclamation point/question mark.
+The Molten Core discovery quest has had its objective moved from inside the Molten Core to Blackrock Depths.
+Lunaclaw's spirit should stay around longer before despawning, and the spirit should simply despawn as oppose to "die".
+The description text for both the Horde and Alliance versions of the "Rabine Saturna" quest have been clarified.
+The reward text for the "Hive in the Tower" quest has been clarified.
+Fixed the Resonite Crystal not spawning in the Stonetalon Quest "Earthen Arise."
+Kinelory in Arathi Highlands is now PvP-enabling, so Horde players who attack her will be flagged for PvP.
+Quickened Ana'thek the Cruel's (quest target in Stranglethorn) respawn rate. He and his entourage now spawn every 5-8 minutes.
+Removed Stormwind Faction reward from the Greenwarden quest line in the Wetlands.
+The time Decrepit Guardians stay spawned (they're the mobs trapping the Annals of Darrowshire in Andorhal) increased from 1 minute to 2 minutes.
+The elementals in the plaguelands no longer attack the Spectral Defenders.
+The "haunting" radius of Pamela's doll pieces in Darrowshire was reduced. You must now be closer to a doll piece before ghosts appear.
+Increased the respawn time of Mok'rash in Stranglethorn Vale from 9 hours to 2 hours on average.
+Fixed a bug that caused Razzle in Dun Morogh to become non-interactable.
+Added text to the Fresh Zhevra Carcass to clarify it's use in the Ishamuhale quest.
+Typos in various quests have been corrected.
+User Interface 
+Temporary weapon enchantments will now display as buff icons to the right of your normal buff icons.
+Recipes you already know will not show up in the auction listing if "Usable Items" is checked.
+The mouseover UI in the bottom right corner will no longer overlay the extra action bars if you have them up.
+If the subject line is not filled in when you put an item in a piece of mail, it will automatically be filled in with the item being sent.
+Mousing over the interface options menu will no longer count as a mouseover on objects underneath the interface window (Thus making it hard to set your chat windows to be fully transparent among other things).
+World Environment 
+Andorhal has been overhauled to improve framerate, navigability, and monster spawns.
+Repositioned quest spawns in light of new city layout (tower marker indicators, silos, etc.).
+Doubled the number of small lockboxes present for the "Counting Out Time" quest.
+Araj should now spawn as a result of destroying the crystals in the towers of Andorhal.
+Kardris Dreamseeker is now being addressed properly as a female, rather than a male.
+There are new load screens for the Stratholme, Scholomance and Blackrock Depths instances. Additionally, many of the previous load screens throughout the world have been replaced with new art. Enjoy!
+Bloodvenom Post - Crossroads (Horde) no longer flies you through a tree. Sorry for the scrapes and bruises.
+Shalzaru's Lair on the Isle of Dread off the coast of Feralas now properly displays its name when you enter the cave.
+The dragon bones just to the southwest of The Swarming Pillar in Silithus have been named the Bones of Grakkarond.
+The levels of the NPCs in Camp Mojache have been raised to be commensurate with their counterparts at Feathermoon Stronghold.
+Patrolling scouts that can see through stealth and invisibility have been added to Darnassus, Stormwind City, Undercity and Thunder Bluff.
+The range of restock time for Argent Dawn vendors has been widened.
+Cairne Bloodhoof is now a little more talkative.
+High Priest Rohan is now properly associated with the Ironforge faction.
+Grimand Elmore in Stormwind is more talkative.
+Town Criers in all the major cities now have basic gossip text.
+More references to the fictitious locale of "Chillwind Point" have been squashed in favor of the very real "Chillwind Camp".
+Players will no longer get stuck in a location in the Ruins of Eldarath in Azshara.
+Fires in Thunder Axe Fortress in Desolace now have proper names.
+No longer a tree floating off the ground in the Sishir Canyon area of the Stonetalon Mountains.
+There is no longer a floating tree in Westfall above the defias tower.
+There are no longer fish flying around above the water line in Silverpine Forest.
+Female orcs no longer get stuck in scaffolding in Lost Rigger Cove.
+Removed a crate that was clipping through a tent/hut in Coldridge Valley.
+Removed the terrain that popped in and out of the crevice in the entrance to Foothold Citadel on Theramore Isle.
+Properly named the intact watchtower near Southshore.
+The Rainsticks sign in Thunderbluff is no longer floating.
+Removed floating object from Nijel's Point in Desolace.
+Removed an invisible collision wall located in the Barrens near the Bramblescar area.
+Players can no longer kill creatures with ranged attacks while the mobs are unable to damage the player when standing atop the cauldrons in Eastern Plaguelands.
+Closed a hole in the world in the Searing Gorge.
+There is no longer a hole in the world at Dun Garok.
+The minimum level requirement on the Dire Maul meeting stone has been properly assigned.
+The minimum level requirement on the Temple of Atal'Hakkar Meeting Stone has been properly assigned.
+The minimum level requirement on the Blackrock Spire Meeting Stone has been properly assigned.
+There is no longer a hole in the world in Raven Hill, Duskwood.
+A tree located too far above the ground in Feralas has been "replanted".
+The dock on the Forgotten Coast in Feralas is no longer partially floating above the ground.
+There is no longer water missing from the pool by the Grimtotems in the Lower Wilds of Feralas.
+A rock that was sitting above the ground at the top of one of the falls in Nighthaven has landed.
+Players no longer will get stuck in a location at Gurubashi Arena in Stranglethorn Vale.
+Major Mana Potions buy/sell price slightly increased.
+Aggro radius of Bears and Wolves in Silverpine have been reduced.
+The Dry times in Ironforge have ended and the Stonefire Tavern in Ironforge now has alcohol again.
+Fixed a grammatical error in one of Captain Kromcrush's yells in Dire Maul.
+Mizzle the Crafty in Dire Maul shouldn't be so repetitive in proclaiming a new king if the player cycles through gossip too quickly.
+Williden Marshal's gossip text has been polished.
+Macs 
+The keyboard shortcut to quit the game has been changed to Command-Option-Q to work around an issue with PowerBooks.
+Bug Fixes 
+Fixed a bug where weapon skills were inappropriately capped at 5 times level. Characters should now gain benefit from weapon skill bonuses beyond their normal cap.
+Fixed portrait creation while alt-tabbed away from the game.
+Fixed sorting items in the auction house by current bid.
+Blessing of Sacrifice only transfers the damage dealt, up to the maximum listed in the tooltip.
+The "created by" tags are visible again when you inspect someone.
+Effects that indicated that they increased damage and healing by all magical spells were actually not improving healing. They now will properly increase healing by the listed the amount.
+Extra attacks gained from spells and abilities are applied immediately and do not affect normal combat swing time.
+Abilities which do an additional percentage of weapon damage now include attack power as part of the base weapon damage.
+Fixed race condition where damage would sometimes be applied after Ice Block or Divine Shield are activated.
+Ranged attacks use the target's defense skill instead of target's level to determine chance to hit.
+Fixed bug where ranged attackers would run up and engage you in melee combat.
+Pets and summons will now go with you if you use a hearthstone or other long range teleport.
+Fixed mouse selection bug when opening bags while the auction interface is open.
+There is no longer water missing on the shore of Jademir Lake in Oneiros in Feralas.
+Fixed a typo in the tooltip for the Field Repair Bot 74A.
+Fixed the geometry of the Branchclaw Gloves.
+Lost Souls will now drop their Wispy Cloaks and Tormented Spirits will drop their Ghostly Bracers every time they die now.
+Whistle of the Mottled Red Raptor's buff icon now lists the mount as being a Mottled Red Raptor instead of a Crimson Raptor.
+Ancona creature name changed to Ancona Chicken.
+The wording of item resistance enchantments has been made more consistent.
+Roast Raptor now has an more appropriate inventory sound.
+Additional Patch Changes 
+The /pvp flag has been changed to a toggle. Now once /pvp is turned on, you will be flagged for PvP until it is turned off. The /pvp flag will remain even after logging out, so please remember to turn off the /pvp flag if you do not wish to engage in PvP. This option is only available to players on Normal and Role Play realms.
+Item effects that increase the chance of a critical hit with spells will now work properly with healing spells.
+Fixed a bug with Cho'Rush the Observer where he wasn't properly contributing to the tribute loot mechanic in the North wing of Dire Maul.

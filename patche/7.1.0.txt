@@ -1,0 +1,357 @@
+Class Changes 
+Ui-charactercreate-classes deathknight Death knight 
+Spell deathknight bloodpresence Blood
+Icebound Fortitude has returned, reducing damage taken by the Death Knight by 30% (remains at 20% for Frost Death Knights).
+Spell deathknight frostpresence Frost
+Frozen Pulse now triggers if you have fewer than 2 full Runes (was 1).
+Frozen Pulse damage reduced to 60% of Attack Power (was 72%).
+Glacial Advance now hits targets in melee range more reliably.
+Razorice now increases Frost damage by 3% per stack (was 2%).
+Obliterate damage increased by 20%.
+Howling Blast damage increased by 50%.
+Spell deathknight unholypresence Unholy
+Death Coil damage increased by 50%.
+Ui-charactercreate-classes demonhunter Demon hunter 
+Agonizing Flames damage bonus to Immolation Aura reduced to 30% (was 50%).
+Felblade is now usable against targets in melee range even if the Demon Hunter is rooted.
+Distance from which Soul Fragments can be used for Soul Cleave, Soul Barrier, and Spirit Bomb has been increased to 25 yards (was 20 yards).
+Demon Blades will now trigger while on the global cooldown (was delayed until after the GCD). This is not a gain to throughput.
+Spirit Bomb healing from damage increased to 15% (was 10%).
+Soul Barrier now lasts 12 seconds (was 8 seconds).
+Abilities learned have been spaced out
+Sigil of Silence – Level 101
+Empower Wards – Level 103
+Sigil of Misery – Level 105
+Ui-charactercreate-classes druid Druid 
+Mastery Harmony now includes Frenzied Regeneration.
+Ysera's Gift will only heal party or raid members.
+Living Seed now copies 25% of the crit heal (was 50%).
+Seeds of the World Tree now increases that amount by 8%point (was 10%).
+Owlkin Frenzy will now only affect Lunar Strike (and not Solar Wrath or Stellar Flare).
+Swiftmend healing increased to 770% of Spell Power (was 700%).
+(Balance, Guardian, Feral) Druids how have Regrowth in place of Healing Touch.
+Regrowth is castable in Moonkin Form.
+Talents, artifact traits, and legendaries have been updated to affect Regrowth where appropriate.
+(Restoration) Regrowth has 40% additional chance to crit (was 60%).
+Activating Incarnation no longer triggers a global cooldown for any spec.
+Incarnation Chosen of Elune once again provides the armored Moonkin model.
+Galactic Guardian
+Now causes Moonfire to generate 10 Rage (was 15).
+Now increases its direct damage by 300%.
+Now has a spell alert.
+Ability racial bearform Guardian
+Thick Hide now reduces damage taken by 6% (was 10%).
+Spell nature healingtouch Restoration
+Prosperity now reduces your Swiftmend cooldown by 3 seconds (was 5 seconds).
+Cultivation healing increased by 20%.
+Ui-charactercreate-classes hunter Hunter 
+Track Mechanicals granted to all gnome and goblin hunters, as well as any hunter who uses the Mecha-Bond Imprint Matrix.
+Posthaste now lasts 5 seconds (was 8 seconds).
+Vulnerable now increases damage by 50% (was 25%), stacking up to 2 times (was 3 times).
+New Hunter talent (replacing Dash)
+Trailblazer Your movement speed is increased by 25% anytime you have not attacked for 3 seconds.
+Ability hunter focusedaim Marksmanship
+Aimed Shot damage reduced by 5%.
+Ability hunter camouflage Survival
+Raptor Strike damage increased by 100%.
+Carve damage increased by 150%.
+Butchery damage increased by 35%.
+Throwing Axes damage increased by 25%.
+Animal Instincts has been redesigned Flanking Strike now also reduces the remaining cooldown of a random one of the following abilities
+Flanking Strike
+Mongoose Bite
+Aspect of the Eagle
+Harpoon
+Ui-charactercreate-classes mage Mage 
+Spell holy magicalsentry Arcane
+Arcane Blast damage increased by 17%.
+Arcane Missles damage increased by 17%.
+Arcane Orb damage increased by 17%.
+Arcane Charges now increase mana costs by 125% (was 100%).
+Spell fire firebolt02 Fire
+Pyroblast damage reduced by 6%.
+Flamestrike damage increased by 15%.
+Aftershocks damage increased by 15%.
+Spell frost frostbolt02 Frost
+Brain Freeze now also increases the damage of your next Flurry by 50%.
+Waterbolt damage increased by 25%.
+Water Jet damage increased by 100%.
+Lonely Winter now increases the damage of affected spells by 25% (was 20%).
+Flurry damage increased by 5%.
+Ice Lance damage increased by 5%.
+Frostbolt damage increased by 5%.
+Ray of Frost damage increased by 5%.
+Frost Bomb damage increased by 5%.
+Comet Storm damage increased by 5%.
+Ebonbolt damage increased by 5%.
+Frozen Orb damage increased by 5%.
+Blizzard damage increased by 10%.
+Ui-charactercreate-classes monk Monk 
+Effuse now heals for 250% of attack power (was 200%).
+(Windwalker, Brewmaster) Crackling Jade Lightning now costs 20 Energy, plus 20 Energy per second.
+Monk stance drunkenox Brewmaster
+Brewmaster Monks now gain 15% additional Armor from gear.
+Brew-Stache now lasts 4.5 seconds (was 1.5 seconds).
+Monk stance wiseserpent Mistweaver
+Sheilun’s Gift now activates Soothing Mist.
+Chi-Ji Crane Heal now heals for 135% of spell power (was 150%).
+Soothing Mist now heals for 64% of spell power per tick (was 55%).
+Ui-charactercreate-classes paladin Paladin 
+Retribution Aura no longer ignores tanks (including self).
+Flash of Light now heals 450% of spell power (was 425%) and costs 18% of base mana (was 16%).
+Spell holy holybolt Holy
+The Rule of Law talent now increases the radius of Tyr’s Deliverance by 50%.
+Light’s Hammer now costs 35% of base mana (was 40%).
+Sanctified Wrath now extends Avenging Wrath by 5 seconds (was 10 seconds).
+Spell holy auraoflight Retribution
+Holy Wrath now deals 200% of your missing health in damage to 4 nearby enemies, up to 120% of your maximum health.
+Blade of Wrath has been redesigned (Passive) Your auto attacks have a chance to reset the cooldown of Blade of Justice.
+Ability paladin shieldofthetemplar Protection
+First Avenger Avenger’s Shield now add +50% damage to the first target, and +10% Grand Crusader proc chance.
+Bastion of Light now has a 2-minute cooldown (was 3 minutes).
+Crusader’s Judgment now has 2 charges, and Grand Crusader now also grants a charge of Judgment.
+Ui-charactercreate-classes priest Priest 
+Mindbender now returns 0.5% of your mana per tick (was 0.75%).
+Spell holy powerwordshield Discipline
+Power Word Solace now returns 1% of your mana per tick (was 0.75%).
+Clarity of Will’s cast time is now 2.0 seconds (was 2.5 seconds).
+Contrition now increases Atonement by 3 seconds (was 2 seconds).
+Spell holy guardianspirit Holy
+Renew healing increased to 62% of spell power (was 55%).
+Desperate Prayer now heals and increases health by 30% (was 20%).
+Divinity now lasts 6 seconds (was 8 seconds).
+Heal now heals for 500% of spell power (was 475%).
+Prayer of Mending now heals for 175% of spell power (was 150%).
+Prayer of Mending now avoids jumping to targets that already have Prayer of Mending, if possible.
+Binding Heal now costs 2.5% of mana (was 3.0%).
+Holy Fire damage increased to 200% of spell power (was 150%).
+Spell shadow shadowwordpain Shadow
+Arcane Torrent now generates 15 Insanity.
+Power Word Shield cost increased by 51%.
+Shadowform has returned as a new spell for Shadow Priests
+Assume a Shadowform, increasing your Shadow damage dealt by 10%, and reducing your Physical damage taken by 10%.
+You may not cast any Holy spells while in this form.
+The shadowy visual is now tied to Shadowform.
+Voidform now acts to intensify Shadowform. It automatically triggers Shadowform if not already active, and you gain the effects of both.
+When Voidform ends, you return to Shadowform.
+The damage of all Shadow Priest abilities has been reduced to compensate for this, resulting in no net gain or loss of damage.
+Ui-charactercreate-classes rogue Rogue 
+Kingsbane now generates 1 combo point.
+Hemorrhage, Marked for Death, and Ghostly Strike show up on the caster's nameplates.
+The cast time for all Assassination poisons has been reduced to 1.5 seconds (was 3 seconds).
+Inv sword 30 Outlaw
+Saber Slash damage increased by 10%.
+Pistol Shot damage increased by 10%.
+Ghostly Strike damage increased by 10%.
+Blunderbuss damage increased by 10%.
+Ui-charactercreate-classes shaman Shaman 
+Fire Elemental, Earth Elemental, and Feral Spirits now all have totem timers.
+Earthquake Totem has been renamed to Earthquake and no longer summons a totem.
+Torrent now provides a 30% bonus to Riptide’s initial heal (was 40%).
+Spell nature lightning Elemental
+Earth Shock damage increased by 15%.
+Frost Shock damage increased by 15%.
+Stormkeeper now also makes the affected Lightning Bolts and Chain Lightning instant.
+Stormkeeper now has a 1.5 second cast time.
+Ui-charactercreate-classes warlock Warlock 
+Demon Skin and Demonic Circle have swapped talent locations.
+Devour Magic has returned for Felhunters.
+Doomguard’s Doom Bolts damage increased by 13%.
+Spell shadow deathcoil Affliction
+Unstable Affliction now afflicts a target with up to 5 Unstable Afflictions at once.
+Compounding Horror trait redesigned its buff causes your next Unstable Affliction to deal (32% Spell Power) Shadow damage instantly, stacking up to 5 times.
+Soul Effigy is now immune to AOE damage.
+Agony damage increased by 5%.
+Unstable Affliction damage increased by 5%.
+Siphon Life damage increased by 5%.
+Drain Life damage increased by 5%.
+Drain Soul damage increased.
+Phantom Singularity damage increased by 5%.
+Corruption damage increased by 10%.
+Spell shadow metamorphosis Demonology
+Demonwrath now generates Soul Shards more consistently.
+Demonic Empowerment now increases health by 20% (was 50%).
+Thal’kiel’s consumption deals damage equal to 8% of pet health (from 6%).
+Ui-charactercreate-classes warrior Warrior 
+Inspiring Presence now affects party and raid members only.
+Hamstring is now on the global cooldown, and can once again trigger Tactician.
+Bladestorm damage increased by 8% for all specs.
+Ability warrior innerrage Fury
+Raging Blow damage increased by 8%.
+Rampage damage increased by 8%.
+Execute damage increased by 8%.
+Bloodthirst damage increased by 8%.
+Odyn’s Fury damage increased by 8%.
+Furious Slash damage increased by 8%.
+Dragon Roar damage increased by 8%.
+Ravager damage increased by 8%.
+Enrage now increases damage taken by 20% (was 30%).
+Warpaint now modifies the Enrage damage taken increase to 15%.
+Items 
+The following items now disable their effects rather than cancel the entire buff when leaving the Broken Isles
+Bloodtotem Saddle Blanket
+Leystone Hoofplates
+Demonsteel Stirrups
+The damage effects from the following trinkets should no longer hit targets that are crowd-controlled
+Six-Feather Fan
+Terrorbound Nexus
+Caged Horror
+Twisting Wind
+Emerald Nightmare trinkets
+Ravaged Seed Pod’s damage increased by 20%.
+Nature’s Call cone attack damage increased by 40%.
+Unstable Horrorslime’s damage increased by 20%.
+Bough of Corruption’s damage increased by 10%.
+Horn of Cenrius’s healing increased by 10%.
+Unbridled Fury’s duration increased by 5 seconds, and its armor and health bonuses increased by 10%.
+Swarming Plaguehive can now also drop for Shaman whose loot specialization is set to Enhancement.
+Legion Companion App 
+Bounty information has been added to World Quest tooltips.
+Added filter options on the map for active bounties.
+Items received from completed Work Orders are now shown.
+Performance improvements.
+Bug fixes.
+Leveling 
+In this patch, a large number of changes are made to improve the order and flow of abilities gained while leveling all classes.
+
+In many cases, the level 1-10 abilities that introduce the class have changed.
+Many special bonuses and features for class abilities are now granted by upgrades that are learned at a later level.
+This applies to every spec for every class other than Death Knights and Demon Hunters.
+Examples
+Druids below level 10 now use Wrath and Moonfire as their primary damage abilities, rather than Shred and Ferocious Bite.
+While Smite will still be the first spell given to Priests at level 1, the added absorb shield effect will be an upgrade learned by Discipline at level 36, as the purpose of that effect is to add to healing in group content.
+Rogues will start leveling with an ability that attacks with one weapon and generates one combo point. Rogues who choose Assassination specialization will replace that ability with Mutilate at level 40.
+New World Event 
+Return to Alcaz Isle – Dr. Weavil and the Drudge Gnomes
+Get to the bottom of Dr. Weavil’s insidious plans on Alcaz Isle.
+Rewards include the Big Red Ray toy for everyone and tamable mechanical spiders for Hunters.
+Pet Battles 
+Raiding with Leashes IV
+Delve into Ulduar, Trial of the Crusader, and Ice Crown Citadel in search of rare pets and the chance to do battle with a new Celestial foe!
+Player Versus Player 
+Nagrand Arena has received a significant visual update.
+Honor System 
+Honor talents will no longer be lost when a player chooses to Prestige.
+Players will receive gold or artifact power in lieu of honor talents at higher prestige levels.
+Rewards
+The Item Levels of PvP gear rewards now scale as World Quest gear rewards scale, and PvP gear rewards can be Titanforged, Warforged, socketed, or include tertiary stats.
+Players will no longer receive a bonus piece of gear based on their rating for the first two wins in each rated bracket (2v2, 3v3, 10v10).
+Players will now receive a bonus piece of gear based on their best rating from the previous week for each rated bracket (2v2, 3v3, 10v10).
+Bonus gear will be of the “Gladiator” type at PvP ratings below 2000, and of the “Elite” type at PvP ratings above 2000.
+The first victory of the day bonus now includes a large Artifact Power reward.
+The reward increase for your first victory of the day has been extended to all brackets Skirmishes, 2v2 Arenas, 3v3 Arenas, and Rated Battlegrounds.
+Artifact Power rewards have been increased.
+Honor Talents 
+Death Knight honor talents 
+Frost
+The two bottom rows of Death Knight Honor Talents have been significantly redesigned
+Choose one of Deathchill, Frozen Center, or Delirium
+Choose one of Tundra Stalker, Overpowered Rune Weapon, Chill Streak
+Chill Streak Damage increased, cooldown reduced to 45 seconds (was 60 seconds).
+Remorseless Winter’s snare now cannot be dispelled.
+Unholy
+Unholy Mutation duration reduced to 8 seconds (was 12 seconds).
+Druid honor talents 
+Many talents have changed positions in the Druid Honor Talent tree.
+Pouncing Strikes now affects Maim and Rip, but no longer affects Rake.
+Pouncing Strikes no longer causes you to leap towards the target.
+Tranquility now heals for double the amount in PvP.
+Disentanglement now causes Efflorescence to remove all snare effects from friendly targets when it heals.
+Thorns now deals 5% of the attacker’s total health in Nature damage.
+Nourish has been re-designed
+Reduces the cast time of Healing Touch by 0.5 seconds and automatically applies one of your missing healing-over-time spells to the target. If all of them are present, Healing Touch critically heals.
+Monk honor talents 
+Fast Feet now also reduces the duration of snares by 20%.
+Brewmaster
+Yulon’s Gift has been replaced with Niuzao’s Essence.
+Casting Purifying Brew now dispels all snare effects.
+Mighty Ox Kick cooldown reduced to 30 seconds (was 60 seconds).
+Mistweaver
+Refreshing Breeze now refreshes the duration of Essence Font on targets rather than Renewing Mist.
+The Soothing Mist from Ancient Mistweaver Arts mana cost reduced, and healing increased slightly.
+Dome of Mist duration increased to 8 seconds (was 6 seconds).
+Fortune Turned healing bonus increased to 50% per stack for 2 stacks (was 15% per stack for 3 stacks).
+Healing Sphere healing increased by about 40%, and its cooldown reduced from to 45 seconds (was 60 seconds).
+Windwalker
+Grapple Weapon is a sixth tier Honor Talent.
+Disarms the enemy for 6 seconds, with a 60 second cooldown.
+Spinning Fire Blossom generates 1 Chi, costs 50 Energy.
+Spinning Fire Blossom is now affected by Mastery Combo Strikes.
+Heavy-Handed Strikes now causes Fists of Fury to reduce the movement speed of targets by 70% for 2 seconds each time it deals damage.
+Heavy-handed Strikes has been moved to the sixth tier.
+The first tick of Fists of Fury will knock down and stun targets.
+Zen Mation has been replaced by Zen Moment
+Costs 5 Chi. Has a 45 second cooldown and a 10 second duration.
+Reduces damage taken by 20%, increases healing taken by 20%.
+Each attack that triggers Combo Strikes (in non-consecutive ability use) reduces the effect by 5%. Zen Moment fades if it reaches 0%.
+Whirling Kicks has been replaced by Control of Mists
+Every 20 seconds, Effuse is instant-cast. You gain a Control of Mists debuff with a 20 second duration after casting Effuse instantly. Each Chi spent while Control of Mists debuff is active will reduce its remaining duration by 1 second.
+Yulon’s Gift now only affects Flying Serpent Kick.
+Rushing Tiger Palm has been replaced with Disabling Reach
+Disabling Reach now increases the range of Disable by 7 yards.
+Paladin honor talents 
+Retribution
+Vengeance Aura now only affects targets who have your Greater Blessings.
+Shaman honor talents 
+Restoration
+The Honor Talent version of Spirit Link cooldown reduced to 30 seconds (was 60 seconds).
+Earth Shield’s protection now activates when the target takes an attack equal to 6% of their total health (was 10%).
+Warlock honor talents 
+Destruction
+Multiple Honor Talents have changed positions in the Honor Talent tree.
+Cremation has been redesigned
+Cremation now makes Immolate an instant cast, and Conflagrate deals an additional 4% of the target’s total health in Fire damage.
+New Honor Talent Focused Chaos
+Focused Chaos increases the damage of your Chaos Bolt by 150%, but it no longer is also cast on your targets afflicted by your Havoc.
+New Honor Talent Entrenched in Flame
+Conflagrate roots targets until cancelled. This effect is not broken by damage.
+Bane of Havoc no longer replaces Havoc, and both can be used.
+Professions 
+Blood of Sargeras
+Illnea Bloodthorn now sells valuable materials
+5 Felslates can be purchased for 1 Blood of Sargeras.
+3 Starlight Roses can be purchased for 1 Blood of Sargeras.
+3 Leylight Shards can be purchased for 1 Blood of Sargeras.
+20 Unbroken Claws or Unbroken Teeth can be purchased for 1 Blood of Sargeras.
+All other items sold in lots of 10 for 1 Blood of Sargeras.
+Cooking
+Nomi now has a chance to drop Slightly Burned Food instead of Badly Burned Food.
+Nomi will now always return 1 of the meat you gave him.
+Nomi can now teach tier 3 recipes such as Nightborne Delicacy Platter, even if you don’t know a required precedent tier 2 recipe, such as Barracuda Mrglgagh.
+Fishing
+Extended the base duration of the following bait buffs to 5 minutes
+Blessing of the Thistleleaf (Val’sharah)
+Salmon Lure (Highmountain)
+Ravenous Flyfishing (Oceanic)
+A bait duration extension has been added to the Confused Seerspine Murloc (Suramar).
+Tutorials 
+Added new Level 100 boosted character tutorials for Hunter (Survival) and Shaman (Enhancement).
+User Interface 
+Addons and Macros
+Nameplate options made less confusing.
+Addons can no longer access the positions for player, party, and raid members in instances.
+Addons can no longer perform actions on nameplate tokens.
+The icons in the icon picker for macros and guild bank tabs are larger.
+New macro conditions for “reticle” spells @cursor and @player.
+Items
+Set pieces are now called out in the personal loot banner.
+A transmogrification chat message is now displayed whenever any bind-on-equip item becomes bound to you.
+In mail, a player’s other characters have been added to the auto-complete list.
+There is now a confirmation dialog box when sending gold or items through mail and trade.
+Maps and Questing
+Flight map now shows party and raid members as well as all turn-in quests and your mini-map yellow arrow quest.
+Clicking on the dungeonraid icon on the world map will open the Dungeon Journal.
+So that you can now see what you are on top of, Player icon on World map no longer has a tooltip.
+Honor rewards now appear on World Quest tooltips.
+Added Auction House sorting by unit price and buyout.
+World quests Bonus Objectives will now always show in the tracker, even if you have a lot of tracked quests.
+When you click on an emissary button on the world map, the map now moves to a zone with an uncompleted World Quest for that emissary.
+World quests can be filtered by reward.
+Social and Grouping
+Added support for new Quick Join system.
+You can now show the in-raid self-highlight without a circle.
+Group Finder now shows raid and wing names in the LFR dropdown and tooltips.
+Miscellaneous
+Improvements made to how the UI scaling work better with 4K monitors.
+Now allowing for scaling of the cursor for 4K monitors.
+Added new “For the Horde” and “For the Alliance” emotes.

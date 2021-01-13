@@ -1,0 +1,48 @@
+General 
+Players are no longer encountering errors when having their items bid on in the Auction House. The Auctions tab also updates appropriately reflecting the bid.
+Classes 
+Area-of-effect abilities such as Consecration, Efflorescence, Healing Rain, Holy Word: Sanctuary, Ring of Frost, and Smoke Bomb now function correctly when cast on any trapdoors (ala Cho'gall) or transports even while the caster is not standing on one of those same objects.
+Death Knights
+Death and Decay no longer damages the death knight's currently selected friendly target when it does damage to nearby target dummies.
+Druids
+Starfall no longer exceeds 20 stars within its duration.
+Frost Nova, Tranquility, War Stomp, and Starfire are all properly scaled when used by or on a druid in Tree of Life form. The previous temporary hotfix which removed the ability to use War Stomp while in Tree of Life form has been reverted.
+Hunters
+Auto Shot was not firing while the hunter was moving under certain conditions. Auto Shot should now always function correctly while the hunter is moving.
+Having a melee weapon equipped no longer causes the tooltips for Cobra Shot and Steady Shot to incorrectly display extra benefit from haste.
+The cooldown for Master's Call has been increased to 45 seconds, up from 35. In addition, it can now be dispelled.
+The Warp Stalker ability Time Warp can no longer be used on paladins with the Divine Shield buff active.
+Mages
+The Quad Core buff provided by the Sanctified Bloodmage 4-piece set bonus is now properly removed as soon as a spell is cast if the mage does not have 4 pieces of the set equipped.
+Paladins
+Glyph of Dazing Shield correctly causes Avenger's Shield to daze the target, and only allows Avenger's Shield to trigger the dazed effect.
+The area-of-effect attack of Hammer of the Righteous no longer has a chance to miss secondary targets when the primary attack hits the paladin's target. If the primary attack of Hammer of the Righteous fails to hit the target due to miss/dodge/parry/block, no enemies will be affected by the area-of-effect attack. Rogues who are under Cloak of Shadows, however, are able to resist this damage.
+The Warp Stalker (hunter pet) ability Time Warp can no longer be used on paladins with the Divine Shield buff active.
+Priests
+Inner Focus can no longer be cast before the effect of its preceding spell completes (Inner Focus will only be applied to spells that are cast after it).
+Shadow Power (Shadow priest passive) now increases Shadow damage by 15%, down from 25%.
+Sin and Punishment now works properly when two players of the same faction are fighting each other (including in Arenas). A string error may appear when the opponent is feared even though the talent functions correctly.
+Warlocks
+All raid bosses are now properly immune to Suffering (Voidwalker taunt ability).
+Rogues
+Combat Readiness now triggers from all ranged attacks.
+Gouge is now breaking properly from spell and ability damage.
+Warriors
+Raging Blow has been reduced from 120% to 100% weapon damage at max level.
+Dungeons & Raids 
+Blackwing Descent
+Drakeadon Mongrels can now be taunted.
+The debuff from Pyreclaw's Flame Buffet now only lasts 8 seconds.
+The Golem Sentry's Flash Bomb damage has been reduced in the 25-player version.
+The health of Drakeadon Mongrels and Drakonid Slayers has been reduced in 10- and 25-player versions.
+Nefarian's Blazing Inferno damage and knockdown radius has been reduced to match the spell effect graphic.
+Items 
+Some Vicious Gladiator's weapons (item level 359) incorrectly had their costs increased. This has been corrected. Two-hand and ranged weapons now cost 3400 Conquest Points, while one-hand and caster weapons now cost 2450 Conquest Points.
+All Vicious Gladiator's weapons (item level 372) have been temporarily removed from the Glorious Conquest Quartermasters until the time is right to officially introduce them into Azerothian society.
+PvP 
+Many items incorrectly rendered unusable in rated Battlegrounds and Arenas have been made usable again.
+Battlegrounds 
+Battle for Gilneas
+The banners at each capture point now take 8 seconds to capture, up from 5. Note that when the banners are neutral and have not yet been captured by either faction at the start of a battle, they will display the wrong location names (Mine says Farm, Waterworks says Blacksmith, and Lighthouse says Stables).
+Races 
+Gift of the Naaru now has a maximum limit to the amount healed when used on friendly NPCs with large amounts of health.

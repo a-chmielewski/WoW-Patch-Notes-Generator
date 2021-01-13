@@ -1,0 +1,380 @@
+New Dungeon: The Cathedral of Eternal Night 
+The upper chambers of the Tomb of Sargeras were once a place of worship to Elune. Since the Legion's invasion, fel minions have desecrated this holy place, twisting it into their own image. Now, this site will host a battle that could turn the tide of the invasion. While the Armies of Legionfall engage the fel army directly, a small group of heroes infiltrates the upper reaches of the cathedral in a desperate hope to return the Aegis of Aggramar to its resting place. Inside this new dungeon, you’ll face:
+
+Boss 15 Agronoxω ϖ - This ancient served the night elves priestesses of the Temple of Elune, tending the beautiful Hanging Gardens. But after the malevolence of the Legion infected the Cathedral, the guardian absorbed fel energy through his roots. Now the twisted Agronox spreads corruption throughout the sanctuary he once protected, believing he has finally achieved his ideal state.
+Boss 15 Thrashbite the Scornfulω ϖ - Smashspite's detestable brother, Thrashbite has been dispatched to wipe out the mortals entering the cathedral's grand library. The dimwitted mo'arg lacks any respect for knowledge or learning, feeling petty satisfaction as he crashes through ancient artifacts and tramples priceless tomes.
+Boss 15 Domatraxω ϖ - With the Aegis of Aggramar socketed back into its cradle, Domatrax leads an onslaught of demons to destroy the relic.
+Boss 15 Mephistrothω ϖ - With the forces of Azeroth pushing against his front line, Mephistroth has fallen back to the Cathedral of Eternal Night, where he will employ all his cunning to ensure the heroes fail in securing the Aegis of Agrammar.
+This new dungeon is available in Heroic, Mythic, and Mythic Keystone difficulties.
+
+Class Campaigns 
+After securing a foothold on the Broken Shore and making progress with the Armies of Legionfall, every class continues its own campaign to unify in the war effort. Your Class Hall will be the base from which you will embark on a new quest chain, find a new potential Follower, and discover new class-specific World Quests.
+
+Once your class campaign and the Legionfall campaign on the Broken Shore are complete, all new epic class mounts will become available to those who finish the subsequent class mount quests.
+
+Demon Assaults 
+The Burning Legion is preparing to assault Azeroth with renewed determination. After you regain a foothold on the Broken Shore, don’t be surprised if Broken Isles zones later come under attack. It will be up to you to fight to drive the Legion back and defend the lands of your new allies. Flying in the Broken Isles
+
+Take your final steps to complete the Broken Isles Pathfinder, Part 2 achievement to unlock flying in the Broken Isles.
+
+Legion Reputation Progress 
+Reputation earned beyond Exalted will now contribute towards earning additional rewards from Broken Isles faction emissaries. These new reward caches have a rare chance to reward new faction mounts, such as the Highmountain Elderhorn, Wild Dreamrunner, and Leywoven Flying Carpet.
+
+PvP Brawls 
+A series of new twists on popular player-versus-player activities are on the way. Starting with “Southshore vs. Tarren Mill”, “Gravity Lapse”, and “Warsong Scramble”, PvP Brawls offer a variety of mode, rules, and scenic changes to the usual Battleground gameplay. Look for the Brawl option in the Group Finder (default hotkey: i) Player vs. Player tab, under the Casual selection.
+
+Pet Battle Dungeon 
+Something nefarious is going on in the world of pet battles, and it’s worth a closer look. If you have at least one level 25 battle pet, speak to Breanni in Dalaran to get directions to this new scenario.
+
+Updated Features 
+Icon--22x22Note: This is a generic section stub. You can help expand it by clicking Sprite-monaco-pencil  to the right of the section title.
+Character Empowerment
+Your bond with your Artifact has grown stronger, and your Artifact Knowledge has continued to increase. Upon reaching Artifact Knowledge 25, you will receive the quest “Seeking Lost Knowledge”, which allows you to unlock further knowledge levels. Additionally, once you have 35 or more traits in your Artifact, the time has come to improve your Artifact even more. Unlock a set of new empowered traits, additional ranks for many of your original traits, and a new final trait by embarking on a new questline.
+
+Your weapon isn’t the only thing increasing in power. From dungeon drops to World Quest rewards to items created with your professions, your armor upgrades at higher item levels than before. All the better to fight the Legion!
+
+Transmogrification Sets
+A new ‘Sets’ tab in the Appearances UI is where you’ll find this new way of tracking item sets from previous Raids, PvP Seasons, and more.
+
+Class Combat Updates
+The launch of Legion included many updates to class animations, sounds, and spell effects. These improvements continue in Patch 7.2 with updates to Hunters, Death Knights, and Balance Druids.
+
+Professions 
+The Obliterum Forge should now always be available to players, and requires no questline.
+All item level 815 crafted end-game gear will now be crafted at item level 835.
+All existing items between item levels 815-830 will retain their existing item level. The first application of Obliterum will bring them up to 840, and the Obliterum cap has been increased to iLvl 875.
+Some World Quests that are related to Professions now reward 1 skill point in their associated Profession.
+Many profession World Quests in Dalaran now reward cr for the Kirin Tor emissary.
+All recipes that are dropped by dungeon end bosses on Mythic difficulty can now drop in that dungeon’s first chest on Mythic Keystone difficulty.
+Most crafting profession recipes will now grant skill-ups to a higher maximum skill level, making it easier for crafters to reach skill level 800.
+Alchemy
+Mana and Rejuvenation potions can now be used by specs for whom a mana bar is a non-primary resource.
+The herb reagents required for Potion of the Old War, Potion of Deadly Grace, Leytorrent Potion, and Unbending Potion recipes have been reduced by 50%.
+Archaeology
+You can now get Artifact Power from Archaeology.
+New Elite digsites have been discovered in the Broken Isles.
+All enemies summoned by Archaeology can now be killed by multiple nearby players.
+Blacksmithing
+Added new craftable Legendary item:
+(Belt) Rethu’s Incessant Courage
+Cooking
+Nomi now provides Prepared Ingredients as part of his work orders, which can be combined to create up to 10 servings of a random recipe known by the player.
+Hearty Feasts now grant 400 stats (was 150), and Lavish Suramar Feasts now grant 500 stats (was 200).
+Engineering
+The felslate requirements for the Failure Detection Pylon recipe have been reduced by 50%
+The Chaos Blaster reagent cost has been reduced from 3 to 2.
+Failure Detection Pylon can now be used in Mythic Keystone dungeons.
+Sprocket Containers (bags dropped for wearers of the Boon of the Builder enchant) now have a 100% chance to contain a Hardened Felglass.
+Inscription
+New Glyph of the Wrathguard: Warlock
+Transforms your Felguard into a Wrathguard
+New Glyph of the Shadow Succubus: Warlock
+Transforms your Succubus into a Shadow Succubus
+Leatherworking
+Added new craftable Legendary items:
+(Demon Hunter, Druid, Monk, Rogue – Boots) The Sentinel’s Eternal Refuge
+(Hunter, Shaman – Boots) Vigilance Perch
+Mining
+It should now be significantly easier to start the quest to learn 2-star and 3-star Infernal Brimstone mining.
+The wall forges in the Dalaran blacksmith shop are now usable.
+Tailoring
+Added new craftable Legendary item:
+(Shoulder) Celumbra, the Night’s Dichotomy
+The amount of comfort provided by the Bloodtotem Saddle Blanket has been reduced by 20%.
+Tab Targeting 
+Tab targeting has been updated to feel more consistent. While in combat, you will no longer be able to accidentally tab to a target that is out of combat with you, unless you are looking to a new target and your hostile enemies are behind you. Furthermore, you’re no longer able to tab to a target that neither your character nor your camera can see.
+
+User Interface 
+On PvE servers, players of the opposite faction now have orange names.
+You can now assign a specialization to an equipment set in the Equipment Manager.
+The Blood of Sargeras vendor now sells items in multiple amounts (Shift-click).
+To help prevent accidental clicking, the resurrection option to “Decline” now has a brief countdown before it can be clicked.
+An “Open All” button has been added to the mailbox.
+Achievements linked from other players now show your own progress on the same tooltip.
+Appearances
+You can now preview an ensemble set by CTRL-clicking it.
+The Transmogrifier NPC is now trackable on the minimap.
+You can now search your Appearance Collection by dungeon name and boss name.
+Player versus Player
+In Arenas, your enemies’ crowd control Honor Talents are now tracked on their unit frames.
+Various improvements have been made to party member visibility in Battlegrounds.
+Quick Join
+Auto Accept: A setting has been added to allow friends and guild members to instantly join your queues without a confirmation. This setting is located in Interface Options -> Social.
+Group tooltips now show the available roles and if auto accept is enabled.
+Right click a Quick Join group to whisper a member of that group.
+Spellbook
+Spells that haven’t been moved to an action bar are highlighted in the spellbook.
+Mousing over a spell highlights it on your action bar, making it easier to locate.
+Pet spells can now be dragged onto the player action bar.
+Changes 
+Classes
+Player Taunts now increase all threat caused against the target by 400% for 3 seconds (was 200%).
+The Tauren and Dwarf racial bonuses Brawn and Might of the Mountain now correctly increase heals by 2% (was 1%).
+Non-tank specializations once again benefit from Bonus Armor from gear.
+The damage bonus that tanks and healers get per Artifact point spent has been increased to 0.65% for all tanks and Discipline Priests (was 0.5%), and the bonus has been increased to 1.3% for all other healers (was 1%).
+Ui-charactercreate-classes demonhunter Demon hunter
+Spell demonhunter vengeance Vengeance
+Demonic Wards now reduces all damage taken by 20% (was 10%), and increases Armor by 75% (was 120%).
+Ui-charactercreate-classes druid Druid
+Broken Isles Pathfinder mount speed bonuses now apply to Travel Form and Flight Form (while on the ground).
+Starfall duration and tick rate is no longer affected by Haste.
+Ability druid catform Feral Druids now deal 4% more damage with Rake, Shred, Swipe, Thrash, Brutal Slash, Moonfire, Ferocious BIte, Ashamane's Frenzy, and Rip.
+Ability racial bearform Guardian
+Intimidating Roar now roots targets in place (was a 50% snare).
+Mangle damage increased by 15%.
+Thrash (Bear) direct damage increased by 15%.
+Swipe (Bear) damage reduced by 25%.
+Developers’ Notes: This should result in overall Guardian damage remaining roughly the same, perhaps slightly higher. But it will frontload their damage more, which should help with burst threat.
+Ui-charactercreate-classes hunter Hunter
+Ability hunter bestialdiscipline Beast Mastery
+Dire Frenzy will now additionally cause your pet to charge up to 25 yards toward the target.
+Ui-charactercreate-classes mage Mage
+Arcane
+Mark of Aluneth periodic and final damage increased by 33%.
+Ui-charactercreate-classes monk Monk
+Chi Wave replaces Mistwalk talent:
+A wave of Chi energy flows through friends and foes, dealing Nature damage or healing. Bounces up to 7 times to targets within 25 yards.
+Monk stance wiseserpent Mistweavers now learn Fortifying Brew at level 55 (was Fortifying Elixir at honor level 22).
+Mistweavers now learn Essence Font (Rank 2) at level 58.
+Monk stance whitetiger Windwalker Monks now deal 8% more damage with Tiger Palm, Blackout Kick, and Rising Sun Kick.
+Ui-charactercreate-classes paladin Paladin
+Judgment of Light no longer has a cooldown between its heals on each target.
+Ui-charactercreate-classes priest Priest
+Spell shadow shadowwordpain Shadow
+Mental Fortitude (Artifact Trait) shield cannot exceed damage absorbed of 4% of player total health (was 8%), and now correctly calculates healing from Vampiric Touch.
+Ui-charactercreate-classes rogue Rogue
+Fixed a bug where Death from Above would consume combo points up to 5 with Anticipation as expected, but gain bonus damage from combo points up to 10 with Anticipation.
+Ability rogue eviscerate Assassination
+Bag of Tricks (Artifact trait) proc chance is now 2.5% per combo point spent on Envenom or Rupture.
+Urge to Kill now causes Vendetta to grant 60 energy, plus an additional 60 energy over 2 seconds.
+Inv sword 30 Outlaw
+Curse of the Dreadblades (Artifact ability) now works with Ghostly Strike.
+Fatebringer (Artifact talent) now reduces the Energy cost of Finishing moves by 1 per point (was a reduction of 2 Energy per point).
+Increased the damage of the following abilities by 3.5%: Ambush, Between the Eyes, Cannonball Barrage, Death from Above, Ghostly Strike, Killing Spree, Pistol Shot, Run Through, Saber Slash.
+Ui-charactercreate-classes warlock Warlock
+Spell shadow deathcoil Affliction
+Refreshing Reap Souls will no longer overwrite the current buff’s duration with a new one. The new duration will now be added to the existing duration, up to a maximum duration of 60 seconds.
+Reap Souls (Artifact ability) now has a 5 second cooldown.
+Developers’ note: Previously, casting Reap Souls at 5 stacks (which would grant 25 seconds of the buff) with 20 seconds currently left on the buff would just overwrite your old 20 second buff with a 25 second buff. Now, in this case it will increase the buff duration to 45 seconds.
+Souls are now reset to 0 at the start of an encounter. The buff is also canceled at the start of an encounter. Ulthalesh now has a greatly increased chance to generate the first three Tormented Souls at the beginning of a raid encounter.
+Developers’ note: Souls are a resource, and we have a rules about resetting your resources/stacks of a buff before an encounter, so that every attempt is standardized. Having souls the first time you fight a raid boss feels good, but it makes every other attempt after that feel worse by comparison.
+Ui-charactercreate-classes warrior Warrior
+Charge (and Intercept) now deals damage on arrival, and its snare begins after you hit your target.
+Class Halls
+Artifact Researchers now have explanatory dialogue options when you have completed all Work Orders they offer.
+Dungeons
+The item levels of gear found in Legion Dungeons has been increased.
+Enemies’ damage and health have been increased for all Heroic and Mythic dungeons, including Mythic Keystone Dungeons.
+All Random Heroic dungeons now require 825 item level to queue.
+Lower Karazhan and Upper Karazhan have been added to the Random Legion Heroic list in Dungeon Finder.
+The Arcway and Court of Stars have been added to the Random Legion Heroic list in Dungeon Finder.
+Mythic Keystone Dungeons
+Mythic Keystone dungeons now award gear up to item level 890 at keystone level 10, and now award gear up to item level 905 in the weekly Challenger’s Chest (at keystone level 10).
+Artifact Power rewards from both Mythic Keystone dungeons and the weekly Challenger's Chest now continue through keystone level 30.
+Added 60 seconds to the Black Rook Hold timer.
+Added a Night Watch Mariner to the top deck in the Maw of Souls while Teeming is active.
+Killing Cove Seagulls should now add Enemy Forces cr.
+New Affix: Bursting (level 4)
+When slain, non-boss enemies explode, causing all players to suffer 10% of their maximum health in damage over 4 seconds. This effect stacks.
+New Affix: Fel Explosives (level 7)
+Creatures have a chance to summon an Explosive Orb at a nearby location that will explode, inflicting damage of 50% of the player’s maximum health.
+New Affix: Quaking (level 7)
+Periodically, players will Quake, inflicting damage of 20% of the player’s maximum health and interrupting spell casts of themselves and nearby allies.
+New Affix: Grievous (level 7)
+While below 90% health, players are afflicted with Grievous Wound.
+The Overflowing affix has been removed.
+The Bolstering affix range has been reduced to 30 yards (was 45 yards).
+Developers’ notes: The intent of this change is to allow players more opportunities for crowd control.
+Necrotic Rot will now expire after leaving combat. Duration reduced to 9 seconds (was 10 seconds).
+Developers’ notes: This should eliminate the situation where players were waiting for Necrotic to fall off after killing enemies, and it should give tanks more opportunities for resets while in combat.
+Skittish threat reduction has been lowered to 75% (was 80%).
+Fortified damage bonus lowered to 30% (was 40%).
+Tyrannical damage bonus lowered to 15% (was 20%).
+Sanguine radius increased to 8 yards.
+Mythic Keystones can now direct you to Lower Karazhan, Upper Karazhan, and the Cathedral of Eternal Night.
+Artifact Power rewards for Mythic Keystone dungeons have been adjusted:
+Longer dungeons, such as Halls of Valor, now award a proportionately higher amount of Artifact Power.
+Shorter dungeons, such as Maw of Souls, now award a proportionately lower amount of Artifact Power.
+Artifact Power bonuses have been added to your weekly chest rewards. These increase based on the highest level Mythic Keystone you completed.
+Items
+Broken Isles World Quest rewards now scale to item level 860 (was item level 845).
+Set tokens for all raids from Serpentshrine to Siege of Orgrimmar have been updated to provide loot for your spec on right-click, in the same manner as newer raid set tokens. The vendor functionality of these items has not been changed.
+A number of unavailable items belonging to PvP sets from the Burning Crusade and Wrath of the Lich King expansions have been made available again from vendors.
+Class Order Hall Sets can now be upgraded to item level 870 via rare items obtainable from Broken Shore World Quests.
+Drape of Shame: Now increases critical healing by 5% (was 10%).
+Ui-charactercreate-classes hunter Hunter
+(Ability hunter bestialdiscipline Beast Mastery) The Eagletalon Battlegear 2-piece bonus should now correctly display its functionality with the Dire Frenzy talent.
+(Beast Mastery) The Eagletalon Battlegear 4-piece bonus should now correctly display its functionality with the Dire Frenzy talent.
+Legendary Items
+Legion Legendary items now require level 101 (was 110).
+Multiple Classes
+Aggramar’s Stride: Now has an additional 617 Critical Strike (@ ilvl 940) as a third bonus secondary stat. Now grants movement speed equal to 75% of your Haste, Critical Strike, Mastery, or Versatility, whichever is highest.
+Norgannon’s Foresight: Now triggers after standing still for 6 seconds (was 8 seconds), granting you the ability to cast while moving for 4 seconds (was 5 seconds). Now has a new visual indicating when you gain its ability to cast while moving. Now has an additional 617 Critical Strike (@ ilvl 940) as a third bonus secondary stat.
+Sephuz’s Secret: Now always grants 10% increased movement speed and 2% Haste. When triggered, this bonus is increased to the current values of 70% movement speed and 25% Haste. The 10% movement speed bonus now stacks with other movement speed bonuses.
+Roots of Shaladrassil: Now has an additional 658 Critical Strike (@ ilvl 940) as a third bonus secondary stat.
+Ui-charactercreate-classes deathknight Death knight
+Acherus Drapes: Now has an additional 771 Mastery (@ ilvl 940) as a third bonus secondary stat.
+Spell deathknight bloodpresence Blood
+Rattlegore Bone Legplates: Now also increases Bone Shield’s damage reduction by 2%.
+Service of Gorefiend: Now has an additional 1233 Leech (@ ilvl 940) as a bonus tertiary stat.
+Spell deathknight frostpresence Frost
+Perseverance of the Ebon Martyr: Howling Blast deals 20% increased damage to enemies recently damaged by your Remorseless Winter (was 40%).
+Spell deathknight unholypresence Unholy
+Death March: Now also increases Death Strike and Death Coil damage by 10%.
+Tak’theritrix’s Shoulderpads: Damage bonus duration increased to 30 seconds (was 20 seconds).
+Ui-charactercreate-classes demonhunter Demon hunter
+Spell demonhunter havoc Havoc
+Achor, the Eternal Hunger: Now has an additional 658 Mastery (@ ilvl 940) as a third bonus secondary stat.
+Anger of the Half Giants: Demon Blades generates an additional 1-6 Fury (was 1-8 Fury).
+Loramus Thalipedes' Sacrifice: Damage bonus now starts with the first target hit (was second target hit).
+Mo'arg Bionic Stabilizers: Damage bonus now starts with the first target hit (was second target hit).
+Spell demonhunter vengeance Vengeance
+The Defiler's Lost Vambraces: Now has an additional 539 Avoidance (@ ilvl 940) as a bonus tertiary stat.
+Ui-charactercreate-classes druid Druid
+All Specs
+Ekowraith, Creator of Worlds: Now has an additional 658 Haste (@ ilvl 940) as a third bonus secondary stat.
+Spell nature starfall Balance
+Promise of Elune, the Moon Goddess: Now also increases the damage of Solar Wrath and Lunar Strike by 8%.
+Ability druid catform Feral Combat
+Chatoyant Signet: Now also increases your Energy regeneration by 5%.
+Fiery Red Maimers: Now also causes your next Maim to cost no Energy.
+Ability racial bearform Guardian
+Oakheart's Puny Quods: Barkskin instantly grants 45 Rage plus an additional 30 Rage (was 15 Rage) over 3 seconds.
+Spell nature healingtouch Restoration
+The Dark Titan's Advice: Now also causes Lifebloom’s periodic healing to have a 5% chance to trigger the final healing effect.
+Tearstone of Elune: Allies healed by your Wild Growth have a 15% (was 20%) chance to also gain Rejuvenation.
+X'oni's Caress: Now also reduces Ironbark’s cooldown by 20%.
+Essence of Infusion: Tranquility heals targets below 60% (was 50%) health for 60% (was 50%) more.
+Aman’thul’s Wisdom: When your Rejuvenation heals a full health target, its duration is increased by 3 seconds, up to a maximum total increase of 15 seconds per cast.
+Ui-charactercreate-classes hunter Hunter
+All Specs
+The Shadow Hunter's Voodoo Mask: Now has an additional 658 Critical Strike (@ ilvl 940) as a third bonus secondary stat.
+Ui-charactercreate-classes mage Mage
+All Specs
+Belo’vir’s Final Stand: Now has an additional 658 Mastery (@ ilvl 940), as a third bonus secondary stat.
+Spell holy magicalsentry Arcane
+Cord of Infinity: Each time Arcane Missiles hits an enemy, the damage of your next Mark of Aluneth is increased by 1%. This effect stacks.
+Spell fire firebolt02 Fire
+Darckli’s Dragonfire Diadem: Now has a new visual when Dragon’s Breath is cast.
+Pyrotex Ignition Cloth: Phoenix Flames reduces the remaining cooldown on Combustion by 9 seconds (was 6 seconds).
+Ui-charactercreate-classes monk Monk
+Monk stance wiseserpent Mistweaver
+Eye of Collidus the Warp-Watcher: Each time Soothing Mist heals, the absorb amount of your next Life Cocoon is increased by 3% (was 1%), stacking up to 50 times (was 100). Fixed a bug where the second Soothing Mist from Unison Spaulders did not grant a second stack of the buff.
+Ovyd's Winter Wrap: Each time Enveloping Mist heals, its healing bonus has a 50% chance to spread to an injured ally within 30 yards.
+Ei'thas, Lunar Glides of Eramas: Uplifting Trance increases your Vivify healing by an additional 10% and causes it to heal 1 additional target.
+Monk stance whitetiger Windwalker
+Drinking Horn Cover: The duration of Storm, Earth, and Fire is increased by 0.4 seconds (was 0.6 seconds) for every Chi you spend. The duration of Serenity is now extended by 0.3 seconds every time you cast a Chi spender.
+The Emperor’s Capacitor: Damage bonus per stack increased to 100% (was 50%).
+Hidden Master's Forbidden Touch: Now also increases Touch of Death’s damage by 40%.
+Katsuo's Eclipse: Reduce the cost of Fists of Fury by 1 Chi (was 2 Chi).
+March of the Legion: Now has an additional 1068 Mastery (@ ilvl 940) as a third bonus secondary stat. Haste stat reduced slightly.
+Ui-charactercreate-classes paladin Paladin
+Spell holy holybolt Holy/Ability paladin shieldofthetemplar Protection
+Uther’s Guard: Now has an additional 617 Haste (@ ilvl 940) as a third bonus secondary stat.
+Spell holy holybolt Holy
+Ilterendi, Crown Jewel of Silvermoon: Judgment increases all healing you do by 15% for 5 seconds (was 20%).
+Tyr's Hand of Faith: Reduces the cooldown of Lay on Hands by 70% (was 60%).
+Ability paladin shieldofthetemplar Protection
+Tyelca, Ferren Marcus's Stature: Now also increases Avenger’s Shield’s damage by 20%.
+Spell holy auraoflight Retribution
+Aegisjalmur, the Armguards of Awe: Now has an additional 617 Haste (@ ilvl 940) as a third bonus secondary stat.
+Justice Gaze: Now also causes Hammer of Justice to generate 1 Holy Power when used against targets above 75% health. Mastery reduced by 412 (@ ilvl 940) and Haste increased by 412.
+Ui-charactercreate-classes priest Priest
+Spell holy powerwordshield Discipline
+Skjoldr, Sanctuary of Ivagont: Now also increases Power Word: Shield’s absorb amount by 15%.
+Spell holy guardianspirit Holy
+Muze’s Unwavering Will: Now also affects Flash Heal.
+Rammal's Ulterior Motive: Healing bonus increased to 20% (was 15%).
+Spell shadow shadowwordpain Shadow
+Zenk'aram, Iridi's Anadem: Now also increases Voidform’s Shadow damage dealt bonus by 3%.
+Anund's Seared Shackles: Each time Shadow Word: Pain and Vampiric Touch deal damage, your next Void Bolt gains 3% (was 4%) increased damage, stacking up to 50 times.
+Ui-charactercreate-classes rogue Rogue
+All Specs
+Mantle of the Master Assassin: Fixed a bug where Subterfuge combined with Vanish granted an additional 3 seconds of benefit.
+Will of Valeera: Now has an additional 658 Mastery (@ ilvl 940) as a third bonus secondary stat. Haste reduced by 412 and Critical Strike increased by 412.
+Ui-charactercreate-classes shaman Shaman
+Spell nature lightningshield Enhancement
+Akainu’s Absolute Justice: Lava Lash deals 50% (was 30%) increased damage while your weapons are enhanced by both Flametongue and Frostbrand.
+Spiritual Journey: Now has an additional 617 Haste (@ ilvl 940) as a third bonus secondary stat.
+Spell nature magicimmunity Restoration
+Nobundo’s Redemption: Chain Heal reduces the cost of your next Healing Surge by 50% (was 30%).
+Ui-charactercreate-classes warlock Warlock
+All Specs
+Pillars of the Dark Portal: Now has an additional 658 Haste (@ ilvl 940) as a third bonus secondary stat.
+Spell shadow deathcoil Affliction
+Sacrolash’s Dark Strike: Now also increases Corruption’s damage by 15%.
+Spell shadow metamorphosis Demonology
+Sin’dorei Spite: With Grimoire of Supremacy, there is now a visual debuff that displays the 3-minute cooldown.
+Ui-charactercreate-classes warrior Warrior
+All Specs
+Timeless Strategem: Now has an additional 717 Versatility (@ ilvl 940) as a third bonus secondary stat.
+Mannoroth's Bloodletting Manacles: Now has an additional 771 Versatility (@ ilvl 940) as a third bonus secondary stat.
+Ability warrior defensivestance Protection
+The Walls Fell: Now also increases Shield Slam’s Rage generation by 2.
+Thundergod's Vigor: Each enemy you hit with Thunder Clap reduces the remaining cooldown on Demoralizing Shout by 3 seconds (was 1 second).
+Player versus Player
+The honor requirements for leveling through the honor system have been reduced.
+The amount of honor required to advance from 1 to 50 at Prestige 0 has been reduced by 50%.
+The conversion of Honor to XP has been increased by 50%.
+In instanced PvP (arenas, battlegrounds, and Ashran), Artifacts now grant a minimum Stamina increase to all players. This minimum is equivalent to the purchase of 36 points, one of which is the trait which grants 10% Stamina.
+The 20% Expertise granted to players in PvP will no longer be counted against 100% Parry or Dodge abilities such as Evasion or Die by the Sword.
+Players can now obliterate current Season Gladiator gear in the Obliterum Forge to create Echoes of Battle.
+Players can now obliterate current Season Elite Gladiator gear in the Obliterum Forge to create Echoes of Domination.
+Vendors have been added to Greymane’s Enclave and Windrunner’s Sanctuary that sell gear tokens for Echoes of Battle and Echoes of Domination.
+In Arenas, a surrender option has been added to the queue icon on the minimap. Players can surrender once one of their teammates dies.
+Ui-charactercreate-classes demonhunter Demon hunter
+Spell demonhunter havoc Havoc
+The duration of Nemesis is reduced to 15 seconds in PvP.
+The damage of Chaos Strike and Annihilation is reduced by 15% in PvP.
+Spell demonhunter vengeance Vengeance
+Vengeance no longer deals 10% reduced damage in PvP.
+Ui-charactercreate-classes druid Druid
+Spell nature starfall Balance
+Enemy players can now see the radius of Starfall while active
+Moonfire, Sunfire, and Starfall now deal 50% less periodic damage to player targets.
+Solar Wrath now deals 40% more damage to player targets.
+Shooting Stars grants 2 Astral Power on player targets (was 4 Astral Power)
+Dying Stars restores 3 Astral Power (was 8 Astral Power)
+Intellect increased by 15%.
+Ability druid catform Feral Combat
+Bloodletter's Frailty increases the damage you deal to the target by 15% in PvP.
+Inv misc questionmark Restoration
+Wild Growth cast by Overgrowth now only applies to the initial target.
+Ui-charactercreate-classes hunter Hunter
+Ability hunter camouflage Survival
+Diamond Ice no longer prevents the use of Ice Block and Divine Shield.
+Ui-charactercreate-classes mage Mage
+Spell holy magicalsentry Arcane
+Intellect reduced by 5%.
+Spell frost frostbolt02 Frost
+Concentrated Coolness now increases the damage of Frozen Orb by 225% (was 250%).
+Ui-charactercreate-classes monk Monk
+Monk stance drunkenox Brewmaster
+Brewmaster no longer deals 10% reduced damage in PvP.
+Monk stance wiseserpent Mistweaver
+Monk stance whitetiger Windwalkers’ Fortifying Elixir renamed and is now Fortifying Brew.
+Mana cost of the Ancient Mistweaver Arts version of Soothing Mist reduced by 25%.
+Mana Regeneration increased by 5%.
+Ui-charactercreate-classes paladin Paladin
+Spell holy auraoflight Retribution
+Lawbringer no longer damages targets that are under the effects of crowd-control abilities that break on damage.
+Ui-charactercreate-classes priest Priest
+Spell shadow shadowwordpain Shadow
+Intellect increased by 5%.
+Edge of Insanity now provides a 20% damage increase while you're at 100 Insanity and not in Voidform.
+Edge of Insanity now activates above 65 Insanity when talented into Legacy of the Void.
+Psyfiend can no longer be targeted using target macros.
+Ui-charactercreate-classes warrior Warrior
+Ability warrior defensivestance Protection
+Mass Spell Reflection now provides 30% magical damage reduction while active.
+Ui-charactercreate-classes warlock Warlock
+Spell shadow deathcoil Affliction
+PvP Template Intellect increased by 5%.
+Spell shadow metamorphosis Demonology
+The damage of Doom is reduced by 15% in PvP.
+Spell shadow rainoffire Destruction
+Fel Fissure's duration has been reduced to 6 seconds (was 15 seconds).
+Raid
+The Nighthold
+Star Augur Etraeus
+The duration of all Star Sign debuffs has been increased to 15 seconds.

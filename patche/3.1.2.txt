@@ -1,0 +1,77 @@
+General
+Equipment Manager: When enabled from the Interface Options menu, this feature will allow players to store sets of equipment, easily swap between saved sets using hotkeys, and pull items directly from backpacks or bank slots (must be at the bank to equip inventory from the bank).
+New art textures have been added for Argent Tournament mounts. Any mounts already purchased from the Argent Tournament vendors will be updated automatically. Argent Tournament mounts with the old textures will still be available for purchase from the Argent Tournament vendors for a small [Champion's Seal] and gold cost (standard faction requirements apply).
+PvP
+Vehicle health and damage output in Strand of the Ancients and Lake Wintergrasp now scale with the item level of the operator's gear. Power scaling is now 1% damage and 1% health per average item level.
+All Lake Wintergrasp daily quests have been changed to a weekly format. The honor and [Stone Keeper's Shards] rewarded for completing these quests have been increased to compensate.
+The bonus honor for winning the battle in Wintergrasp and controlling/destroying towers has been reduced.
+Classes
+Death knights
+Improved Death Strike: This talent now also increases the healing from Death Strike by 25/50% and the tooltip has been adjusted to reflect the actual functionality after the hotfix in 3.1.0.
+Ghoul Frenzy: Now has a 10-second cooldown.
+Druids
+Innervate: This ability has been redesigned to grant 450% of the casting Druid's base mana pool to the target over 20 seconds.
+Improved Moonkin Form: Now grants 10/20/30% of spirit as spell power.
+Hunter
+Disengage: Cooldown reduced by 5 seconds.
+Mages
+Mirror Images: The images summoned by this spell will now target the creature that most hates the Mage, and should no longer cast Fire Blast or Frostbolt on targets that are affected by crowd control debuffs that break immediately on damage unless they are already casting these spells when crowd control is applied.
+Paladins
+Blessing of Wisdom and Greater Blessing of Wisdom: Now grant 92 mana per 5 seconds to prevent being overwritten by Mana Spring Totem.
+Exorcism: Can no longer be used on player-controlled creatures.
+Priests
+Divine Hymn: Healing and healing scaling reduced by 30%. Buff on affected players changed from 15% to 10%.
+Renewed Hope: Effect can no longer be dispelled.
+Soul Warding: Mana cost reduction is now 15% down from 30%.
+Warlocks
+Conflagrate updated: Consumes an Immolate or Shadowflame effect on the enemy target to instantly deal damage equal to 12 seconds of your Immolate, or 8 seconds of your Shadowflame.
+Fire and Brimstone: No longer increases the damage of your Immolate spell, but now increases the bonus damage your Incinerate deals to targets afflicted by your Immolate by 6/12/18/24/30%.
+Nether Protection reduced to 30% damage reduction, down from 60%.
+Sacrifice (Voidwalker) redesigned: Sacrifices a portion of the Voidwalker's health, giving its master a shield that will absorb X damage for 30 seconds. While the shield holds, spell casting will not be interrupted by damage. 1-minute cooldown.
+Shadow and Flame: Now also includes Shadowburn.
+Warriors
+Juggernaut: Critical strike chance bonus reduced to 25%, down from 100%.
+Items
+Darkruned 2-Piece Set Bonus: The bonus critical strike chance for Frost Strike and Death Coil has been increased from 5% to 8%.
+[Furious Gladiator's Staff] and [Furious Gladiator's Greatstaff]: The agility values on these two items were too high. They have been reduced by 50%.
+[Guise of the Midgard Serpent]: The base attack power on this item has been lowered to balance the stat and socket budget.
+Increased the health and mana restored from Northrend food and drinks.
+Most scopes now have a level requirement and will bind the item to which they are applied.
+Nightsong 4-Piece Set Bonus: Chance for Insect Swarm to trigger an instant Starfire changed to 15%.
+Scourgeborne 4-Piece Set Bonus: The runic power gain has been reduced to 5 runic power from 10 runic power.
+Glyphs
+[Glyph of Innervate]: Has been adjusted to grant the Druid 90% of his or her base mana pool over 20 seconds.
+[Glyph of Mass Dispel]: Now only decreases Mass Dispel cost by 35%.
+[Glyph of Rapid Charge]: Reduced to 7%, down from 20% cooldown reduction to Charge.
+Professions
+Fishing
+Jewel of the Sewers: You can now fish in all parts of the Dalaran sewers for this quest.
+[Phantom Ghostfish]: Can now be caught from Nettlefish Schools in Sholazar Basin.
+User Interface
+For additional notes on Lua and XML changes please visit the UI & Macros forum.
+Bug fixes
+Death knights
+Anti-Magic Shell: Tooltip error corrected.
+Blood Boil: If no target is available for Blood Boil to hit, the spell will now cast and consume a blood rune but generate no runic power.
+Druids
+Maim: Rank 2 of this ability is properly considered a stun and can be escaped by Blink.
+Hunters
+Go For The Throat: Explosive Shot critical strikes now trigger this talent.
+Lock and Load: The tooltip has been corrected to display its actual chance to occur.
+Rabid: This Hunter pet talent no longer lists a percentage chance to be triggered, as that chance varies by the attack speed of the pet.
+Paladins
+Divine Sacrifice: Damage done to the Paladin while this is active will no longer cause the effect to break early, and if it is dispelled or canceled early, the damage counter will reset correctly the next time the spell is cast.
+Rogues
+Shadow Dance: Issues with action bars and ability use arising from using Stealth while Shadow Dance is active have been fixed.
+Tricks of the Trade: To prevent exploits, this ability can no longer be cast on non-player targets.
+Warlocks
+Demonic Sacrifice: This spell will no longer appear in any Warlock's spellbook.
+Professions
+Tailoring
+[Swordguard Embroidery]: Now correctly increases ranged attack power.
+Dungeons and raids
+Players can no longer become saved to an instance when they aren't in the instance during a boss kill.
+Ulduar
+Hodir should now reset in a timely manner if a group fails to kill him.
+10-player bosses that drop [Runed Orbs] will also sometimes drop the recipes that use those orbs.
+The Spark of Imagination: Characters that release in part of the boss room will no longer be ported to Westfall or The Barrens.

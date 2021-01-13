@@ -1,0 +1,40 @@
+Classes
+Druids 
+[Ferocious Bite]: This ability now only uses up to 30 energy in addition to its base cost.
+Hunters 
+[Kindred Spirits] (Beast Mastery): This talent now grants 20% pet damage at max rank.
+[Serpent's Swiftness] (Beast Mastery): This talent now grants 20% pet attack speed at max rank.
+Pets 
+[Lava Breath] now reduces the target's casting speed by 25%, down from 50%.
+[Poison Spit] now reduces the target's casting speed by 25%, down from 50%.
+Mages 
+[Arcane Power] now increases damage and mana cost by 20%, cooldown reduced to 2 minute.
+[Arcane Power] and [Presence of Mind] now share a category cooldown. [Arcane Power] causes a 15 second cooldown. Presence of Mind}}, once consumed, causes a 1.5 second cooldown.
+[Arcane Flows] now reduces the cooldown of [Presence of Mind], [Arcane Power] and [Invisibility] by 15/30%.
+[Presence of Mind]: The cooldown has been reduced to 2 minutes (down from 3).
+[Slow]: now increases cast time by 30%, down from 60%.
+Paladins 
+The duration on all [Seal]s has been increased to 30 minutes and can no longer dispelled.
+[Divine Plea]: The amount healed by your spells is reduced by 50% (up from 20%), but the effect can no longer be dispelled.
+[Sanctified Seals]: This talent no longer affects dispel resistance, but continues to affect crit chance.
+Priests 
+[Inner Fire] duration has been increased to 30 minutes and can no longer dispelled.
+Rogues 
+[Hunger for Blood] (Assassination): Now increases damage 5% per stack, (up from 3%.)
+[Mind Numbing Poison] now reduces cast time by 30%, down from 60%.
+[Mutilate] damage will now do 20% increased damage against poisoned targets, down from 50%.
+[Slice and Dice]: This ability now increases melee attack speed by 40%, up from 30%.
+Warlocks 
+[Curse of Tongues]: Now increases the casting time of all spells by 25% (Rank 1) and 30% (Rank 2), down from 50% and 60%.
+Dungeons and Raids 
+The Obsidian Sanctum 
+Changed the color of the fissure in the Obsidian Sanctum to be more visually distinct.
+User Interface 
+The "GM wishes to speak with you" alert/button, at the top of the screen, has been changed so that addons do not obscure it.
+A clickable chat message has been added that duplicates the GM alert/button.
+When a GM wishes to speak with you the Help Request minibar button will glow.
+For additional notes on Lua and XML changes please visit the UI & Macros forum.
+Bug Fixes 
+Fixed an issue where players using nVidia 3D glasses were unable to see spell cooldowns.
+Fixed a software mouse cursor bug that was causing the mouse cursor to disappear from view when over certain UI elements.
+Fixed a player movement error in which other players were appearing to move erratically when traveling beside them.

@@ -1,0 +1,711 @@
+General 
+New Raid: Siege of Orgrimmar
+The tensions stoked by Garrosh Hellscream’s arrogance have reached a boiling point with the devastation unleashed upon the Vale of Eternal Blossoms (US, EU. Now it’s time for leaders of the Alliance and Horde to lay siege to Hellscream’s capital and topple the ruthless Warchief once and for all!
+Siege of Orgrimmar contains 14 new encounters across four expansive wings as members of the Horde and Alliance take the war directly to Garrosh’s doorstep.
+Learn more about the new encounters in Patch 5.4 Raid Preview: Siege of Orgrimmar (US, EU).
+Siege of Orgrimmar supports the following difficulty modes: Normal, Heroic, Raid Finder, and (new) Flexible Raid.
+Information on the availability of each difficulty can be found in the Siege of Orgrimmar Raid Schedule (US, EU).
+New Feature: Flexible Raid Difficulty
+This is a new raid difficulty designed for pre-made groups of 10 to 25 players or any number in between. This means it's possible to have raids of 15 or 22 players! Difficulty will adjust automatically based on the number of players present with encounters intended to provide a challenge roughly between Raid Finder and Normal difficulty.
+Flexible Raid difficulty requires a pre-made group to join but has no minimum item level requirements or role restrictions. Both BattleTag™ (US, EU) and Real ID (US, EU) friends are eligible to participate.
+Loot quality will be between Raid Finder and Normal difficulty and awarded through a personal loot system (similar to Raid Finder). Bonus rolls and loot specialization will also be supported.
+Player spells with different target limits depending on raid size will gradually increase their limits based on the number of players in Flexible Raid difficulty.
+Players will be able to earn raid achievements just like in Normal or Heroic difficulty.
+Flexible Raid difficulty has a lockout that is separate from Raid Finder and Normal difficulty.
+To learn more about Flexible Raids, please visit our blog titled: A Raid for All Seasons: Flexible Raid Preview (US, EU).
+New Area: Timeless Isle
+A mysterious island, lost for millennia to the currents of time, has emerged from the mists off the eastern coast of Jade Forest.
+Players seeking to explore the Timeless Isle should visit their faction's shrine in the Vale of Eternal Blossoms. check their mailboxes, where a Curious Ticking Parcel awaits. Unwrapping it will set you on the first step of your new adventure.
+The Timeless Isle is inhabited by all manner of strange and powerful creatures that will test the mettle of solo explorers, but great rewards await the brave and skillful: epic loot, bind-to-account gear, Mogu Runes of Fate, pets, mounts, fun toys, and much more.
+The Isle is filled with secrets and mysteries, many of which dynamically become available to explorers. Keep an eye on your minimap while on the Isle for information on nearby events!
+The Timeless Isle is home to five new world raid bosses! Players may face each of the four Celestials in a trial of combat.
+Heroes who have earned the legendary cloak from Wrathion may access the sanctum of the fiery Yaungol demigod Ordos, atop the Timeless Isle.
+New Feature: Proving Grounds
+Proving Grounds is a new feature where level 90 players can test their mettle and undertake trials designed for Damage, Tank, or Healer roles to test and improve their combat skills in a safe, controlled environment.
+To access the Proving Grounds, speak with an NPC in the Temple of the White Tiger in Kun-Lai Summit or a class trainer.
+Each trial is available in four separate difficulties: Bronze, Silver, Gold, and Endless. Harder difficulties include more difficult and varied enemies.
+Endless mode allows you to test your mettle against increasingly difficult enemies. Compare your best scores to friends and guildmates!
+Learn more about this feature in our blog titled Proving Grounds Preview (US, EU).
+New Feature: Connected Realms
+Connected Realm is a set of two or more standard realms that have been permanently and seamlessly “linked.” Players on the same Connected Realm will be able to trade, send and receive mail, join the same guilds, access a single Auction House, run the same Raids and Dungeons, and join other adventurers to complete quests.
+To make Connected Realm feel seamless, player’s home realms won't be indicated in the game world. In certain places, such as chat, the players' home realms will be displayed next to their name.
+Learn more about this feature in our Patch 5.4 Feature Preview: Connected Realms (US, EU).
+Redesigned Arena System
+Players no longer need to create or join an Arena team to compete.
+Similar to the Rated Battleground system, players in a party of the appropriate size (cross-realm groups are supported) may queue for an Arena bracket of the same size (2v2, 3v3, or 5v5).
+Each player will have a personal rating that increase or decrease based on victories and defeats against other rated opponents. Opponents will be selected based on the average Match Making Rating of the party.
+Conquest cap, requirements on gear and enchantments will be based on the player's personal rating.
+The Arena ladder will no longer be sorted according to Battlegroup. Just like Rated Battlegrounds and normal Battlegrounds, all Arenas will now be region-wide!
+At the end of an Arena season, the top players in a region will still earn titles and mounts.
+For more details about the change to Arenas, please see the blog titled: Patch 5.4 Arena Update (US, EU).
+The Legendary Quest Continues
+Wrathion’s final quests are now available for dedicated heroes who have fought on his behalf throughout the pandaren campaign. He’s waiting at the Tavern in the Mists in the Veiled Stair.
+Complete Wrathion’s final tasks on the Timeless Isle and upgrade your celestial cloak to Legendary quality!
+Only players equipped with a Legendary cloak can reach the Sanctum of Ordos atop the Timeless Isle. (This privilege extends account-wide.)
+Battlefield: Barrens
+Vol’jin and his forces move beyond gathering supplies and into a full assault on the Horde capital. As such, the Battlefield: Barrens weekly quest will no longer be available once the invasion on Orgrimmar begins in 5.4.
+Ravika, the Darkspear Rebellion Quartermaster, will no longer be available.
+Latent Kor'kron armor tokens will no longer drop or be available for purchase. Players who still have a Radical Mojo will continue to be able to combine it with existing Latent Kor'kron armor tokens.
+Gahz'rooki's Summoning Stone and Raptorhide Boxing Gloves are now available as a rare drop from Kor’kron, and other associated creatures in Northern Barrens.
+Patchnotes-icon-classes Classes 
+All fear and horrify effects can no longer cause targets under the effects of a movement speed buff to move faster than normal run speed.
+All taunt type abilities now increase all threat generated against the target while the taunt is active by 200%.
+Vengeance has received several changes.
+Characters in a tanking specialization now generates 40% more threat.
+Vengeance now grants Attack Power equal to 1.5% of the damage taken, down from 1.8% (The tooltip said 2% but it was actually 1.8%).
+Tanks no longer receive Vengeance from many persistent area damage effects (standing in the fire) or from missed attacks (dodging and parrying an attack will continue to work as it has before).
+Vengeance gains from being critically hit have been reduced by 50%.
+There are now diminishing returns on Vengeance gains while tanking multiple targets. Each additional target grants progressively less Vengeance.
+So as not to affect Challenge Mode leader boards, the above Vengeance changes will not apply there. For Challenge Modes, Vengeance will continue to work as it did in patch 5.3.
+Area knockback effects now all share a diminishing return category. After a player has been moved by one of these spells, the player will be immune for 10 seconds. This new category applies to: Fellash, Gorefiend’s Grasp, Glyph of Explosive Trap, Thunderstorm, Typhoon, Ursol’s Vortex, and Whiplash.
+Patchnotes-icon-death knight Death Knight 
+General
+Death Gate now returns the Death Knight to a location near their original departure point when the spell is cast while in Ebon Hold.
+Icebound Fortitude no longer costs Runic Power.
+Necrotic Strike now deals 100% weapon damage (down from 150% weapon damage).
+Rune of Razorice now causes 3% extra weapon damage as Frost damage (up from 2%), and each stack of Frost Vulnerability now causes the target to take an additional 3% damage from the Death Knight's Frost attacks (up from 2%).
+Soul Reaper's initial damage component has been increased by 30%. If the target is below 35% health after 5 seconds the amount of Shadow Damage dealt has been increased by 20%.
+Unholy Presence now grants a flat 10% Haste to all things, up from Haste for melee (attack speed and Rune regeneration) only. The movement speed buff remains unchanged.
+Blood
+Riposte is a new passive ability learned by Blood Death Knights at level 76. When the Death Knight dodges or parries any attack, they gain 75% of their Parry and Dodge as additional bonus to Critical Strike for 20 seconds.
+Dancing Rune Weapon no longer costs Runic Power.
+Sanguine Fortitude no longer reduces the cost of Icebound Fortitude.
+Scent of Blood now also has a chance to activate when the Death Knight dodges or parries a melee attack.
+Frost
+Frost Strike now deals 115% weapons damage (up from 105% weapon damage).
+Howling Blast now deals 15% more damage.
+Might of the Frozen Wastes now increases all melee attack damage by 30% (up from 20%).
+Obliterate now deals 250% weapon damage (up from 230% weapon damage).
+Unholy
+Master of Ghouls now reduces the cooldown of Raise Dead by 60 seconds.
+Ghoul's Leap and Gnaw abilities are no longer on a global cooldown, and no longer cost Energy.
+Unholy Might now increases the Death Knight's Strength by 25% (up from 10%).
+Talents
+Anti-Magic Zone has been redesigned. The talent now reduces magic damage taken in the area-of-effect by 40% for 3 seconds, there is no longer a cap on total damage absorbed, and the ability no longer scales with strength.
+Death Siphon had its damage increased by 10%.
+Plague Leech now tries to convert 2 fully-depleted runes (up from 1) into a Death Rune based on specialization.
+Blood: Restores 1 Frost Rune, 1 Unholy Rune
+Frost: 1 Frost Rune, 1 Unholy Rune
+Unholy: 1 Blood Rune, 1 Frost Rune
+Glyphs
+New Major Glyphs
+Glyph of Festering Blood: Makes Blood Boil treat all targets as if they have been infected with Blood Plague or Frost Fever.
+Glyph of Regenerative Magic: If Anti-Magic Shell expires after its full duration, cooldown for the ability is reduced based on the amount of damage absorbed.
+Glyph of Swift Death: Haste effect granted by Soul Reaper now also increases the Death Knight's movement speed for the duration.
+Glyph of the Loud Horn: Horn of Winter now generates additional Runic Power, but the cooldown is increased.
+Major Glyphs
+Glyph of Enduring Infection now reduces damage dealt by diseases by 15% (down from a 30% reduction).
+Glyph of Mind Freeze now reduces the cooldown of Mind Freeze by 1 second, and raises its cost by 10 Runic Power (down from 2 seconds and 20 Runic Power).
+Glyph of Outbreak now causes Outbreak to cost 30 Runic Power (down from 40).
+Glyph of Pillar of Frost now reduces movement speed by 70% instead of freezing the Death Knight in place.
+New Minor Glyphs
+Glyph of the Long Winter: The Horn of Winter ability now lasts for 1 hour.
+Glyph of the Skeleton: The Death Knight's Raise Dead spell now summons a Skeleton instead of a Ghoul.
+Bug Fix
+Fixed a bug that caused Improved Blood Presence and Runic Corruption to incorrectly increase activation rates of some trinkets and effects.
+Patchnotes-icon-druid Druid 
+General
+Bear Form now increases Stamina contribution from cloth and leather items by 40% (up from 20%).
+Cyclone no longer has a 20-second cooldown for Feral Druids.
+Faerie Fire now has a duration of 20 seconds while in PvP combat (down from 40 seconds).
+Innervate now restores mana based on the Druid’s Spirit.
+Teleport: Moonglade now returns the Druid to a location near their original departure point when the spell is cast while in the Moonglade area.
+Wild Mushroom for Restoration Druids now summons a single mushroom at the friendly target’s location. If the mushroom is recast, the mushroom moves to the new location and retains its accumulated bonus healing.
+A single mushroom now heals for as much as what 3 mushrooms combined healed for previously.
+The amount of healing stored on a Wild Mushroom is now reduced by Battle Fatigue.
+Wild Mushroom and Wild Mushroom: Bloom now have a shared 3-second cooldown.
+Wrath now deals 10% more damage, but has its mana cost increased by 50%.
+Balance
+Eclipse now energizes the Druid for 50% of their maximum mana when triggered, up from 35%.
+Moonkin Form now increases the Druid's armor by 60%, but no longer reduces all damage taken by 15%.
+Shooting Stars now has a reduced chance to activate for each additional target affected by the same spell (Moonfire and Sunfire are tracked separately).
+Starfall now deals 10% more damage.
+Starfire now deals 10% more damage, but has its mana cost increased by 50%.
+Starsurge has its mana cost increased by 50%.
+Feral
+Predatory Swiftness no longer has a chance to make Cyclone instant, free, and castable in all forms.
+Restoration
+Genesis is a new Restoration spell learned at level 88. Genesis targets all party or raid members within 60 yards and accelerates the casting Druid's Rejuvenation effects, causing them to heal and expire at 400% of the normal rate. Costs the same amount of mana to cast as Rejuvenation.
+Living Seed effects can now stack, up to 50% of the casting Druid's maximum health, and will no longer be consumed if the target is already at full health.
+Swiftmend's area-of-effect healing effect is now called Efflorescence.
+Wild Mushroom: Bloom is no longer capable of critical strikes, and accumulates overhealing done by Rejuvenation by 100%, down from 150%. Overhealing bonus no longer benefits from Naturalist or Mastery: Harmony.
+Talents
+Astral Communion now defaults to generating Lunar energy towards a Lunar Eclipse when used after being resurrected or zoning into a new area (used to default to generating Solar energy).
+Dream of Cenarius has been completely redesigned to reduce complexity and increase usability, but maintain the spirit of the effects. Benefits now vary by specialization.
+Balance: Increases the amount healed by Healing Touch by 20%. Casting Healing Touch increases the damage bonus of the Druid's next Eclipse by 25%.
+Feral: Increases the amount healed by Healing Touch by 20%. Casting Healing Touch increases the damage for the Druid's next two melee abilities by 30%.
+Guardian: Increases the amount healed by Healing Touch by 20%. Increases the critical strike chance of Mangle (Bear) by 10% and critical strikes of Mangle (Bear) have a 40% chance to make the next Healing Touch or Rebirth instant, free, and castable in all forms. Instant cast version of Healing Touch now benefits from Attack Power instead of Spell Power.
+Restoration: Causes Wrath to deal 20% more damage and heals a nearby friendly target for 100% of the damage done.
+Force of Nature
+Feral: Treant summoned by the Feral version of this talent now deals less melee damage, but will cast Rake and Entangling Roots on their target instead of Bash.
+Guardian: Guardian Druids now gain Vengeance when their Treant takes damage.
+Heart of the Wild when activated, now also provides a 25% bonus to healing for Restoration Druids.
+Mass Entanglement no longer has a limit on the number of targets that could be affected, up from 5.
+Nature's Swiftness is no longer a talent, and is now an ability learned by Balance and Restoration Druids at level 30.
+New talent: Ysera's Gift. Ysera's Gift replaces Nature's Swiftness, and heals the Druid for 5% of their maximum health every 5 seconds. If the Druid is at full health, it will heal the most injured friendly target nearby instead.
+Nature’s Vigil when activated now increases all damage and healing done by 12% (up from 10%), and causes single-target healing spells to trigger an additional heal on a nearby ally for 25% of the amount healed. This is in addition to the existing effect where it damages a nearby enemy target for 25% of the healing done.
+Soul of the Forest has been partially redesigned to make it more attractive to Balance, Guardian, and Restoration Druids.
+Balance: Wrath, Starfire, and Starsurge casts have a 8% chance to cause Astral Communion to grant 100 Lunar Power or Solar Power instead of activating the next Eclipse.
+Guardian: Increases Rage generation from Mangle (Bear) by 30% instead of an additional 3 Rage, and this talent now also applies to the Rage generated by Mangle (Bear) when it triggers Primal Fury.
+Restoration: Now causes the Druid to gain 100% haste (up from 75%) on their next spell after casting Swiftmend.
+Glyphs
+Major Glyphs
+Glyph of Fae Silence will now cause Faerie Fire to interrupt when used on targets that are immune to silence effects.
+Glyph of Ferocious Bite now causes Ferocious Bite to heal the Druid for 2% of their maximum health for each 10 Energy used (up from 1%).
+Glyph of Frenzied Regeneration now increases Frenzied Regeneration's cost to 50 Rage (down from increasing Rage cost to 60).
+Glyph of Innervate now causes Innervate to give both the Druid and the target 60% of the normal effect of the spell if it's cast on a target other than the Druid.
+Glyph of Lifebloom's effect is now baseline and has been replaced with Glyph of Efflorescence.
+Glyph of Efflorescence increases the healing done by Swiftmend by 20%, causes the Efflorescence healing effect to be triggered by Wild Mushroom instead of Swiftmend, and lasts as long as the Wild Mushroom is active.
+Glyph of Master Shapeshifter now reduces the mana cost of all shapeshifts by 100% (up from 90%).
+Glyph of Nature’s Grasp now reduces the cooldown of Nature’s Grasp by 45 seconds (up from 30 seconds).
+Glyph of Pounce now increases the range of Pounce by 8 yards (up from 3 yards).
+Glyph of Skull Bash now increases the duration of Skull Bash's interrupt by 2 seconds, and increasing the cooldown by 5 seconds (down from a 4 second interrupt and 10 second increase to cooldown).
+Glyph of the Moonbeast's effect is now baseline and has been replaced with Glyph of Guided Stars.
+Glyph of Guided Stars causes Starfall to only hit targets affected by the Druid's Moonfire or Sunfire.
+New Minor Glyphs
+Glyph of One With Nature: Grants the Druid the ability to teleport to a random natural location.
+Glyph of the Sprouting Mushroom: Allows the Wild Mushroom spell to be placed on the ground instead of underneath a target.
+Bug Fix
+Symbiosis version of Cloak of Shadows should no longer incorrectly remove physical school debuff effects.
+Patchnotes-icon-hunter Hunter 
+General
+The following Hunter pet abilities no longer cost Focus to use: Dash, Dive, and Charge.
+Arcane Shot now deals 125% ranged weapon damage (up from 100%) and had its focus cost increased by 50%.
+Counter Shot is now a baseline interrupt ability learned by all Hunters at level 22.
+Deterrence now has a 3-minute cooldown (up from 2 minutes) but has 2 charges.
+Disengage now has a cooldown of 20 seconds (down from 25 seconds).
+Explosive Trap had its overall damage decreased by 30%. Proportionately, more damage has been removed from the initial damage than the periodic effect.
+Hunter's Mark now has a duration of 20 seconds while in PvP combat (down from 30 seconds).
+Readiness has been removed.
+Revive Pet no longer requires the Hunter to have line-of-sight to their pet.
+Stampede damage dealt by pets when the ability is used outside of an Arena or Battleground is no longer reduced by 75%
+Beast Mastery
+Beast Cleave's range has been increased to 10 yards (up from 8 yards).
+Kill Command damage has been increased by 34%.
+Marksman
+Aimed Shot now deals 450% ranged weapon damage (up from 350%).
+Binding Shot is no longer a Marksman Hunter ability and is once again a talent.
+Survival
+Explosive Shot damage has been increased by 27%.
+Explosive Trap no longer shares a cooldown with Black Arrow but can no longer activate Lock and Load.
+Talents
+A Murder of Crows now deals 40% more damage.
+Aspect of the Iron Hawk now reduces all damage taken by 10%, down from 15%.
+Glaive Toss no longer initiates auto-attack.
+Lynx Rush's damage has been increased by 30%.
+Narrow Escape's root effect is now a nature spell (was a physical spell).
+Silencing Shot is no longer a talent and is now an ability that replaces Counter Shot for Marksman Hunters.
+Spirit Bond now regenerates 3% of total health every 2 seconds while the Hunter's pet is active (up from 2%).
+Wyvern Sting now has a range of 40 yards (up from 35 yards).
+Glyphs
+New Major Glyphs
+Glyph of the Lean Pack: Reduces the range of Aspect of the Pack to 7 yards.
+Glyph of Enduring Deceit: Camouflage also reduces spell damage taken by 10%
+Major Glyphs
+Glyph of Mend Pet now has a 100% chance of cleansing 1 Curse, Disease, Magic or Poison effect from the Hunter's pet on each tick (up from 50% chance).
+Glyph of Mending now speeds up the periodic effect of Mend Pet to restore health to the pet every 1 second doubling the total amount healed over 10 seconds.
+Glyph of No Escape now increases the ranged critical strike chance against targets affected by the Hunter's Freezing Trap by 100% (up from 20% chance).
+Patchnotes-icon-mage Mage 
+General
+Ice Lance damage has been increased by 43%.
+Fire
+Combustion on targets affected by the Mage's Ignite now deals additional damage equal to 20% of Ignite's damage per tick (down from 50%).
+Frost
+Mastery: Frostburn has been replaced by Mastery: Icicles. When the Mage damages an enemy with their Frostbolt, and Frostfire Bolt (16% + 2% per Mastery) of the damage done is stored as an Icicle for 15 seconds. Mastery: Icicles also increases the Water Elemental’s Water Bolt damage by (16% + 2% per Mastery). Up to 5 Icicles can be stored at once. Casting Ice Lance launches all stored Icicles at the target.
+Frostbolt now deals 10% less damage and no longer increases the damage of any spells. The damage for those spells have been increased instead.
+Water Elemental
+Waterbolt damage has been increased by 25%.
+Talents
+Frost Bomb now deals 70% damage to players (up from 60%).
+Ice Floes now has 3 charges (up from 2 charges), and has a 20-second cooldown (down from 45 seconds).
+Living Bomb now deals 85% damage to players (up from 70%).
+Nether Tempest now deals 85% damage to players (up from 70%).
+Rune of Power now has an increased effective range. The Mage can remain up to 8 yards away from their Rune of Power and still receive benefits to mana regeneration and spell damage (up from 3 yards).
+Temporal Shield now also reduces damage taken by 15% while active in addition to existing effects.
+Glyphs
+Major Glyphs
+Glyph of Blink now increases distance travelled with the Blink spell by 8 yards (up from 5 yards).
+Glyph of Ice Lance has been renamed to Glyph of Splitting Ice.
+Glyph of Splitting Ice causes Ice Lance and Icicles to hit 1 additional target for 50% damage.
+Glyph of Invisibility has been replaced with Glyph of Rapid Displacement.
+Glyph of Rapid Displacement gives Blink two charges, gaining a charge every 15 seconds, but no longer frees the Mage from stuns and bonds.
+Glyph of Remove Curse now increases the damage dealt by 15% after successfully removing a curse (up from 10%).
+Glyph of Spellsteal now heals the Mage for 5% of their maximum health after successfully stealing a spell (up from 3%).
+New Minor Glyphs
+Glyph of Condensation: Increases the size of the Mage's Water Elemental.
+Glyph of Evaporation: Reduces the size of the Mage's Water Elemental.
+Glyph of the Unbound Elemental: The Mage's Water Elemental is replaced by an Unbound Water Elemental.
+Patchnotes-icon-monk Monk 
+General
+Spinning Crane Kick now functions like a smart heal, healing the 6 most injured friendly targets within range, and minor guardians are no longer targeted (Wild Imps, Bloodworms, Snakes from Snake Traps, etc.). There has been no change to the total amount of healing granted by the ability.
+Brewmaster
+Keg Smash now deals 18% less damage.
+Mistweaver
+Mana Tea is now consumed at an increased rate of 1 stack per 0.5 seconds (up from 1 stack per 1 second).
+Revival's healing has been reduced by 30%.
+Windwalker
+Mastery: Bottled Fury has been redesigned. Bottled Fury now gives a chance to generate an additional charge of Tigereye Brew when the Monk gains one normally.
+Storm, Earth and Fire now deals 70% damage (up from 60%) with one Spirit summoned and 55% (up from 45%) with two Spirits summoned.
+Tigereye Brew received an adjustment.
+It now increases damage by 6% per stack, (up from 1% per stack) but is no longer increased by Mastery.
+A charge of Tigereye Brew is gained for each 4 Chi consumed through use of abilities and attacks (up from a charge for each 3 Chi consumed).
+Talents
+Chi Brew now restores 2 Chi, has a 45-second cooldown (down from 1.5 minutes), and generate stacks of Brew/Teas based on the Monk's specialization.
+Brewmaster: 5 stacks of Elusive Brew
+Mistweaver: 2 stacks of Mana Tea
+Windwalker: 2 stacks of Tigereye Brew
+Chi Burst no longer requires a target. It now travels as a 40-yard line in front of the Monk.
+Healing Elixirs will no longer activate if the Monk is already at full health, and activate automatically when the Monk has less than 35% of their maximum health.
+Invoke Xuen, the White Tiger now has a pet control bar for Xuen, and the talent is no longer on global cooldown for all Monk specializations.
+Brewmaster Monks now gain Vengeance when Xuen takes damage.
+Power Strikes will now activate from the following Chi generating abilities; Jab, Expel Harm, Spinning Crane Kick (when it hits at least 3 targets), Crackling Jade Lightning, and Soothing Mist.
+Ring of Peace has a new visual effect that properly depicts its area-of-effect, and now disarms both enemies and those attacking allies within the Ring of Peace's area-of-effect for 4 seconds (up from 3 seconds); the silence effect for casting spells remains unchanged at 3 seconds.
+Rushing Jade Wind has been redesigned and replaces Spinning Crane Kick.
+Rushing Jade Wind: The Monk summons a whirling tornado around them, dealing damage to nearby enemies (heals nearby allies for Mistweavers). Rushing Jade Wind has the same costs, Chi generation, and periodic rate as Spinning Crane kick, but, deals 80% of the periodic damage or healing, lasts 6 seconds, is instant, and not channeled.
+Zen Sphere now deals 15% more healing and damage.
+Glyphs
+Major Glyphs
+Glyph of Afterlife now increases the chance to summon a Healing Sphere by 100% (up from 25% chance).
+Glyph of Crackling Jade Lightning has been replaced with Glyph of Nimble Brew.
+Glyph of Nimble Brew causes Nimble Brew to heal the Monk when it clears a root, stun, fear, or horror effect.
+Glyph of Expel Harm has been replaced with Glyph of Rapid Rolling.
+Glyph of Rapid Rolling makes the next Roll or Chi Torpedo go farther after using a Roll or Chi Torpedo.
+Glyph of Retreat has been replaced with Glyph of Fortuitous Spheres.
+Glyph of Fortuitous Spheres causes a healing sphere to be summoned near the Monk at no cost when their health falls below 25%. This effect cannot occur more than once every 30 seconds.
+Glyph of Stoneskin has been replaced with Glyph of Detox.
+Glyph of Detox causes Detox to heal the target when it successfully removes a harmful effect.
+Glyph of Targeted Expulsion now causes Expel Harm to heal for 50% as much when used on other targets.
+Glyph of Transcendence now reduces the cooldown of Transcendence: Transfer by 5 seconds (used to increase the range by 10 yards).
+Glyph of Uplift has been replaced by Glyph of Targeted Expulsion.
+Glyph of Targeted Expulsion allows Expel Harm to be used on other players.
+Bug Fix
+Fixed a bug that caused the damage of some abilities for Brewmasters with Vengeance to scale incorrectly.
+Patchnotes-icon-paladin Paladin 
+General
+Sanctity of Battle now also affects the cooldown of Holy Shock.
+Seal of Insight no longer has a chance to restore mana on attacks.
+Turn Evil now has a 15-second cooldown.
+Holy
+Mastery: Illuminated Healing no longer activates from periodic healing effects.
+Divine Plea no longer reduces the amount of healing done, and now restores mana based on the Paladin’s Spirit.
+Guardian of the Ancient Kings (Holy) now has a cooldown of 3 minutes (down from 5 minutes), and summons a guardian that heals the ally that the Paladin healed for 100% (up from 10%) of the amount healed, but no longer heals nearby friendly targets.
+Holy Insight now increases the effectiveness of Eternal Flame, Light of Dawn, and Word of Glory by 50%. Effectiveness of other heals are still increased by 25%.
+Holy Radiance now functions like a smart heal, healing the 6 most injured friendly targets within range, and minor guardians are no longer targeted (Wild Imps, Bloodworms, Snakes from Snake Traps, etc.). There has been no change to the total amount of healing granted by the ability.
+Holy Shock's mana cost has been reduced by 50%.
+Judgment for Holy Paladins now costs 12% of base mana to cast (up from 5% of base mana).
+Protection
+Crusader Strike now applies a Weakened Blows effect to the target for Protection Paladins.
+Grand Crusader no longer has a chance to activate from Crusader Strike and Hammer of the Righteous, but now has a 30% chance to activate when dodging or parrying a melee attack (up from 12%).
+Guarded by the Light now restores 15% of the Paladin's maximum mana every 2 seconds (up from 6%).
+Retribution
+Guardian of the Ancient Kings (Retribution version) now has a reduced cooldown of 3 minutes, down from 5 minutes, and the maximum number of stacks has been reduced to 12.
+Inquisition now lasts 20 seconds per charge of Holy Power consumed, up from 10 seconds.
+Talents
+Burden of Guilt has been replaced with a new talent called Evil is a Point of View.
+New Talent: Evil is a Point of View. Evil is a Point of View allows the Paladin to use Turn Evil on players and beasts.
+Eternal Flame's periodic heal-over-time effect now heals for 40% more.
+Execution Sentence will now immediately damage the target for 5 times the amount of damage that had been dealt by Execution Sentence's most recent periodic effect when dispelled.
+Stay of Execution will now immediately heal the target for 5 times the amount of healing that had been dealt by Stay of Execution's most recent periodic effect when dispelled.
+Hand of Purity now reduces damage taken from harmful periodic effects by 80% (up from 70%) and reduces damage taken from harmful periodic effects that cannot be prevented by immunities by 40% (up from 0%).
+Light's Hammer now functions like a smart heal, healing the 6 most injured friendly targets within range, and minor guardians are no longer targeted (Wild Imps, Bloodworms, Snakes from Snake Traps, etc.). There has been no change to the total amount of healing granted by the ability.
+Sacred Shield
+Holy: Sacred Shield now applies its damage absorption shield immediately, can be active on more than one target at a time, but the talent now costs mana and has 3 charges with a 10-second recharge.
+Protection: Sacred Shield is 30% less effective.
+Sanctified Wrath
+Holy: Sanctified Wrath now also increases the critical strike chance of Holy Shock by 20%.
+Protection: Sanctified Wrath now causes Judgment to generate 2 Holy Power instead of 1 while Avenging Wrath is active.
+Selfless Healer in addition to its current effects, now also causes Judgment to generate a charge of Holy Power for Holy Paladins. Stacks of Selfless Healer now reduce the cast time, mana cost, and improve the effectiveness of Divine Light, Flash of Light, and Holy Radiance.
+Bastion of Glory will now apply Selfless Healer's bonus to healing to the casting Paladin as well as other targets and consume all stacks of Bastion of Glory in the process.
+Unbreakable Spirit has been simplified. It now reduces the cooldown on Divine Shield, Divine Protection, and Lay on Hands by 50%.
+Glyphs
+New Major Glyphs
+Glyph of Divine Shield: Removing harmful effects with Divine Shield heals the Paladin for each effect removed. This heal cannot exceed a percentage of the Paladin's maximum health.
+Glyph of Hand of Sacrifice: Hand of Sacrifice no longer transfers damage taken by the target to the Paladin.
+Major Glyphs
+Glyph of Denounce now causes Holy Shock to reduce the cast time of the next Denounce by 0.5 seconds, and the effect can stack up to 3 times.
+Glyph of Divine Plea now reduces the amount of mana restored and cooldown of Divine Plea by 50%.
+Glyph of Holy Wrath now also allows Holy Wrath to stun Aberrations.
+Glyph of Immediate Truth now increases the instant damage done by Seal of Truth 40% (up from 30%).
+Glyph of Inquisition has been redesigned. The glyph now increases the duration of Inquisition by 30 seconds (up to a maximum of 2 minutes) each time the Paladin lands a killing blow on targets that yield experience or honor.
+Glyph of Rebuke has been replaced with Glyph of Devotion Aura.
+Glyph of Devotion Aura causes Devotion Aura to no longer affect party or raid members, but the cooldown is reduced.
+Glyph of the Alabaster Shield now increases damage for the next Shield of the Righteous by 10% per stack (down from 20% per stack).
+Glyph of the Battle Healer has been redesigned. The glyph now causes Seal of Insight to no longer heal the Paladin. Instead, a nearby raid or party member will receive healing for 30% of the amount the Paladin would have received from Seal of Insight.
+Glyph of Turn Evil has been replaced with Glyph of Burden of Guilt.
+Glyph of Burden of Guilt causes Judgment to reduce the target's movement speed by 50% for 2 seconds.
+New Minor Glyphs
+Glyph of the Exorcist: Exorcism will now appear to remove the evil from its target.
+Glyph of Pillar of Light: Critical heals on other players display a small pillar of light at their location briefly.
+Patchnotes-icon-priest Priest 
+General
+Hymn of Hope now prefers to target healers when it grants mana. Healers will always be picked before non-healers, regardless of how much mana they have.
+Leap of Faith no longer has a facing requirement.
+Shadow Word: Death now deals 15% more damage.
+Shadow Word: Pain now deals 25% more damage.
+Discipline
+Grace can no longer be dispelled.
+Rapture now energizes the Priest for 100% of the mana cost of Power Word: Shield When the shield is fully consumed or is dispelled (used to energize the Priest with mana equal to 150% of their spirit). This is the modified mana cost for Power Word: Shield, after being reduced by Rapture’s passive effect.
+Spirit Shell duration has been reduced to 10 seconds (down from 15 seconds), and the damage absorption shield's effectiveness can now be reduced through Battle Fatigue.
+Holy
+Holy Word: Sanctuary mana cost reduced to 3.8% (down from 6.3%), and now functions like a smart heal, healing the 6 most injured friendly targets within range, and minor guardians are no longer targeted (Wild Imps, Bloodworms, Snakes from Snake Traps, etc.). There has been no change to the total amount of healing granted by the ability.
+Lightspring is now baseline for all Holy Priests and the ability has been renamed to Lightwell.
+Serendipity's mana cost reduction has been increased to 20% per stack (up from 10% per stack), and no longer displays a spell effect when in the UI when it's active.
+Shadow
+Shadowform now increases the Priest's armor by 60%, but no longer reduces all damage taken by 15%.
+Shadowy Apparitions now creates a shadowy version of the Priest that floats towards the target and deals damage. The apparitions are now treated as a missile, and is no longer an attackable creature.
+Vampiric Touch now deals 20% more damage.
+Talents
+Angelic Feather now increases allies' movement speed by 80%, up from 60%, and feathers placed in the world have a duration of 10 minutes (up from 5 minutes).
+Cascade's effect can now bounce up to 4 times (up from 3), and its effect should no longer bounce between minor guardians (Wild Imps, Bloodworms, Snakes from Snake Traps, etc.).
+Divine Insight for Discipline Priests now has a 100% chance to activate its effect after using Penance (up from 40%), and now displays an effect in the UI when it's active.
+Divine Star’s healing is no longer affected by diminishing returns when used on multiple targets.
+From Darkness, Comes Light
+Discipline, Holy: Now also has a chance to activate its effect on cast for these following spells; Penance, Circle of Healing, Prayer of Mending, and Prayer of Healing.
+Shadow: Now has a 20% chance to activate its effect for Shadow Priests (up from a 15% chance).
+Halo’s healing is no longer affected by diminishing returns when used on multiple targets.
+Mindbender now deals 10% more damage, and mana return has been increased by 20%.
+Psyfiend no longer benefits from Haste, and its health has been reduced by 75%, but fixed a bug where Psyfiend wasn't being affected by base Resilience.
+Twist of Fate's damage and healing threshold to activate has been increased to 35% (up from 20%).
+Glyphs
+Major Glyphs
+Glyph of Dark Binding's effect is now baseline and has been replaced with Glyph of Focused Mending.
+Glyph of Focused Mending causes Prayer of Mending to only bounce between the target and the caster.
+Glyph of Fear Ward now reduces the cooldown on Fear Ward without reducing its duration.
+Glyph of Lightspring has been renamed to Glyph of Lightwell.
+Glyph of Lightwell causes Lightwell to heal for 50% more, but no longer automatically heals allies. Allies can click on the Lightwell to heal.
+Glyph of Lightwell has been renamed to Glyph of Deep Wells.
+Glyph of Deep Wells increases the number of charges on Lightwell by 2.
+Glyph of Purify now causes Purify to heal the target for 5% of their maximum health after successfully dispelling a magical effect or disease (up from 3%).
+Glyph of Reflective Shield now causes Power Word: Shield to reflect 70% of the damage absorbed (up from 45%).
+New Minor Glyphs
+Glyph of Angels: Causes the Priest's healing spells to momentarily grant angelic wings.
+Glyph of Inspired Hymns: A spirit appears above the Priest while channeling Hymns.
+Glyph of Shifted Appearances: Void Shift causes the Priest and their target to exchange appearances for several seconds.
+Glyph of the Sha: Transforms the Priest's Shadowfiend and Mindbender into a Sha Beast.
+Class Armor
+Discipline/Holy PvP 2-piece set bonus' (4-piece set bonus pre-Season 12) Holy Spark effect can no longer be dispelled.
+Shadow PvP 4-piece set bonus is no longer an area-of-effect and only affects the character that dispels Vampiric Touch.
+Bug Fix
+Fixed an issue where Chakra: Serenity was not increasing the critical effect chance of Cascade, Divine Star, and Halo.
+Patchnotes-icon-rogue Rogue 
+General
+Ambush damage has been increased by 12%.
+Evasion now increases dodge chance by 100% (was 50%), cooldown has been reduced to 2 minutes (down from 3 minutes), and duration has been reduced to 10 seconds (down from 15 seconds).
+Eviscerate now deals 10% less damage.
+Fan of Knives damage has been increased by 25%.
+Recuperate now restores 4% of maximum health every 3 seconds, up from 3%.
+Sinister Strike deals an increased 240% of weapon damage (up from 145%), but now costs 50 Energy (up from 40 Energy).
+Assassination
+Assassination Rogues should no longer be eligible for any other weapon types except daggers in situations where loot is automatically awarded(Raid Finder, Bonus Rolls, Heroic/Normal Scenarios, and the upcoming Flexible Raid difficulty.)
+Dispatch now deals 645% weapon damage (up from 460%).
+Mutilate now deals 280% weapon damage (up from 200%).
+Combat
+New passive ability, Ruthlessness: This passive ability is learned by Combat Rogues at Level 32. The Rogue gains a 20% chance per combo point (100% chance at 5 combo points) to immediately regain 1 combo point while performing a finishing move.
+Killing Spree targeting has been changed. If Blade Flurry is not active, Killing Spree will now hit the Rogue's target 7 times or pick the closest eligible target if none had been selected. Killing Spree will continue to work as it has while Blade Flurry is active.
+Revealing Strike now deals 160% weapons damage (up from 125%).
+Vitality now increases Attack Power by 40% (up from 30%).
+Subtlety
+Backstab now deals 380% weapon damage (up from 275%).
+Hemorrhage now deals 160% weapons damage (up from 140%); 232% weapons damage if a dagger is equipped (up from 203% for daggers).
+Sanguinary Vein now increases damage against targets with bleed effects by 25% (up from 20%).
+Talents
+Burst of Speed's cost has been reduced to 15 Energy (down from 30 Energy).
+Cheat Death now reduces damage taken by 85% after activating (up from 80%).
+Cloak and Dagger now allows the Rogue to use Ambush, Garrote, and Cheap Shot from 40 yards away (up from 30 yards).
+Nightstalker now increases damage dealt by abilities while stealthed by 50%, up from 25%.
+Paralytic Poison now stuns the target at 4 applications of the poison (down from 5 applications).
+Shadowstep now has a reduced cooldown of 20 seconds (down from 24 seconds).
+Glyphs
+Major Glyphs
+Glyph of Adrenaline Rush's effect is now baseline and has been replaced with Glyph of Redirect.
+Glyph of Redirect now reduces the cooldown of Redirect by 50 seconds (down from Redirect no longer has a cooldown).
+Glyph of Blind now only removes damage-over-time effects that would cause Blind to break. For Rogues that also have the Dirty Tricks talent, this means Blind will no longer remove the Rogue’s poison or bleed effects.
+Glyph of Crippling Poison has been replaced with Glyph of Sharpened Knives.
+Glyph of Sharpened Knives now causes Fan of Knives to also damage the armor of its victims, applying 1 application of the Weakened Armor effect to each target.
+Glyph of Debilitation has been replaced with Glyph of Recovery.
+Glyph of Recovery increases the healing received by the Rogue while Recuperate is active.
+Glyph of Recuperate now increases the healing of Recuperate by an additional 1% (up from 0.5%).
+Glyph of Sap has been replaced with Glyph of Hemorrhaging Veins.
+Glyph of Hemorrhaging Veins causes Sanguinary Veins ability to also increase damage done to targets affected by Hemorrhage.
+Glyph of Shiv now reduces the cooldown of Shiv by 3 seconds (was 2 seconds).
+New Minor Glyphs
+Glyph of Improved Distraction: Distract now summons a decoy at the target location.
+Glyph of the Headhunter: Throw and Deadly Throw abilities will now throw axes regardless of the Rogue's currently equipped weapon.
+Class Armor
+Rogue Tier-15 4-piece set bonus now causes Shadow Blades to reduce the cost of all abilities by 15% (down from 40%).
+Bug Fix
+Fixed an issue where certain conditions can cause Blade Flurry to not deal damage to additional nearby opponents.
+Patchnotes-icon-shaman Shaman 
+General
+Chain Heal's effectiveness will no longer decrease with each jump (up from a 30% reduction to healing with each jump).
+Earth Elemental Totem's summoned Greater Earth Elemental will no longer taunt off players that are in a tanking specialization.
+Fire Elemental Totem's summoned Greater Fire Elemental now deals 10% less damage.
+Healing Rain's healing has been reduced by 30%, and the area-of-effect has been increased to 12 yards (up from 10 yards). In addition, Healing Rain now functions like a smart heal, healing the 6 most injured friendly targets within range, and minor guardians are no longer targeted (Wild Imps, Bloodworms, Snakes from Snake Traps, etc.). There has been no change to the total amount of healing granted by the ability.
+Enhancement
+Fire Nova's damage has been increased by 83%.
+Stormstrike's debuff now also affects Elemental Blast, but now deals 380% weapon damage (down from 450% weapon damage).
+Restoration
+Purification now increases the healing done by Healing Rain by 100% in addition to the ability's current effects.
+Ancestral Vigor now has a duration of 30 seconds (up from 15 seconds).
+Riptide's mana cost has been reduced by 25%.
+Talents
+Astral Shift now has a cooldown of 90 seconds, down from 120 seconds.
+Conductivity has been redesigned.
+Healing an ally with Healing Wave, Greater Healing Wave, Healing Surge, or Chain Heal, increases the duration of Healing Rain by 4 seconds.
+Damaging an enemy with Lightning Bolt, Chain Lightning, Earth Shock, or Stormstrike increases the duration of Healing Rain by 4 seconds.
+Conductivity can increase the duration of Healing Rain up to a maximum of 40 seconds.
+Echo of the Elements' spell duplication effect can no longer occur more than once every 4 seconds when used against hostile players, and their pets or guardians.
+Healing Tide Totem is no longer a talent and is a baseline ability for all Shamans. Additionally, this totem will now heal 12 raid members (up from 5) when used in a 25-player instance.
+New Talent: Rushing Streams. Rushing Streams replaces Healing Tide Totem talent, increases healing done by Healing Stream Totem by 15%, and causes the totem to heal 2 targets at once.
+Stone Bulwark Totem's initial damage absorption shield now absorbs an additional 33% in damage.
+Totemic Restoration has been replaced with a new talent, Totemic Persistence.
+New talent: Totemic Persistence. Summoning a second totem of the same element no longer causes the first totem to be destroyed. Only one non-Fire totem can benefit from this effect at a time.
+Unleashed Fury
+Earthliving Weapon effect now applies to the Shaman, not the target.
+Flametongue Weapon effect now increases Lightning Bolt damage by 30%, up from 20%.
+Glyphs
+New Major Glyphs
+Glyph of Eternal Earth: Lightning Bolt now has a chance to add a charge to the Shaman's active Earth Shield. This cannot cause Earth Shield to exceed 9 charges.
+Glyph of Purging: Successfully Purging a target now grants a stack of Maelstrom Weapon.
+Major Glyphs
+Glyph of Chaining now increases the cooldown on Chain Heal by 2 seconds, down from a 4 second increase.
+Glyph of Cleansing Waters now heals the target for 5% of the Shaman's maximum health (up from 4%).
+Glyph of Fire Elemental Totem now reduces the cooldown and duration for Fire Elemental Totem by 50%, up from 40%.
+Glyph of Frost Shock now reduces the cooldown of Frost Shock by 2 seconds.
+Glyph of Grounding Totem now increases the cooldown of Grounding Totem after reflecting a harmful spell by 20 seconds (down from a 35-second cooldown increase).
+Glyph of Healing Storm no longer increases the healing of Healing Rain.
+Glyph of Riptide reduces the initial direct healing of Riptide by 75%, down from a 90% reduction to healing.
+New Minor Glyphs
+Glyph of Astral Fixation: Astral Recall now takes the Shaman to their capital's Earthshrine.
+Glyph of the Compy: Hex now transforms enemies into a Compy.
+Glyph of Elemental Familiars: Summons a random Fire, Water, or Nature familiar. Familiars of different types have a tendency to fight each other.
+Glyph of Flaming Serpents: The Shaman's Searing Totem now resembles Vol'jin's Serpent Ward.
+Glyph of Lingering Ancestors: Resurrecting someone with Ancestral Spirit causes a ghostly ancestor to follow them around for a short time.
+Glyph of Rain of Frogs: Allows the Shaman to summon a rain storm of frogs at a targeted location.
+Glyph of Spirit Raptors: Spirit Wolves are replaced with Spirit Raptors.
+Glyph of Spirit Wolf: Ghost Wolf can be now be used while the Shaman is a ghost.
+Class Armor
+Elemental Shaman 2-piece PvP set bonus has been changed. It now allows Lightning Shield to be triggered once every 1.5 seconds instead of once every 3 seconds.
+Enhancement Shaman 4-piece PvP set bonus now causes the Shaman's Flametongue Weapon to also reduce the target's movement speed for 3 seconds.
+Patchnotes-icon-warlock Warlock 
+General
+Corruption's damage has been increased by 10%.
+Demonic Gateways are no longer attackable once more and no longer temporarily removes threat from the user. The debuff from using a Demonic Gateway has been increased to 60 seconds (up from 15 seconds).
+Fel Armor no longer reduces all damage taken by 10%.
+Fel Flame now deals 13% more damage, costs 2% less mana, and no longer increases the duration of damage-over-time spells.
+Immolate damage has been increased by 10%.
+Rain of Fire now has a reduced chance to generate Burning Embers.
+The Codex of Xerrath now infuses additional spells with fel magic (green fire effect).
+Summon Felsteed, Summon Dreadsteed, Summon Abyssal, Demonic Fury, Dark Apotheosis, and Demonic Leap.
+Affliction
+Agony damage has been increased by 16%.
+Drain Soul no longer energizes Soul Shards from the pets and guardians of players, and now deals 34% less damage. If other periodic Affliction damage effects are triggered by Drain Soul, they now deal 60% of their normal damage (down from 100%).
+Haunt now deals 50% more damage, and increases damage done by all of the Warlock's damage-over-time spells against the target by 40%.
+Malefic Grasp now deals 34% less damage, and causes all of the Warlock's other periodic Affliction damage effects to instantly deal 30% of their normal periodic damage (down from 50%).
+Nightfall now gives Corruption a 10% increased chance to generate a Soul Shard on the most recently applied Corruption.
+Soul Swap no longer does any damage, and now copies damage-over-time effects instead of just moving them without needing a glyph. Copied effects now once again preserve their power and duration. Duration has been reduced to 3 seconds (down from 20 seconds).
+Unstable Affliction damage has been increased by 21%.
+Demonology
+Dark Soul: Knowledge now increases the effects of Mastery: Master Demonologist by an additional 30%.
+Hellfire's damage has been reduced by 20%.
+Immolation Aura's damage has been reduced by 20%.
+Destruction
+Chaos Bolt's damage has been increased by 15%.
+Incinerate's damage has been increased by 10%.
+Talents
+Archimonde's Vengeance has been redesigned and renamed into Archimonde's Darkness.
+Archimonde's Darkness gives the Warlock's Dark Soul spell two charges.
+Grimoire of Sacrifice no longer affects Drain Life.
+For Affliction Warlocks, Grimoire of Sacrifice now increases the power of various single target spells by 20% (down from 30%).
+Harvest Life no longer replaces Drain Life. Harvest Life is now a passive talent that increases Drain Life's damage by 50%, and healing by 150%. The talent no longer turns the ability into an area-of-effect spell.
+Howl of Terror is no longer a talent and is now a baseline skill for all Warlocks.
+Demonic Breath is a new talent replacing Howl of Terror. The Warlock sends out a cone of Shadow damage, snaring targets, has a 20-second cooldown.
+Kil'jaden's Cunning no longer reduces movement speed, and will now allow the Warlock to cast Incinerate, Malefic Grasp, and Shadow Bolt while moving.
+Mannoroth's Fury is no longer a passive ability. Mannoroth's Fury now has a duration of 10 seconds with a 60 second cooldown, and increases the area of area-of-effect by 500% and increases damage by 100% for Hellfire, Immolation Aura, Rain of Fire, and Seed of Corruption.
+Soul Leech can now also activate from Shadowburn, and caps out at 15% of the Warlock and their pet's maximum health (down from 100%).
+Soul Link now transfers 20% of damage taken by the Warlock to their pet, and 3% of all damage dealt by the Warlock will be returned as healing for the Warlock and their pet. This ability is always active while the Warlock's pet is active.
+Glyphs
+Major Glyphs
+Glyph of Dark Soul has been replaced by Glyph of Curse of the Elements.
+Glyph of Curse of the Elements causes Curse of the Elements to hit 2 additional nearby targets.
+Glyph of Everlasting Affliction has been replaced by Glyph of Eternal Resolve.
+Glyph of Eternal Resolve: Changes Unending Resolve into a passive ability that provides a constant 10% reduction to damage taken.
+Glyph of Fear no longer causes Fear to have a cooldown.
+Glyph of Imp Swarm now summons 4 Wild Imps (down from 5 Wild Imps).
+Glyph of Shadowflame has been replaced with Glyph of Unending Resolve.
+Glyph of Unending Resolve reduces the damage reduction of Unending Resolve by 20%, and the cooldown is reduced by 60 seconds.
+Glyph of Soul Swap has been replaced with Glyph of Havoc.
+Glyph of Havoc: Havoc gains 3 additional charges, but the cooldown is increased by 35 seconds.
+Class Armor
+Warlock Tier-14 4-piece set bonus now reduces the cooldown of Unending Resolve by 20 seconds.
+Warlock PvP 4-piece set bonus now reduces duration of the debuff from using a Demonic Gateway by 15 seconds.
+Bug Fix
+Fixed an issue where Blood Horror was not working properly while Metamorphosis was active.
+Patchnotes-icon-warrior Warrior 
+General
+Battle, Berserker and Defensive Stance [alternative: Warrior Stances] now have a 1.5-second cooldown (down from 3 seconds).
+Blood and Thunder now also increases the damage of Thunder Clap by 50%.
+Deep Wounds damage has been increased by 65%.
+Enrage now also triggers on critical hits from Devastate and Shield Slam.
+Hamstring is no longer on a global cooldown.
+Intervene now also breaks roots and snares when used.
+Shattering Throw no longer costs rage.
+Shield Wall no longer requires a shield. If the Warrior does not have a shield equipped, it will show a visual of an equipped shield.
+Spell Reflection no longer requires a shield. If the Warrior does not have a shield equipped, it will show a visual of an equipped shield.
+Arms
+Mortal Strike now deals 215% of weapon damage (up from 175%).
+Seasoned Soldier now also reduces the cost of Thunder Clap by 10 Rage.
+Slam now deals 25% more damage, but the Rage cost has been increased by 25% as well. While Sweeping Strikes is active, Slam will deal 35% of damage dealt against the primary target to all other enemies within 2 yards, and targets affected by Colossus Smash receives 10% more damage.
+Fury
+Titan’s Grip now works with polearms.
+Protection
+Revenge now generates 20 Rage (up from 15 Rage).
+Riposte is a new passive ability learned by Protection Warriors at level 76. When the Warrior dodges or parries any attack, they gain 75% of their Parry and Dodge as an additional bonus to Critical Strike for 20 seconds.
+Ultimatum now activates from critical hits with Shield Slam instead of a flat 20% chance, and the ability will make the next Heroic Strike or Cleave be a critical hit in addition to costing no Rage.
+Talents
+Bladestorm's cooldown has decreased to 60 seconds (down from 1.5 minutes).
+Arms: Bladestorm now deals 180% of weapon damage (up from 120%).
+Protection: Bladestorm now deals 160% of weapon damage (down from 240%).
+Bloodbath's snare and bleed effects are now two separate debuffs. Clearing one of the effects will no longer remove the other.
+Enraged Regeneration now instantly heals the warrior for 10% of their total health (up from 5%), and an additional 10% over 5 seconds (up from 5%).
+Impending Victory now heals the Warrior for 20% of their maximum health at all times (up from 15% on attack and 20% on kills that yield experience or honor).
+Storm Bolt now has a duration of 4 seconds (up from 3 seconds), and has an off-hand attack for Fury Warriors.
+Vigilance no longer transfers damage to the Warrior. The talent now reduces amount of damage the target takes by 30% for 12 seconds.
+Warbringer now roots the target for 4 seconds instead of stunning them for 3 seconds. The 50% reduction to movement speed snare effect for 8 seconds remains unchanged. Glyph of Blitz will now cause Warbringer to root an additional 2 nearby targets.
+Glyphs
+New Major Glyphs
+Glyph of the Executor: Killing an enemy with Execute grants Rage.
+Glyph of Impaling Throws: Heroic Throw now leaves an axe in the target, which can be retrieved by moving within 5 yards of the target to finish the cooldown of Heroic Throw. This effect will only occur when Heroic Throw is cast from more than 10 yards away from the target.
+New Minor Glyphs
+Glyph of the Raging Whirlwind: Whirlwind gives additional Rage over time, but for that time the Warrior no longer generates Rage from auto-attacks.
+Glyph of the Subtle Defender: Removes the threat generation bonus from Defensive Stance.
+Glyph of the Weaponmaster: Shout abilities cause the appearance of the Warrior's weapon to change to that of a random weapon from their primary bag for a short time.
+Bug Fix
+Intervene should no longer incorrectly trigger a cooldown when there isn't an allied target for the Warrior to intervene to.
+Patchnotes-icon-quests Quests 
+Wrathion's Legendary Questline
+All bosses in Throne of Thunder now have a chance to drop Sigil of Power or Sigil of Wisdom in addition to their normal loot for players on the appropriate step in the legendary questline. Players should also no longer be receiving excess Sigils of Power or Sigils of Wisdom.
+The first eight bosses in Siege of Orgrimmar have a chance to drop a Sigil of Power, Sigil of Wisdom, Secrets of the Empire, or Titan Runestone in addition to their normal loot for players on the appropriate step in the legendary questline.
+A Second Hand: Fixed an issue that prevented players from completing the quest.
+Gnomebliteration: Fusion Core vehicle should no longer incorrectly despawn during the quest.
+Surprise Attack!: Fixed an issue where players may sometimes not receive cr for defeating Hei Feng.
+Patchnotes-icon-creatures Creatures 
+Bonus Roll change: Players that don’t have a coin or elect to not use a Bonus Roll when defeating one of the world bosses (Sha of Anger, Galleon, Nalak, and Oondasta) can come back later that same week to use the Bonus Roll. The limit has not changed and remains one attempt and one bonus roll per boss, per week.
+H.A.R.V.E.Y. and D.E.N.T. have returned to their posts. The mechanical auctioneers will once again allow Engineers to access the auction house from the Shrine of Seven Stars and Shrine of Two Moons respectively.
+Enormous Cattail Grouper should once again have a chance to drop the Old Map for players meeting the reputation requirements.
+Stone Trogg Berserker now drops trivial items and can no longer be pickpocketed.
+Stone Trogg Geomancer now drops trivial items and can no longer be pickpocketed.
+Brawler's Guild
+Fixed an issue where Mingus Diggs was not resetting properly between fights.
+Patchnotes-icon-pet battles Pet Battles 
+Pet Battle General
+A new pet battle tournament is available on the Timeless Isle, more details coming soon!
+Round timers in PvP Pet Battles will now get progressively shorter for a player who takes more than 15 seconds to issue a command during their turn.
+Players are now able to trade in any 3 of the same family specific Flawless Battle-Stones for a single Marked Flawless Battle-Stone.
+Viewable pet battles will now display working health bars.
+Battle Pet levels are now only shown on the map if you are tracking Battle Pets.
+Aquatic type's passive effect now reduces damage from damage-over-time effects by 50%, up from 25%.
+Critter type's passive effect now makes critters immune to roots, stuns, and sleep effects.
+Dragonkin type's passive effect now activates after an attack brings a target's to below 50% health, up from 25%.
+Elemental type's passive effect now only affects negative direct effects of weather. (E.g. Sandstorm's accuracy reduction won't be applied, but the damage reduction will.)
+Magic type's passive effect now caps damage taken at 35% of maximum health, up from 40%.
+Battle Pet Training cost and the price of pets sold by Battle Pet Trainers have been greatly reduced.
+Battle Pets
+Any Battle Pet that could be awarded from a Throne of Thunder boss on Raid Finder difficulty can now be won from a bonus roll, in addition to the standard bonus roll reward.
+Darkmoon Zeppelin: Several abilities have swapped positions.
+Mechanical Pandaren Dragonling: Several abilities have swapped positions.
+Tiny Twister: The Sandstorm ability has been replaced with Call Lightning.
+Battle Pet Abilities
+Battle Pet abilities with a component that increases in damage every time it hits will no longer reset when an opponent's pet gets swapped. (Arcane Blast, Frog Kiss, etc.)
+Accuracy now affects the entire team.
+Call Lightning's duration has been reduced to 5 rounds (down from 9 rounds), and cooldown has been increased to 5 rounds (up from 3 rounds).
+Dark Simulacrum has been replaced with a new ability, Rot. Rot deals Undead damage and temporarily turns the enemy pet's type into Undead.
+Death Grip cooldown increased to 4 rounds (up from 3 rounds), damage has been reduced by 50%, and hit chance has been reduced to match similar abilities.
+Nether Gate damage has been reduced by 33%.
+Sandstorm's duration has been reduced to 5 rounds (down from 9 rounds), and cooldown has been increased to 5 rounds (up from 3 rounds).
+Sweep damage has been reduced by 33%.
+Trihorn Charge damage has been reduced by 11.5% and now has a 1-round cooldown.
+Trihorn Shield now displays the correct amount of damage reduction.
+Patchnotes-icon-raids dungeons and scenarios Raids, Dungeons, and Scenarios 
+Raids
+The chance for awarding loot from kills or bonus rolls has been increased for Mogu'shan Vaults, Heart of Fear, Terrace of Endless Spring, and Throne of Thunder on Raid Finder difficulty.
+The chance for awarding loot from using a bonus roll has been increased for Throne of Thunder on Normal difficulty.
+All enemies in Throne of Thunder now have a debuff called Shado-Pan Onslaught, which reduces their health and damage by 20%.
+Fixed an issue where cr for the achievement You Said Crossing the Streams Was Bad was not being awarded to players who are dead or in Spirit of Redemption form.
+Dungeons
+Players who obtain a realm-best time in a Challenge Mode dungeon (group must contain at least 3 people from the same realm to qualify) will receive a temporary title specific to each dungeon (e.g. Siegebreaker for Siege of Niuzao temple, Darkmaster for Scholomance, etc.). This title will persist for as long as a player retains the top time on the realm. Holding a realm-best time at any point will also confer a permanent Feat of Strength to record the accomplishment.
+Scenarios
+Heroic Scenarios no longer have a minimum item level requirement to enter.
+Patchnotes-icon-pvp PvP 
+Base Resilience now reduces damage players deal to others players by 72% (up from 65%).
+Battle Fatigue now reduces healing for players that are engaged in PvP combat by 55% (up from 45%).
+Season 14 Grievous gear is now available.
+Elite versions of Season 14 Grievous are now available as a mark of prestige for players that are able to attain a personal rating of 2000 and earn 27,000 Conquest Points in the current season. Pricing per piece remains the same but the previous piece requirement has been removed.
+Season 13 Tyrannical gear can now be purchased with Honor Points.
+Season 12 Malevolent gear can now be crafted.
+Equipping any pair of PvP trinkets from Season 12 or later will now grant a 10% reduction in damage taken from other players.
+Patchnotes-icon-battlegrounds Battlegrounds and Arenas 
+All non-gladiator gear in Battlegrounds, Rated Battlegrounds, and Arenas will be scaled down to an item level ceiling of 496.
+Grievous Gladiator gear is exempt from this item level ceiling.
+The item level ceiling will increase at a rate of 1 item level point per week until it reaches a maximum of 512.
+Battlegrounds
+Conquest Point rewards for winning a random or call-to-arms Battleground match has been increased.
+First win of the day now awards 150 Conquest Points (up from 100).
+Subsequent wins now awards 75 Conquest Points (up from 50).
+Strand of the Ancients
+Bombs are no longer an item held in the player's inventory and will now do considerably more damage, 4500 (up from 1250).
+Players carrying a bomb now have a button that allows them to place it with a spell effect over their heads.
+Placing a bomb takes 2 seconds, and can be interrupted like a Battleground capture point.
+Disarming a bomb takes 2 seconds, and can be interrupted like a Battleground capture point.
+Demolishers will no longer have the Ram ability and only one will spawn at each stage.
+Arenas
+For Arena matches lasting longer than 15 minutes, one of the teams will receive a buff called "The Crowd Chose You" that increases damage, critical strike chance, stealth detection, and reduces damage taken. The buff is awarded based on the following criteria.
+Team with the largest number of players alive.
+Team that brought an enemy player closest to death (lowest health).
+Arena Rating scaling in the 2v2 bracket has been tuned to be consistent with the 3v3 bracket.
+Patchnotes-icon-professions Professions 
+Archaeology
+Mantid Artifact Sonic Locator no longer randomizes digsites when acquired, and is more difficult to obtain. They can now only be purchased as part of a Mantid Artifact Hunter’s Kit, which includes a Lorewalker’s Map.
+Blacksmithing
+New Raid and PvP blacksmithing plans have been added. These new plans can be researched by crafting Balanced Trillium Ingots, allowing the blacksmith to learn a random new plan.
+Plans for Balanced Trillium Ingot could be found as a drop from creatures in Pandaria.
+Cooking
+A number of new cooking recipes have been added, including new foods that give +300 to a primary stat and noodle carts. Some of these new recipes can be learned from drops in the Vale of Eternal Blossoms, others from quests.
+Players who have learned the first recipe in each of “the ways” can discover a questline that starts on the Timeless Isle: “Noodle Secrets Long Forgotten.” Heroes will search for a long-lost pandaren recipe allowing them to build and run their own noodle cart. The all-new questline will revisit some old zones and dungeons, culminating in a solo scenario with a unique time-management mini-game.
+The noodle cart allows a player to set themselves up as a vendor and distribute powerful noodle soups to their faction.
+Enchanting
+Items formerly obtained with Valor Points that now cost Justice Points will now disenchant into Sha Crystal Fragments, a new Enchanting reagent.
+Multiple Sha Crystal Fragments can be combined into a a Sha Crystal.
+Engineering
+Engineers that are able to acquire Chief Engineer Jard’s Journal can learn to craft Jard's Peculiar Energy Source; a new material used in a number of new engineering schematics. The journal can be obtained as a drop from creatures in Pandaria.
+Blingtron 4000 Gift Packages now has a chance to contain Lil’ Bling, a companion pet.
+Fishing
+With the lakes and rivers in the Vale of Eternal Blossoms drained of water, the Cloud Serpents carried little buckets of Jewel Danio and relocated them to the Timeless Isle so they can thrive once more.
+Inscription
+Many new glyph techniques have been added, and some existing glyphs have been changed. Some of the new techniques can be obtained from creatures anywhere in Pandaria, while others can only be found on powerful creatures that reside on the Timeless Isle.
+A new technique to create Crafted Malevolent Gladiator’s Medallion of Tenacity can be found as a world drop
+Leatherworking
+New Raid and PvP leatherworking patterns have been added. These new patterns can be researched by crafting Hardened Magnificent Hide, allowing the leatherworker to learn a random new pattern.
+Patterns for Hardened Magnificent Hide could be found as a drop from creatures in Pandaria.
+Leatherworkers can find a pattern to craft Drums of Rage as a drop from creatures in Pandaria. The drums can be used by anyone to give their raid a minor bloodlust-like effect.
+Tailoring
+New Raid and PvP tailoring patterns have been added. These new patterns can be researched by crafting Celestial Cloth, allowing the tailor to learn a random new pattern.
+Patterns for Celestial Cloth could be found as a drop from creatures in Pandaria.
+Patchnotes-icon-items Items 
+All permanent item enhancements provided by Enchanting, Engineering, Leatherworking, Tailoring, and various vendors and quests are now able to be applied to items of any level. This means all enchantments can now be applied to heirloom items.
+High level enhancements applied to items equipped by low level players have their power scaled down to be similar to enhancements intended for that level range.
+Low level enhancements applied to items equipped by high level players do not grow further in power beyond their intended level range.
+Adjustments have been made to Mists of Pandaria faction quartermasters.
+Epic quality (purple) Valor items sold by the Shado-Pan Assault now have their reputation requirements reduced to Friendly or below, and have their Valor Point cost reduced by 34%.
+Epic quality (purple) Valor items sold by all other Mists of Pandaria faction quartermasters no longer have reputation requirements, and will now cost Justice Points instead of Valor.
+Rare quality (blue) items have their Justice Point cost reduced by 75%.
+No changes for items that require an Exalted reputation.
+Drinking a duplicate flask with less than 15 minutes remaining will now extend the duration of the new flask by that amount.
+The conversion rate for Justice Points to Honor Points have changed. The conversion rate is now 500 Justice per 250 Honor (up from 375 Justice per 250 Honor).
+Trinket, enchant, set bonus, and legendary meta-gem effects whose triggered effect benefits from haste no longer also have their chance to trigger the benefit from haste. Activation chances and internal cooldowns for those effects and other trinket effects have been adjusted to compensate and will now be displayed on their tooltip.
+Capacitive Primal Diamond, and Legendary melee cloaks (Fen-Yu, Fury of Xuen, and Gong-Lu, Strength of Xuen) now have a 40% reduced chance to activate its effects for characters that are in a tanking specialization.
+Indomitable Primal Diamond's effect now grants a 20% damage reduction to all damage taken (up from only physical damage), and its activation rate has been doubled.
+Patchnotes-icon-ui UI 
+The vestigial Use Hardware sound option has been removed.
+Patchnotes-icon-bug fixes Bug Fixes 
+Included in sub-sections above.

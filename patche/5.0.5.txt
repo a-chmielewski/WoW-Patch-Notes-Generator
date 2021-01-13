@@ -1,0 +1,33 @@
+Classes 
+Many tooltips have been corrected to account for recent class balance adjustments.
+Druid
+The 25% speed increase granted by Cat Form should no longer stack with the speed increase of Dash.
+Hunter
+All hunter aspects have been removed from the global cooldown, and they again share a 1 second category cooldown
+Paladin
+Holy Shock’s base damage has been reduced, and its spellpower coefficient has been increased.
+Warlock
+Havoc’s cooldown has been reduced from 45 to 25 seconds.
+The missile effect of Chaos Wave should no longer display erratically when cast on a moving target.
+Bug Fixes 
+Well of Eternity
+The spell graphic for Arcane Bomb during the Queen Azshara encounter has been reduced to a reasonable size.
+Ulduar
+The Silence and Pacify effects from Conservator's Grip are now removed from players once they step within the appropriate area radius of a Healthy Spore mushroom.
+Dragon Soul
+Player pets should no longer experience pathing issues when attacking Deathwing's Arm Tentacles.
+Congealing Bloods now move at slower base speed.
+Master Looters can again assign loot to players in other groups within a raid.
+The Refer-A-Friend Summon should again function as expected.
+Worgen players on pre-Cataclysm accounts should be able to accept and complete all Gilneas quests.
+Players should again be able to teleport out of the Firelands Hatchery in Hyjal if they have completed Aessina's Miracle.
+Players should be able to use the new Fishing spell where appropriate.
+Crossing coalesced zone boundaries should not duplicate profession recipes.
+Players should no longer inappropriately receive the "Requires master riding skill" or "Requires artisan riding skill" errors when attempting to mount certain mounts.
+Items in the Auction House UI should no longer display in reverse order when sorted.
+The PvP node capture bar should be back in expected locations such as Wintergrasp, Tol Barad and Venture Bay.
+Players should no longer be placed into battlegrounds that they have downvoted while queueing for a Random battleground.
+Flying over Wintergrasp when no battle is active should no longer cause a forced dismount.
+Accepting a quest that flags you for PvP combat should no longer prevent you from accepting further quests.
+Resolved a Mac issue related to CPU usage.
+As he deserves, Crithto should now be attackable by both Alliance and Horde players.

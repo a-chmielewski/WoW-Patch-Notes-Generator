@@ -1,0 +1,90 @@
+New Features 
+A Scaling World 
+Every zone in Kalimdor, Eastern Kingdoms, Outland, Northrend, Pandaria, and Draenor now use the level scaling system introduced in Legion. This new scaling system greatly increases the amount of options you have when deciding where to quest and when to move on to the next zone.
+
+All corresponding dungeons and the rewards therein now scale as well.
+
+Ulduar Timewalking 
+A long-forgotten evil has awakened once more. Travel back in time with 10-30 other adventurers to cleanse Ulduar of Yogg-Saron's evil influence. While you journey through this memorable Wrath of the Lich King raid, your character will be scaled to player level 80.
+
+Your fate is sealed. The end of days is finally upon you and ALL who inhabit this miserable little seedling. Uulwi ifis halahs gag erh'ongg w'ssh.
+
+Silithus: The Wound 
+Players who have completed Antorus, The Burning Throne will be summoned to your capital cities, from which you'll travel to Silithus to investigate the strange events surrounding the impact of Sargeras' blade. Look for this new questline upon logging in.
+
+New Battleground: Seething Shore 
+The Alliance and the Horde fight over a precious new resource, Azerite, in this new 10v10 battleground. Seething Shore is a king of the hill battleground where the first faction to collect ten pieces of Azerite from randomly spawned nodes, wins.
+
+The Seething Shore will become available as the story in Silithus unfolds.
+
+Updated Features 
+Legendary Items 
+Arcanomancer Vridiel's hard work has paid off, and he now offers a token that transforms into a random Legion legendary for your specialization, for 1000 Wakening Essences. Activities now award six times as many Wakening Essences as before, and you can also continue to come to Vridiel to upgrade the Legion legendary items you already have for the cost of 300 Wakening Essences.
+
+Mythic Keystone Dungeons 
+Combat resurrections mechanics in Mythic Keystone dungeons now closely mirror how they function in a raid encounter. When you start a Mythic Keystone dungeon, you will begin with one charge, and accumulate additional charges every 10 minutes. All combat resurrection spells now share a single pool of charges to a maximum of 5 charges.
+
+Holidays 
+Holiday dungeons are now available to all players starting at level 20. Items that drop from these dungeons will scale to your current level. In addition, keep an eye out for new items in many upcoming holidays, such as new Lunar Festival hats and a sturdier Sturdy Love Fool. S.E.L.F.I.E
+
+Self-oriented photographers rejoice! Your S.E.L.F.I.E. camera is now easier to obtain, and it has new background filters. Selfie Cam Mark I is available at level 15 in Stormwind or Orgrimmar via a quest, and you can upgrade to the Mark II Selfie Cam after completing a new level 30 group quest.
+
+We've also added the following backgrounds, but you'll have to figure out how to unlock them.
+
+Argus in the Sky
+Twilight Sky
+Sha Sky
+Firelands Sky
+Frostmourne Sky
+Changes 
+Achievements 
+With the update to Ulduar difficulty, the following changes have been made to Achievements that are obtainable in Ulduar:
+All existing 10-player and 25-player Ulduar Achievements have been moved to the Legacy -> Raids tab.
+New Achievements have been added to the Dungeons & Raids -> Lich King Raid tab. Anyone who earned either the 10- or 25-player versions of these Achievements should receive the new Achievement upon logging in.
+The new Glory of the Ulduar Raider Achievement should now award both the Rusted Proto-Drake and the Ironbound Proto-Drake mounts.
+Classes 
+Touch of the Grave (Undead Racial) damage increased by 25% for Undead Death Knights, Hunters, Monks, Rogues, and Warriors.
+Hunter
+Beast Mastery
+Cobra Shot (Rank 1) damage reduced by 50%, and cost increased to 50 Focus (was 40).
+Cobra Shot (Rank 2), learned at level 3, reduces cost by 10 Focus.
+Cobra Shot (Rank 3), learned at level 52, now increases damage by 100%.
+Survival
+Raptor Strike (Rank 1) damage reduced by 29%.
+Raptor Strike (Rank 2), learned at level 52, now increases damage by 40%.
+Monk
+Windwalker
+Blackout Kick now costs 3 Chi (was 1) when it is learned at level 3. The Chi cost is reduced to 2 with an upgrade at Level 12, and reduced to 1 Chi with another upgrade at Level 22.
+Windwalker, Mistweaver
+Rising Sun Kick (Rank 1) damage reduced by 41%.
+Rising Sun Kick (Rank 2), learned at level 36, now increases damage by 70.
+Priest
+Discipline, Holy
+Smite (Rank 1) damage reduced by 33%.
+Smite (Rank 2), learned at level 16, now increases damage by 50%.
+Rogue
+Shroud of Concealment should now properly apply to Hati in addition to your party's Hunter's normal pet.
+Assassination
+Sinister Strike damage increased by 30%.
+Shaman
+Liquid Magma Totem, Healing Stream Totem, and Healing Tide Totem slightly changed to inherit stats properly.
+Warlock
+Affliction
+Shadow Bolt damage increased by 100%.
+Warrior
+Arms
+Mortal Strike (Rank 1) damage reduced by 38%.
+Mortal Strike (Rank 2), learned at level 38, now increases damage by 60%.
+Slam (Rank 1) damage reduced by 38%.
+Slam (Rank 2), learned at level 38, now increases damage by 60%.
+Developers' notes: All damage changes to class abilities listed above are for low-level balance, and are neutral at level 110.
+Dungeons 
+All dungeons now reward Personal Loot.
+Items 
+Uncommon, Rare, and Epic quality items now have the same potential item budget at every item level. Weapon melee (white) damage is now the same for uncommon, rare, and epic weapons at all item levels.
+Developers' notes: This changes the power of lower item level weapons and armor to modern standards; all items above item level 463 have always functioned this way.
+Toys 
+A few toys that cause players other than the caster to take involuntary action (such as the Piccolo of Flaming Fire or Tickle Totem) no longer function on targets outside the instigator's party or raid group. The Neural Silencer is also more effective against several of these toys.
+Fixed a bug that caused player characters to not look into their S.E.L.F.I.E. cameras directly.
+User Interface 
+Accounts protected by an Authenticator and Blizzard SMS Protect gain four extra backpack slots.

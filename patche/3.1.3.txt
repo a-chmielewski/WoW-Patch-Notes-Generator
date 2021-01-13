@@ -1,0 +1,31 @@
+Death Knights 
+Frost Presence: Armor bonus is now 60% down from 80%.
+Druids 
+Improved Barkskin: This talent now also grants 80/160% additional armor while in Travel Form or not shapeshifted.
+Improved Tree of Life: The armor bonus to Tree of Life Form from this talent has been reduced to 67/133/200% bonus armor.
+Hunters 
+Hunter's Mark: The ranged attack power bonus from this ability has been increased from 300 to 500.
+Master Marksman: This talent now also decreases the cost of Aimed Shot and Chimera Shot by 5/10/15/20/25%.
+Paladins 
+Eye for an Eye: This talent now deals 5/10% of the critical strike damage taken by the paladin back at the attacker.
+Hand of Freedom: The base duration of this buff has been reduced from 10 seconds to 6 seconds.
+Rogues 
+Overkill: Talent redesigned. Now increases energy regeneration by 30% while stealthed, and for 20 seconds after breaking stealth.
+Warlocks 
+Chaos Bolt: This spell no longer ignores damage reduction effects of the target.
+Warriors 
+Blood Frenzy: This talent now provides 5/10% haste instead of 3/6%.
+Bloodthirst: Cooldown reduced from 5 seconds to 4 seconds, and rage cost reduced from 30 rage to 20 rage.
+Juggernaut: This talent now also increases the cooldown on Charge by 5 seconds.
+Items 
+Death Knight PvP Gauntlets: The chance to refresh a Frost Rune when casting Chains of Ice has been removed. When equipped, these gloves now generate 5 additional runic power whenever Chains of Ice is used.
+Dungeons 
+Ulduar 
+Mimiron 
+The flight time of Rocket Strikes has been increased, and Rocket Strikes will try to prefer players at range.
+The Leviathan Mk II component of the V-07-TR-0N will become stunned during Phase 4 when the VX-001 component begins to cast the P3Wx2 Laser Barrage ability.
+Proximity Mines now deal less damage and have a lower duration. A small arming time has also been added so proximity mines will not immediately detonate on creation.
+Bug Fixes 
+Druid Tier 8 Balance Set: The 4-piece bonus no longer has its effect consumed by Starfire casts in progress when it triggers. The chance for the effect to be triggered has been reduced down to 8%, as it was originally inflated to compensate.
+[Ice Layered Barrier]: Upgraded to item level 232. In addition, the stats in the tooltip have been correctly adjusted to 78 spell power, 48 haste rating, 16 mana per 5 seconds, 52 Intellect, and 50 Stamina.
+[Pulsing Spellshield]: The stats listed in the tooltip for this item were incorrect and have been adjusted. This item provides 69 spell power, 34 haste rating, 42 critical strike rating, 45 intellect, and 45 stamina.

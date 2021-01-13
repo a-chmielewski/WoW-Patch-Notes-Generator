@@ -1,0 +1,63 @@
+General 
+Account-wide Achievements, pets, and mounts
+In Patch 5.0.4 and beyond, the majority of your character's Achievements, pets, and mounts will be shared with your other characters. Please read: Bringing Achievements to the Account Level (US), by Greg "Ghostcrawler" Street
+World Event: Attack on Theramore Isle (not available to players)[7]
+Warchief Garrosh, obsessed with assuring the Horde's supremacy over Kalimdor, launches an all-out attack against Jaina's island home of Theramore. Though valiant Alliance defenders rush to repel the sudden onslaught, they'll soon find themselves unprepared for the terrible scope of Garrosh's true plans…
+In the Public Test Realm, we will be testing this event at specified intervals. Keep an eye on our PTR Feedback forum (US) for more details as they become available.
+AOE Looting
+Area of effect looting comes to World of Warcraft with this patch. After killing a group of enemies in close proximity, when you loot one of their corpses, the loot window will include items from all of the nearby corpses for which you have loot rights.
+BattleTag support in World of Warcraft
+Players who have enabled their BattleTag (US) will now be able to:
+See BattleTag friends in your friends list.
+Add and remove BattleTag friends.
+Send BattleTag invites to other players via right-click.
+Cross-Realm Zones
+In some zones, players are now able to form a group with other players from a select pool of realms.
+When a player is in a zone that is set as a “cross-realm zone”, in addition to seeing other players from their native realm, they'll also seamlessly see (and be able to play with) players from other realms.
+Players will always be able to group and quest as they normally would with players from their native realm.
+This functionality will be enabled for a limited number of realms at first, and will be granted to additional realms as we near the release of Mists of Pandaria.
+Classes: General 
+All classes have been updated with a new talent system (US), improved abilities, and spells (accessible throughout levels 1-85). Your character's talents have been reset.
+Many old talents have been converted to specialization abilities.
+Druids now have access to a fourth class specialization: Guardian.
+New spells are now learned automatically. Class trainers are only needed to change talents, glyphs, class specialization, or to utilize the dual specialization feature.
+All characters now take 30% less damage from other players.
+Currency Conversion 
+Valor points have been converted to Justice points, and Conquest points have been converted to Honor points.
+Neither of the resultant currencies (Justice and Honor) have an enforced hard-cap at this time.
+Players are no longer able to earn Valor or Conquest points (bosses drop Justice, and arenas are closed).
+Items formerly purchasable for Valor/Conquest are available for Justice/Honor.
+Items 
+Spell Penetration has been replaced by PvP Power on existing items.
+Head enchants removed
+Enchants that modify the gear in your head slot have been removed (US) from the game. This includes older head enchants of every type.
+Relics, ranged, and thrown items
+The slot in which ranged, relics, and thrown items were previously equipped has been removed. All weapons should now be equipped in the weapon slot.
+Ranged weapons, including wands, have been adjusted to be more powerful.
+Ranged weapons no longer have a minimum range.
+Professions 
+The glyph system has been updated. Many class glyphs have been added, altered, or moved to different glyph types.
+Prime glyphs have been removed.
+Chef's Award and Dalaran Cooking Award have been removed. Existing awards have been converted to Epicurean's Award.
+Quests 
+The cap for daily quests has been removed.
+There is no longer a displayed count of daily quests completed.
+User Interface 
+There is a new user interface for your mounts and pets.
+Character creation screens have been updated.
+Buffs have been consolidated in the UI.
+New roll results frame added. This new feature can be accessed by clicking the word "[Loot]" in chat, or by typing "/loot".
+The PvE queue frames have been unified. You can now queue for dungeons, raids, and other queue-able content in one handy place.
+Vendors now offer item filtering.
+Spellbooks have been updated to reflect changes to core abilities, and now include a brief overview of specializations.
+The Dungeon Journal has been expanded with information on all pre-Cataclysm encounters.
+A new help system has been added to many frames. You can toggle this on and off by clicking the "i" button in the upper left corner of the frame.
+Mac 
+Mac OS X 10.5 is no longer supported.
+Added full support for Retina displays.
+Added support for game resolutions that match Mac screen aspect ratios.
+Switching between Windowed and Fullscreen display modes should be faster.
+A “Help” menu has been added, so that players can quickly navigate to support pages.
+A menu item that allows players to copy system information to the Clipboard has been added.
+A menu item that reveals various game files and folders in Finder has been added.
+A menu item that reveals various game files and folders in Finder has been added.

@@ -1,0 +1,208 @@
+Disturbance at the Great Trees 
+Something is amiss in the Emerald Dream. Immense dragons with the shimmering emerald scales of the Green Dragonflight have been sighted guarding the portals at the Great Trees... but these once-noble creatures crawl with a new, strange menace, not the peace for which Ysera is known. Bring many allies should you dare to confront them; their powers are formidable and they will not hesitate to crush any who draw near.
+The Stirring of the Silithid 
+The arid sands of Silithus are shifting. Something is awakening beyond the wall to the south... Aid the Druids of the Cenarion Circle as they delve into the mysteries of the desert. Seek answers behind the Twilight Hammer's presence. Discover more about the alien creatures known as the Silithid as you explore their hives. Many new endeavors await the high-level adventurer!
+Hallow's End 
+When the decorations of Hallow's End light up Azeroth's cities, you know there's mischief afoot! Seek special vendors in Orgrimmar or Ironforge and get your hands on treats! Aid a sick orphan in a little trick-or-treating! Darkcaller Yanka, attending the Forsaken's Wickerman Festival, and Sergeant Hartman of Southshore are seeking your aid in keeping the enemy out of their holiday affairs -- are you up to the challenge?
+Details 
+General 
+Instant Attacks
+The mechanics of most instant melee attacks have been modified to improve item balance. Previously, instant melee attacks did damage based on the damage range of the weapon, plus a bonus for the player's attack power. This bonus was then multiplied by the speed of the weapon. As a result, slow weapons did more damage than was intended, and fast weapons were considered inferior by most players. We have changed the way the attack power bonus is calculated for instant attacks. This change does NOT affect attack power calculations for normal melee attacks. Instead of multiplying by the speed of the weapon, the attack power bonus is now multiplied by a fixed number pulled from the following table:
+Two-handed weapons: 3.3
+Daggers: 1.7
+All other one-handed weapons: 2.4
+As a direct result of this, many weapons have shifted position in their relative power. In particular, many Epic (purple) quality items are now more powerful than slower Superior (blue) weapons.
+This change was not made to reduce the power of instant attacks, but to correct the relative imbalance of weapon itemization. At a given level requirement, epic quality weapons should always be more powerful than superior quality weapons.
+Please also note that all normal weapon swings will be completely unaffected by this change. The following abilities are affected by the design change: Sinister Strike, Ambush, Backstab, Whirlwind, Mortal Strike, and Overpower.
+The cost per point of durability to repair plate, chain, and leather items has been reduced to be equal to the cost of repairing cloth items of the same quality.
+You can now repurchase up to 12 items that you have sold to a vendor. There is now a buyback tab on all merchants that you can select to repurchase the last 12 items you sold since you last logged in. When your character leaves the game or zones to a different area, this list of items will be cleared, so if you have accidentally sold something, don't wait to buy it back. Buy it back immediately.
+Perception (Human Racial) is now usable while stealthed.
+Guardians and pets in aggressive mode no longer attack civilians.
+There is now a spell effect when you increase your reputation to a new level.
+Channeled spells that are cancelled by movement can no longer be cast while moving.
+Pets no longer break off attacks when their target is affected by Warlock Fear.
+The "Knockout" mechanic has been renamed "Disorient" and all tooltips that referenced this mechanic should be updated.
+PvP 
+Honor system
+The percentage of players that may reach ranks 6 through 14 has been increased.
+Lower-level players should advance in the Honor System more quickly than they had previously (although this change does not affect the highest ranks they can achieve).
+Battlegrounds
+Each Battleground has an individual turn-in quest associated with its related victory/loss condition. Upon completion of a Battleground, the winning side will be awarded three Marks of Honor while the losing side will be awarded one Mark of Honor. Three Marks of Honor may be turned in to the associated questgiver for Honor points and faction increase. Should players complete this turn-in quest, they will find that the bonus Honor Points for completion are twice that of normal turn-in conditions (individual).
+Players of levels 10 - 19 will now be able to participate in the battle for Warsong Gulch.
+Alterac Valley has received an overhaul:
+In order to keep teams in Alterac Valley more numerically balanced, players will now enter Alterac Valley on a one-for-one basis (i.e. if there are 30 players in the battleground for each side with 10 players in the Alliance queue and 2 players in the Horde queue, only two players from each team will be added, bringing the total to 32 per side).
+The minimum number of players required to start a battle in Alterac Valley has been lowered to 20 (the maximum is still 40).
+Points for completing the map and winning have been slightly decreased.
+Graveyards and graveyard capture points are now at different locations. The banners players must interact with in order to capture a graveyard have been distanced from each other somewhat in order to alleviate "graveyard zerging" and make graveyards more meaningful to both defense and offense.
+Several terrain changes were made to fix some geometry exploits as well as to adjust for the new graveyard mechanic.
+Iceblood Graveyard has been fortified.
+The Frostwolf Relief Hut now has appropriate guards.
+A great avalanche has closed off both the eastern and western segments of Alterac Valley. This has displaced the Syndicate, the Wildpaw Gnolls, and many of the Winterax Trolls.
+Due to the avalanche, Korrak the Bloodrager and a small band of surviving Trolls have made the Snowfall Graveyard their new home. Players will find that Snowfall is now under Korrak's control and they must defeat Korrak and his Troll guards if they wish to take Snowfall.
+The quests Korrak the Bloodrager (Alliance), Korrak the Everliving (Alliance), The Legend of Korrak (Horde), and The Return of Korrak (Horde) have been removed from the game. The rewards for the initial quest involving Korrak have been moved and can be acquired by completing the quest associated with winning a match in Alterac Valley. We realize that some players may have had the Korrak quest and never completed it. These players may have already completed the quest for killing the General and thus might not be able to benefit from the rewards from the previous quest line. We have opted to add an extra quest step at the end of the General kill quests to reward players that fall under such conditions.
+A new item has been added as one of the reward choices for the quests Hero of the Stormpike and Hero of the Frostwolf.
+NPC difficulty has been scaled down. All NPCs have had their power reduced by 15-30%.
+There is now a portcullis at the end of each of the entrance tunnels inside Alterac Valley. They will rise two minutes into the battle.
+The PvP Tier2 Alliance and Horde Cloth armor sets have new updated textures.
+Hunter traps no longer affect opposing players when the hunter is not flagged for PvP.
+Druids 
+Due to significant talent changes, talent points for Druids have been refunded and can be respent. Training costs for all talent spell/ability replacements have been significantly reduced.
+Hurricane - No longer a talent. Now available to all Druids at level 40. Damage and Mana cost increased on all ranks. Spell is now cast on a targeted area up to 30 yards away and affected by Nature's Reach. Multiple Druids casting Hurricane will no longer stack the slowdown effect. Radius of effect decreased slightly.
+Remove Curse - Updated tooltip to reflect that it's usable on friendly targets only.
+Shapeshifting - Fixed a bug where the Chilled effect caused by Ice Armor/Frost Armor was not removed properly when shapeshifting.
+Swipe - Self cooldown removed.
+Tranquility - Cooldown reduced to 5 minutes. Mana cost reduced by 25%.
+Cat Form - The attack power bonus from the base cat form will now calculate correctly on zoning or logging in.
+Hunters 
+Counterattack - Now properly sets its cooldown.
+Throw - Use of this ability will no longer cause a global cooldown with all other abilities.
+Auto-shot is now cancelled when you die.
+Added Lightning Breath pet ability for Wind Serpents. This ability instantly hits a single target for Nature damage at medium range.
+Mages 
+Arcane Missiles - Should now properly report the correct "out of range" indicator on the action bar.
+Paladins 
+Judgement of Light and Judgement of Wisdom will now benefit players that are immune to Holy effects (e.g. Divine Shield).
+Priests 
+Psychic Scream - Updated tooltip to reflect that damage caused to the feared target may break the effect. Included radius in tooltip.
+Devouring Plague (Undead) - Will now properly consume the Inner Focus effect when cast.
+Shadowguard (Troll) - Tooltip updated to reflect actual functionality.
+Elune's Grace (Night Elf) - New icon.
+Rogues 
+Vanish - Fixed a bug where the Chilled effect caused by Ice Armor/Frost Armor was not removed properly when vanishing.
+Parry - Minimum level to train this ability has been lowered to 12.
+Shoot Bow/Crossbow/Gun - Fixed a bug where these abilities could be used faster than intended.
+Throw - Use of this ability will now only cause a cooldown with Shoot abilities.
+Ambush - Now uses normalized attack power.
+Backstab - Now uses normalized attack power.
+Riposte - Now properly sets its cooldown.
+Sinister Strike - Now uses normalized attack power.
+Shaman 
+Lightning Shield - Tooltip updated to reflect actual functionality.
+Ghost Wolf - Will now correctly have its cast time reduced by Nature's Swiftness.
+Warlocks 
+Death Coil - Cooldown reduced, mana cost increased, and now causes a short Fear effect that is not diminished.
+Corruption - Duration reduced and damage per tick increased. Total damage over duration approximately identical.
+Curse of Agony - Duration reduced to 24 seconds and damage per tick increased. Total damage over duration approximately identical.
+Conflagrate - Conflagrate will now correctly remove Immolate rank 4 from its victim when cast.
+Bane - Now reduces casting time of the Soul Fire spell in addition to Immolate and Shadow Bolt.
+Intensity - Now reduces chance to be interrupted during cast time of Rain of Fire, Hellfire and Soul Fire spells.
+Pyroclasm - Now gives a chance to stun when Rain of Fire, Hellfire, and Soul Fire spells damage the target.
+Soul Link - Percentage of damage split with pet has been reduced.
+Soul Link - Is now a spell cast on your pet that gives an aura to both you and the pet. This aura increases all damage caused by you and your pet by 3% and splits 30% of all damage taken by the caster to the pet. The aura will last as long as the pet is active, and the pet must be the target of a dispel effect in order to dispel this ability.
+Summon Felhunter - Has a new, unique sound effect.
+Lesser Invisibility (Succubus) - Tooltip updated to reflect actual functionality.
+Fixed a bug that would cause the Master Demonologist buff to be removed if the pet was banished.
+Warriors 
+Concussion Blow - Will now initiate combat when used.
+Shoot Bow/Crossbow/Gun - Fixed a bug where these abilities could be used faster than intended.
+Throw - Use of this ability will now only cause a cooldown with Shoot abilities.
+Mortal Strike - Now uses normalized attack power.
+Overpower - Now uses normalized attack power.
+Whirlwind - Now uses normalized attack power.
+Warriors can immediately Intercept after using trinkets to remove immobilizing effects.
+Camera angles when using Charge should be improved.
+Items 
+Items which provide +hit chance will now be allowed to counteract the increased miss chance penalty of dual-wielding.
+The 5-piece set bonus for the Warrior's Wrath set now works with Whirlwind.
+The 5-piece set bonus for the Druid's Stormrage set now properly displays the reduction in casting time.
+The Cenarion Druid set bonus that improves Thorns damage now properly works when Thorns is cast on other players.
+Anathema, Benediction, Thunderstrike, and Shadowstrike will now remember the enchantments and durability data they possessed when they transform.
+The ability to transform Rhok'delar and Lok'delar has been removed, but you can talk to Vartrus the Ancient to receive the item you currently don't possess.
+The Drape of Benediction had the statistics and effects of a Superior quality item, but was an Epic item. The item has been improved to have the proper Epic stats.
+The effect of the Admiral's Hat has been changed. You can now click the Admiral's Hat to provide yourself with an aura that gives you and your nearby party members a stamina increase. Taking the hat off will remove the effect. The Headmaster's Charge item has also been changed in a similar manner.
+The Thunderfury effect's spell damage will no longer be increased by other item effects.
+Shard of the Flame and Shard of the Scale are now unique.
+The Resurgence Rod now heals more health over time.
+The Puncture Armor ability found on the Rivenspike, Bashguuder, Digmaster 5000, and Vibroblade will no longer stack with Faerie Fire.
+Chromatic Gauntlets no longer has a listed Holy Resistance bonus, since there is no actual Holy Resistance.
+Ring of Binding and Blade of Eternal Darkness now have appropriate minimum levels.
+Demonic Rune has been changed to a Good (green) item so it will display the bind on pickup dialogue when looted.
+Invulnerability will no longer protect you from a Demonic Rune.
+Deviate Fish changed to appear in the Trade Goods section of the Auction House.
+Jadefire Pants texture fixed.
+The icon for Flash Powder has been changed.
+Shredder Operating Manual pages will no longer drop for the Alliance.
+Gurubashi Helm now properly hides long hair.
+The Sheen of Zanza has a tooltip typo fixed.
+Professions 
+There are now Alchemy Labs that are needed by alchemists to make flasks inside of Blackwing Lair.
+There is now Silithid armor that can be made by leatherworkers. The recipes require Cenarion Circle faction to learn.
+Additional Tailoring and Blacksmithing recipes can be found in encoded messages found on the members of the Twilight's Hammer in Silithus.
+Two additional pieces of Dragonscale Leatherworking were added to the Dragonscale Leatherworking Trainer.
+A Dragonscale Recipe has been added that requires killing the great Green Dragons.
+The Blue, Green, and Black Dragonscale Leatherworking Armor pieces are now parts of sets and have set bonuses so they should be significantly more desirable.
+Green Dragonscale Armor has slightly reduced spirit and now has a stamina component.
+Ironfeather Armor set bonus has been improved.
+Leatherworking item Murloc Scale Belt improved.
+Leatherworking pattern for Black Whelp Tunic added to vendor in Redridge Mountains.
+All Wild Leather patterns for Leatherworking are now bind on acquire.
+All Wild Leather patterns for Leatherworking no longer have cash value with vendors.
+Enchanter-made wands are now Good (green) quality and have had their damage increased.
+The minimum level for the Artisan First Aid, Artisan Fishing, and Artisan Cooking quest lines has been lowered to 35.
+Water Breathing potions will no longer be overwritten by Shaman and Warlock Water Breathing spells if the potion has a longer duration.
+The Pet Healing effect of the Robe of the Void has been improved.
+Expert Alchemy requires 125 skill now instead of 100 skill.
+Free Action Potion text changed to clearly indicate that the potion is not retroactive. No actual change was made other than the text.
+Gnomish Mind Control Cap - Is now subject to diminishing returns in the Charm category.
+Blindweed has been increased in size, making it easier to see.
+Quests 
+Added level 50 class quests for the Warrior, Shaman, Paladin, and Warlock. Trainers in the major cities will let you know where to start your quest.
+A few new quests have been added in Tanaris. Head over to Steamwheedle Port to see if you can help out.
+The Rin'ji's Secret quest line now has an ending and reward. If you previously finished the Rin'ji's Secret quest out of The Hinterlands, speak with Oran Snakewrithe in the Magic Quarter of the Undercity and select the Oran's Gratitude quest.
+The following repeatable quests have had their levels increased to 55: Morrowgrain to Darnassus, Morrowgrain to Feathermoon Stronghold, and Morrowgrain to Thunder Bluff. The net result of this change is that level 56+ characters will notice an increased amount of reputation when turning in Morrowgrain.
+The Thistlewood Axe will no longer be an available option as a quest reward for the Webwood Venom quest.
+The level 30 Mage class quest rewards are now Superior (blue) quality.
+Raids and Dungeons 
+Azuregos is now properly resistant to Frost damage.
+Zul'Gurub
+Reduced the damage of the Mad Servant's fireball
+Reduced the number of Mad Voidwalkers that are summoned from the death of a Mad Servant from three to two.
+High Priestess Mar'li will now despawn her summoned spiders when she returns from combat.
+Slowed the rate at which High Priestess Arlokk's panthers spawn
+Fixed a bug that would prevent High Priestess Jeklik from summoning Frenzied Bloodseeker Bats.
+Fixed a bug that would allow Hakkar's Corrupted Blood ability to target pets.
+Blackwing Lair
+Razorgore now has the ability to summon players to him if he cannot reach them for a time.
+If you are in front of Chromaggus and can hit him with spells, his breath attack will hit you.
+There is no longer a one-hour time restriction on the Vaelastraz the Corrupt encounter in Blackwing Lair.
+Fixed erratic taunt behavior for Ebonroc, Firemaw, and Flamegor.
+Fixed a bug that was causing Broodlord Lashlayer to do less damage than intended with his Mortal Strike.
+Fixed a bug that caused the debuff "Burning Adrenaline" to be removed if enough other debuffs were applied to the target.
+Molten Core
+You now receive Core Leather when you skin Magmadar.
+User Interface 
+To speed up game loading and reduce memory usage, several portions of the UI have been converted to add-ons. These are completely transparent to the player, but custom add-ons may need to be updated.
+You can now search for random suffixes such as "of the Monkey" in the Auction House.
+Items that are in your action bar and are equipped will now display a green border around them so it's easy to tell which of your action bar items are equipped and therefore usable.
+The Reputation tab will now display on mouseover exactly how many reputation points you need to attain the next reputation level with that faction.
+When you gain reputation, the combat log message will now display the numeric value of how much reputation you gained as well as the previous relative message.
+There is now an option in the interface window to put a translucent pane behind the portraits and health/mana of other party members for easier visibility.
+When you place an auction up on the Auction House, the auctions tab now displays your minimum bid and buyout price even if there are no bids on the item.
+Players should no longer miss loot rolling messages when they're outside of the immediate area.
+World Environment 
+Latency upon entering crowded areas, such as Ironforge and Orgrimmar, should be substantially reduced.
+The flight paths in Silithus have been moved from Valor's Rest to the new Cenarion Hold. Characters that previously discovered the Valor's Rest flight path will be treated as having discovered the Cenarion Hold flight path.
+A neutral graveyard has been added to Silithus at Cenarion Hold. With the addition of this graveyard, characters dying in Silithus will be sent to whichever graveyard they are closer to when they die: Valor's Rest or Cenarion Hold.
+Flamekin Imps (Ragers, Spitters and Sprites) in the Burning Steppes now drop Elemental Fire.
+A new weapon merchant who can also repair durability damage on items has moved in to Talonbranch Glade in Felwood.
+The Silithus area map has been modified and its scale has changed.
+Tyr's Hand now has the proper outdoor elite monster respawn time.
+Hearthglen now has the proper outdoor elite respawn time.
+A Graveyard has been added to Duskwood at Raven Hill Cemetery.
+A flight path has been added between Stormwind and Morgan's Vigil.
+Modifications were made to several areas of Azeroth so that the undiscovered areas of the map are revealed easier.
+The Woodpaw Hills sub-area of Feralas now properly grants discovery experience when you enter it for the first time.
+Brackenwall Village now has an arrow on the minimap that points to it when you get within range.
+Sayge's buffs at the Darkmoon Faire are now exclusive to one another.
+Due to popular demand the general goods vendor in Undercity now sells Morning Glory Dew.
+All graveyards that needed adjustment were changed so that a character's spirit comes into the world facing toward the Spirit Healer.
+Fixed a bug that caused people to fall out of Blackwing Lair during the Nefarian fight.
+Macs 
+Enhanced the WoW Error Reporter to be able to intercept some types of errors that were not being handled in 1.7.x.
+Eliminated the "r>=0, r=NaN" assertion frequently seen when utilizing third party UI add-ons.
+Bug Fixes 
+Fixed bug where your pet would be both in and out of combat simultaneously when you were dismounted by pursuing creatures.
+You no longer become stuck and unable to loot if you try to open clams and chests while you are a ghost.
+Fixed bug where players would get stuck in the falling animation if they cast an instant-cast spell while jumping.
+Fixed a missile bug that could cause crashes in large battles such as Molten Core, Blackwing Lair, and Arathi Basin.
+Fixed a bug with Win9x where if you started in Windowed mode, the cursor would be stuck and could only be moved from side to side.
